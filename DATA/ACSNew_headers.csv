@@ -1,0 +1,90 @@
+New_header,Old_header
+total:,B01002_001E
+median age male,B01002_002E
+median age female,B01002_003E
+total means of transportation,B08301_001E
+"means of transportation to work: car, truck, or van",B08301_002E
+means of transportation to work: public transportation (excluding taxicab),B08301_010E
+means of transportation to work: taxicab,B08301_016E
+means of transportation to work: motorcycle,B08301_017E
+means of transportation to work: bicycle,B08301_018E
+means of transportation to work: walked,B08301_019E
+means of transportation to work: other means,B08301_020E
+means of transportation to work: worked at home,B08301_021E
+total travel time to work,B08303_001E
+travel time to work: less than 5 minutes,B08303_002E
+travel time to work: 5 to 9 minutes,B08303_003E
+travel time to work: 10 to 14 minutes,B08303_004E
+travel time to work: 15 to 19 minutes,B08303_005E
+travel time to work: 20 to 24 minutes,B08303_006E
+travel time to work: 25 to 29 minutes,B08303_007E
+travel time to work: 30 to 34 minutes,B08303_008E
+travel time to work: 35 to 39 minutes,B08303_009E
+travel time to work: 40 to 44 minutes,B08303_010E
+travel time to work: 45 to 59 minutes,B08303_011E
+travel time to work: 60 to 89 minutes,B08303_012E
+travel time to work: 90 or more minutes,B08303_013E
+own children under 18 years by family type and age,B09002_001E
+total household type,B11001_001E
+household type: married-couple family,B11001_003E
+"household type: male householder, no wife present",B11001_005E
+"household type: female householder, no husband present",B11001_006E
+household type: householder living alone,B11001_008E
+household type: householder not living alone,B11001_009E
+multigenerational households,B11017_002E
+total male over 15years,B12001_002E
+male never married,B12001_003E
+male now married,B12001_004E
+male widowed,B12001_009E
+male divorced,B12001_010E
+total female over 15 years,B12001_011E
+female never married,B12001_012E
+female now married,B12001_013E
+female widowed,B12001_018E
+female divorced,B12001_019E
+median age at first marriage male,B12007_001E
+median age at first marriage female,B12007_002E
+male married last year,B12501_005E
+female married last year,B12501_010E
+male divorced last year,B12503_005E
+female divorced last year,B12503_010E
+median duration of current marriage in years male,B12504_002E
+median duration of current marriage in years female,B12504_006E
+women who had a birth in the past 12 months,B13016_002E
+enrolled in grade 9 to grade 12,B14001_007E
+"enrolled in college, undergraduate years",B14001_008E
+enrolled graduate or professional school,B14001_009E
+male no schooling completed,B15002_003E
+male high school graduate (includes equivalency),B15002_011E
+male bachelor's degree,B15002_015E
+male master's degree,B15002_016E
+male doctorate degree,B15002_018E
+female no schooling completed,B15002_020E
+female high school graduate (includes equivalency),B15002_028E
+female bachelor's degree,B15002_032E
+female master's degree,B15002_033E
+female doctorate degree,B15002_035E
+income in the past 12 months below poverty level,B17020_002E
+income in the past 12 months at or above poverty level,B17020_010E
+total income in the past 12 months,B17001_001E
+total income in the past 12 months at or above poverty level,B17001_031E
+total income in the past 12 months below poverty level,B17001_002E
+median household income in the past 12 months (in 2018 inflation-adjusted dollars),B19013_001E
+household with social security income in the past year,B19055_002E
+household with public assistance income in the past year,B19057_002E
+total household in the past 12 months with/without public assist or stamps,B19058_001E
+household with cash public assistance or food stamps/snap in the past year,B19058_002E
+gini index,B19083_001E
+per capita income in the past 12 months (in 2018 inflation-adjusted dollars),B19301_001E
+mean usual hours worked male,B23020_002E
+mean usual hours worked female,B23020_003E
+total employment status 16 and over,B23025_001E
+employed population 16 years and over,B23025_004E
+housing units,B25001_001E
+housing tenure owner occupied,B25003_002E
+housing tenure renter occupied,B25003_003E
+median number of rooms,B25018_001E
+median contract rent,B25058_001E
+median monthly housing costs,B25105_001E
+no household computer,B28010_007E
+no household internet access,B28011_008E

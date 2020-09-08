@@ -1,0 +1,2987 @@
+state_name,county,Substate,mental_illness_percentage
+Alabama,Cherokee,Region 1,0.1995
+Alabama,Colbert,Region 1,0.1995
+Alabama,Cullman,Region 1,0.1995
+Alabama,De Kalb,Region 1,0.1995
+Alabama,Etowah,Region 1,0.1995
+Alabama,Fayette,Region 1,0.1995
+Alabama,Franklin,Region 1,0.1995
+Alabama,Jackson,Region 1,0.1995
+Alabama,Lamar,Region 1,0.1995
+Alabama,Lauderdale,Region 1,0.1995
+Alabama,Lawrence,Region 1,0.1995
+Alabama,Limestone,Region 1,0.1995
+Alabama,Madison,Region 1,0.1995
+Alabama,Marion,Region 1,0.1995
+Alabama,Marshall,Region 1,0.1995
+Alabama,Morgan,Region 1,0.1995
+Alabama,Walker,Region 1,0.1995
+Alabama,Winston,Region 1,0.1995
+Alabama,Bibb,Region 2,0.2133
+Alabama,Blount,Region 2,0.2133
+Alabama,Calhoun,Region 2,0.2133
+Alabama,Chilton,Region 2,0.2133
+Alabama,Clay,Region 2,0.2133
+Alabama,Cleburne,Region 2,0.2133
+Alabama,Coosa,Region 2,0.2133
+Alabama,Jefferson,Region 2,0.2133
+Alabama,Pickens,Region 2,0.2133
+Alabama,Randolph,Region 2,0.2133
+Alabama,Shelby,Region 2,0.2133
+Alabama,ST CLAIR,Region 2,0.2133
+Alabama,Talladega,Region 2,0.2133
+Alabama,Tuscaloosa,Region 2,0.2133
+Alabama,Autauga,Region 3,0.2087
+Alabama,Bullock,Region 3,0.2087
+Alabama,Chambers,Region 3,0.2087
+Alabama,Choctaw,Region 3,0.2087
+Alabama,Dallas,Region 3,0.2087
+Alabama,Elmore,Region 3,0.2087
+Alabama,Greene,Region 3,0.2087
+Alabama,Hale,Region 3,0.2087
+Alabama,Lee,Region 3,0.2087
+Alabama,Lowndes,Region 3,0.2087
+Alabama,Macon,Region 3,0.2087
+Alabama,Marengo,Region 3,0.2087
+Alabama,Montgomery,Region 3,0.2087
+Alabama,Perry,Region 3,0.2087
+Alabama,Pike,Region 3,0.2087
+Alabama,Russell,Region 3,0.2087
+Alabama,Sumter,Region 3,0.2087
+Alabama,Tallapoosa,Region 3,0.2087
+Alabama,Wilcox,Region 3,0.2087
+Alabama,Baldwin,Region 4,0.2051
+Alabama,Barbour,Region 4,0.2051
+Alabama,Butler,Region 4,0.2051
+Alabama,Clarke,Region 4,0.2051
+Alabama,Coffee,Region 4,0.2051
+Alabama,Conecuh,Region 4,0.2051
+Alabama,Covington,Region 4,0.2051
+Alabama,Crenshaw,Region 4,0.2051
+Alabama,Dale,Region 4,0.2051
+Alabama,Escambia,Region 4,0.2051
+Alabama,Geneva,Region 4,0.2051
+Alabama,Henry,Region 4,0.2051
+Alabama,Houston,Region 4,0.2051
+Alabama,Mobile,Region 4,0.2051
+Alabama,Monroe,Region 4,0.2051
+Alabama,Washington,Region 4,0.2051
+Arizona,Maricopa,Central,0.1834
+Arizona,Apache,North,0.1826
+Arizona,Coconino,North,0.1826
+Arizona,Gila,North,0.1826
+Arizona,Mohave,North,0.1826
+Arizona,Navajo,North,0.1826
+Arizona,Yavapai,North,0.1826
+Arizona,Pima,South A,0.1962
+Arizona,Cochise,South B,0.1808
+Arizona,Graham,South B,0.1808
+Arizona,Greenlee,South B,0.1808
+Arizona,La Paz,South B,0.1808
+Arizona,Pinal,South B,0.1808
+Arizona,Santa Cruz,South B,0.1808
+Arizona,Yuma,South B,0.1808
+Arkansas,Benton,Catchment Area 1,0.2073
+Arkansas,Carroll,Catchment Area 1,0.2073
+Arkansas,Madison,Catchment Area 1,0.2073
+Arkansas,Washington,Catchment Area 1,0.2073
+Arkansas,Baxter,Catchment Area 2,0.2075
+Arkansas,Boone,Catchment Area 2,0.2075
+Arkansas,Cleburne,Catchment Area 2,0.2075
+Arkansas,Fulton,Catchment Area 2,0.2075
+Arkansas,Independence,Catchment Area 2,0.2075
+Arkansas,Izard,Catchment Area 2,0.2075
+Arkansas,Jackson,Catchment Area 2,0.2075
+Arkansas,Marion,Catchment Area 2,0.2075
+Arkansas,Newton,Catchment Area 2,0.2075
+Arkansas,Searcy,Catchment Area 2,0.2075
+Arkansas,Sharp,Catchment Area 2,0.2075
+Arkansas,Stone,Catchment Area 2,0.2075
+Arkansas,Van Buren,Catchment Area 2,0.2075
+Arkansas,White,Catchment Area 2,0.2075
+Arkansas,Woodruff,Catchment Area 2,0.2075
+Arkansas,Clay,Catchment Area 3,0.2118
+Arkansas,Craighead,Catchment Area 3,0.2118
+Arkansas,Crittenden,Catchment Area 3,0.2118
+Arkansas,Cross,Catchment Area 3,0.2118
+Arkansas,Greene,Catchment Area 3,0.2118
+Arkansas,Lawrence,Catchment Area 3,0.2118
+Arkansas,Lee,Catchment Area 3,0.2118
+Arkansas,Mississippi,Catchment Area 3,0.2118
+Arkansas,Monroe,Catchment Area 3,0.2118
+Arkansas,Phillips,Catchment Area 3,0.2118
+Arkansas,Poinsett,Catchment Area 3,0.2118
+Arkansas,Randolph,Catchment Area 3,0.2118
+Arkansas,St. Francis,Catchment Area 3,0.2118
+Arkansas,Crawford,Catchment Area 4,0.2146
+Arkansas,Franklin,Catchment Area 4,0.2146
+Arkansas,Logan,Catchment Area 4,0.2146
+Arkansas,Polk,Catchment Area 4,0.2146
+Arkansas,Scott,Catchment Area 4,0.2146
+Arkansas,Sebastian,Catchment Area 4,0.2146
+Arkansas,Clark,Catchment Area 5,0.2153
+Arkansas,Conway,Catchment Area 5,0.2153
+Arkansas,Faulkner,Catchment Area 5,0.2153
+Arkansas,Garland,Catchment Area 5,0.2153
+Arkansas,Hot Spring,Catchment Area 5,0.2153
+Arkansas,Johnson,Catchment Area 5,0.2153
+Arkansas,Montgomery,Catchment Area 5,0.2153
+Arkansas,Perry,Catchment Area 5,0.2153
+Arkansas,Pike,Catchment Area 5,0.2153
+Arkansas,Pope,Catchment Area 5,0.2153
+Arkansas,Yell,Catchment Area 5,0.2153
+Arkansas,Arkansas,Catchment Area 6,0.1855
+Arkansas,Ashley,Catchment Area 6,0.1855
+Arkansas,Bradley,Catchment Area 6,0.1855
+Arkansas,Chicot,Catchment Area 6,0.1855
+Arkansas,Cleveland,Catchment Area 6,0.1855
+Arkansas,Desha,Catchment Area 6,0.1855
+Arkansas,Drew,Catchment Area 6,0.1855
+Arkansas,Grant,Catchment Area 6,0.1855
+Arkansas,Jefferson,Catchment Area 6,0.1855
+Arkansas,Lincoln,Catchment Area 6,0.1855
+Arkansas,Calhoun,Catchment Area 7,0.1889
+Arkansas,Columbia,Catchment Area 7,0.1889
+Arkansas,Dallas,Catchment Area 7,0.1889
+Arkansas,Hempstead,Catchment Area 7,0.1889
+Arkansas,Howard,Catchment Area 7,0.1889
+Arkansas,Lafayette,Catchment Area 7,0.1889
+Arkansas,Little River,Catchment Area 7,0.1889
+Arkansas,Miller,Catchment Area 7,0.1889
+Arkansas,Nevada,Catchment Area 7,0.1889
+Arkansas,Ouachita,Catchment Area 7,0.1889
+Arkansas,Sevier,Catchment Area 7,0.1889
+Arkansas,Union,Catchment Area 7,0.1889
+Arkansas,Lonoke,Catchment Area 8,0.1947
+Arkansas,Prairie,Catchment Area 8,0.1947
+Arkansas,Pulaski,Catchment Area 8,0.1947
+Arkansas,Saline,Catchment Area 8,0.1947
+California,Butte,Region 1R,0.2149
+California,Colusa,Region 1R,0.2149
+California,Del Norte,Region 1R,0.2149
+California,Glenn,Region 1R,0.2149
+California,Humboldt,Region 1R,0.2149
+California,Lake,Region 1R,0.2149
+California,Lassen,Region 1R,0.2149
+California,Mendocino,Region 1R,0.2149
+California,Modoc,Region 1R,0.2149
+California,Plumas,Region 1R,0.2149
+California,Shasta,Region 1R,0.2149
+California,Sierra,Region 1R,0.2149
+California,Siskiyou,Region 1R,0.2149
+California,Tehama,Region 1R,0.2149
+California,Trinity,Region 1R,0.2149
+California,El Dorado,Region 2R,0.1904
+California,Nevada,Region 2R,0.1904
+California,Placer,Region 2R,0.1904
+California,Sutter,Region 2R,0.1904
+California,Yolo,Region 2R,0.1904
+California,Yuba,Region 2R,0.1904
+California,Sacramento,Region 3R (Sacramento),0.1948
+California,Marin,Region 4R,0.1792
+California,Napa,Region 4R,0.1792
+California,Solano,Region 4R,0.1792
+California,Sonoma,Region 4R,0.1792
+California,San Francisco,Region 5R (San Francisco),0.2093
+California,Santa Clara,Region 6 (Santa Clara),0.1744
+California,Contra Costa,Region 7R (Contra Costa),0.1790
+California,Alameda,Region 8R (Alameda),0.1894
+California,San Mateo,Region 9R (San Mateo),0.1770
+California,Santa Barbara,Region 10,0.1902
+California,Ventura,Region 10,0.1902
+California,Los Angeles,Region 11 (Los Angeles),0.1753
+California,Alpine,Region 12R,0.2041
+California,Amador,Region 12R,0.2041
+California,Calaveras,Region 12R,0.2041
+California,Mono,Region 12R,0.2041
+California,San Joaquin,Region 12R,0.2041
+California,Tuolumne,Region 12R,0.2041
+California,Imperial,Regions 13 and 19R,0.1797
+California,Riverside,Regions 13 and 19R,0.1797
+California,Orange,Region 14 (Orange),0.1693
+California,Fresno,Region 15R (Fresno),0.1969
+California,San Diego,Region 16R (San Diego),0.1836
+California,Inyo,Region 17R,0.1777
+California,Kern,Region 17R,0.1777
+California,Kings,Region 17R,0.1777
+California,Tulare,Region 17R,0.1777
+California,San Bernardino,Region 18R (San Bernardino),0.1757
+California,Madera,Region 20R,0.1922
+California,Mariposa,Region 20R,0.1922
+California,Merced,Region 20R,0.1922
+California,Stanislaus,Region 20R,0.1922
+California,Monterey,Region 21R,0.1893
+California,San Benito,Region 21R,0.1893
+California,San Luis Obispo,Region 21R,0.1893
+California,Santa Cruz,Region 21R,0.1893
+Colorado,Archuleta,Region 1,0.2176
+Colorado,Delta,Region 1,0.2176
+Colorado,Dolores,Region 1,0.2176
+Colorado,Eagle,Region 1,0.2176
+Colorado,Garfield,Region 1,0.2176
+Colorado,Grand,Region 1,0.2176
+Colorado,Gunnison,Region 1,0.2176
+Colorado,Hinsdale,Region 1,0.2176
+Colorado,Jackson,Region 1,0.2176
+Colorado,La Plata,Region 1,0.2176
+Colorado,Larimer,Region 1,0.2176
+Colorado,Mesa,Region 1,0.2176
+Colorado,Moffat,Region 1,0.2176
+Colorado,Montezuma,Region 1,0.2176
+Colorado,Montrose,Region 1,0.2176
+Colorado,Ouray,Region 1,0.2176
+Colorado,Pitkin,Region 1,0.2176
+Colorado,Rio Blanco,Region 1,0.2176
+Colorado,Routt,Region 1,0.2176
+Colorado,San Juan,Region 1,0.2176
+Colorado,San Miguel,Region 1,0.2176
+Colorado,Summit,Region 1,0.2176
+Colorado,Broomfield,Region 2,0.2178
+Colorado,Cheyenne,Region 2,0.2178
+Colorado,Kit Carson,Region 2,0.2178
+Colorado,Lincoln,Region 2,0.2178
+Colorado,Logan,Region 2,0.2178
+Colorado,Morgan,Region 2,0.2178
+Colorado,Phillips,Region 2,0.2178
+Colorado,Sedgwick,Region 2,0.2178
+Colorado,Washington,Region 2,0.2178
+Colorado,Weld,Region 2,0.2178
+Colorado,Yuma,Region 2,0.2178
+Colorado,Adams,Region 3,0.1918
+Colorado,Arapahoe,Region 3,0.1918
+Colorado,Douglas,Region 3,0.1918
+Colorado,Elbert,Region 3,0.1918
+Colorado,Alamosa,Region 4,0.1915
+Colorado,Baca,Region 4,0.1915
+Colorado,Bent,Region 4,0.1915
+Colorado,Chaffee,Region 4,0.1915
+Colorado,Conejos,Region 4,0.1915
+Colorado,Costilla,Region 4,0.1915
+Colorado,Crowley,Region 4,0.1915
+Colorado,Custer,Region 4,0.1915
+Colorado,Fremont,Region 4,0.1915
+Colorado,Huerfano,Region 4,0.1915
+Colorado,Kiowa,Region 4,0.1915
+Colorado,Lake,Region 4,0.1915
+Colorado,Las Animas,Region 4,0.1915
+Colorado,Mineral,Region 4,0.1915
+Colorado,Otero,Region 4,0.1915
+Colorado,Prowers,Region 4,0.1915
+Colorado,Pueblo,Region 4,0.1915
+Colorado,Rio Grande,Region 4,0.1915
+Colorado,Saguache,Region 4,0.1915
+Colorado,Denver,Region 5,0.2276
+Colorado,Boulder,Region 6,0.2182
+Colorado,Clear Creek,Region 6,0.2182
+Colorado,Gilpin,Region 6,0.2182
+Colorado,Jefferson,Region 6,0.2182
+Colorado,El Paso,Region 7,0.2032
+Colorado,Park,Region 7,0.2032
+Colorado,Teller,Region 7,0.2032
+Connecticut,FAIRFIELD,Southwest,0.1857
+Connecticut,HARTFORD,Northwestern,0.1841
+Connecticut,LITCHFIELD,Northwestern,0.1841
+Connecticut,MIDDLESEX,South Central,0.1743
+Connecticut,NEW HAVEN,Northwestern,0.1841
+Connecticut,NEW LONDON,South Central,0.1743
+Connecticut,TOLLAND,Eastern,0.2015
+Connecticut,WINDHAM,Eastern,0.2015
+Delaware,Kent,Kent,0.2003
+Delaware,New Castle,New Castle (excluding Wilmington City),0.1984
+Delaware,Sussex,Sussex,0.1850
+Delaware,Wilmington City,Wilmington City,0.1951
+District of Columbia,District of Columbia,District of Columbia,0.2160
+Florida,Broward,Broward (Circuit 17),0.1544
+Florida,Orange,Circuit 9,0.1767
+Florida,Osceola,Circuit 9,0.1767
+Florida,Brevard,Circuit 18,0.1766
+Florida,Seminole,Circuit 18,0.1766
+Florida,Pasco,Circuit 6,0.1852
+Florida,Pinellas,Circuit 6,0.1852
+Florida,Hardee,Circuit 10,0.1677
+Florida,Highlands,Circuit 10,0.1677
+Florida,Polk,Circuit 10,0.1677
+Florida,De Soto,Circuit 12,0.1699
+Florida,Manatee,Circuit 12,0.1699
+Florida,Sarasota,Circuit 12,0.1699
+Florida,Hillsborough,Circuit 13 (Hillsborough),0.1898
+Florida,Charlotte,Circuit 20,0.1775
+Florida,Collier,Circuit 20,0.1775
+Florida,Glades,Circuit 20,0.1775
+Florida,Hendry,Circuit 20,0.1775
+Florida,Lee,Circuit 20,0.1775
+Florida,Clay,Circuit 4,0.1757
+Florida,Duval,Circuit 4,0.1757
+Florida,Nassau,Circuit 4,0.1757
+Florida,Citrus,Circuit 5,0.1875
+Florida,Hernando,Circuit 5,0.1875
+Florida,Lake,Circuit 5,0.1875
+Florida,Marion,Circuit 5,0.1875
+Florida,Sumter,Circuit 5,0.1875
+Florida,Flagler,Circuit 7,0.1692
+Florida,Putnam,Circuit 7,0.1692
+Florida,ST JOHNS,Circuit 7,0.1692
+Florida,Volusia,Circuit 7,0.1692
+Florida,Alachua,Circuit 8 ,0.1958
+Florida,Baker,Circuit 8 ,0.1958
+Florida,Bradford,Circuit 8 ,0.1958
+Florida,Columbia,Circuit 8 ,0.1958
+Florida,Dixie,Circuit 8 ,0.1958
+Florida,Gilchrist,Circuit 8 ,0.1958
+Florida,Hamilton,Circuit 8 ,0.1958
+Florida,Lafayette,Circuit 8 ,0.1958
+Florida,Levy,Circuit 8 ,0.1958
+Florida,Suwannee,Circuit 8 ,0.1958
+Florida,Union,Circuit 8 ,0.1958
+Florida,Escambia,Circuit 1,0.1989
+Florida,Okaloosa,Circuit 1,0.1989
+Florida,Santa Rosa,Circuit 1,0.1989
+Florida,Walton,Circuit 1,0.1989
+Florida,Franklin,Circuit 2,0.2093
+Florida,Gadsden,Circuit 2,0.2093
+Florida,Jefferson,Circuit 2,0.2093
+Florida,Leon,Circuit 2,0.2093
+Florida,Liberty,Circuit 2,0.2093
+Florida,Madison,Circuit 2,0.2093
+Florida,Taylor,Circuit 2,0.2093
+Florida,Wakulla,Circuit 2,0.2093
+Florida,Bay,Circuit 14,0.1972
+Florida,Calhoun,Circuit 14,0.1972
+Florida,Gulf,Circuit 14,0.1972
+Florida,Holmes,Circuit 14,0.1972
+Florida,Jackson,Circuit 14,0.1972
+Florida,Washington,Circuit 14,0.1972
+Florida,Miami-Dade,Circuit 11 and 16,0.1456
+Florida,Monroe,Circuit 11 and 16,0.1456
+Florida,Palm Beach,Circuit 15 (Palm Beach),0.1658
+Florida,Indian River,Circuit 19,0.1704
+Florida,Martin,Circuit 19,0.1704
+Florida,Okeechobee,Circuit 19,0.1704
+Florida,ST LUCIE,Circuit 19,0.1704
+Georgia,Banks,Region 1,0.1923
+Georgia,Bartow,Region 1,0.1923
+Georgia,Catoosa,Region 1,0.1923
+Georgia,Chattooga,Region 1,0.1923
+Georgia,Cherokee,Region 1,0.1923
+Georgia,Cobb,Region 1,0.1923
+Georgia,Dade,Region 1,0.1923
+Georgia,Dawson,Region 1,0.1923
+Georgia,Douglas,Region 1,0.1923
+Georgia,Fannin,Region 1,0.1923
+Georgia,Floyd,Region 1,0.1923
+Georgia,Forsyth,Region 1,0.1923
+Georgia,Franklin,Region 1,0.1923
+Georgia,Gilmer,Region 1,0.1923
+Georgia,Gordon,Region 1,0.1923
+Georgia,Habersham,Region 1,0.1923
+Georgia,Hall,Region 1,0.1923
+Georgia,Haralson,Region 1,0.1923
+Georgia,Hart,Region 1,0.1923
+Georgia,Lumpkin,Region 1,0.1923
+Georgia,Murray,Region 1,0.1923
+Georgia,Paulding,Region 1,0.1923
+Georgia,Pickens,Region 1,0.1923
+Georgia,Polk,Region 1,0.1923
+Georgia,Rabun,Region 1,0.1923
+Georgia,Stephens,Region 1,0.1923
+Georgia,Towns,Region 1,0.1923
+Georgia,Union,Region 1,0.1923
+Georgia,Walker,Region 1,0.1923
+Georgia,White,Region 1,0.1923
+Georgia,Whitfield,Region 1,0.1923
+Georgia,Baldwin,Region 2,0.1812
+Georgia,Barrow,Region 2,0.1812
+Georgia,Bibb,Region 2,0.1812
+Georgia,Burke,Region 2,0.1812
+Georgia,Clarke,Region 2,0.1812
+Georgia,Columbia,Region 2,0.1812
+Georgia,Elbert,Region 2,0.1812
+Georgia,Emanuel,Region 2,0.1812
+Georgia,Glascock,Region 2,0.1812
+Georgia,Greene,Region 2,0.1812
+Georgia,Hancock,Region 2,0.1812
+Georgia,Jackson,Region 2,0.1812
+Georgia,Jasper,Region 2,0.1812
+Georgia,Jefferson,Region 2,0.1812
+Georgia,Jenkins,Region 2,0.1812
+Georgia,Jones,Region 2,0.1812
+Georgia,Lincoln,Region 2,0.1812
+Georgia,Madison,Region 2,0.1812
+Georgia,McDuffie,Region 2,0.1812
+Georgia,Monroe,Region 2,0.1812
+Georgia,Morgan,Region 2,0.1812
+Georgia,Oconee,Region 2,0.1812
+Georgia,Oglethorpe,Region 2,0.1812
+Georgia,Putnam,Region 2,0.1812
+Georgia,Richmond,Region 2,0.1812
+Georgia,Screven,Region 2,0.1812
+Georgia,Taliaferro,Region 2,0.1812
+Georgia,Twiggs,Region 2,0.1812
+Georgia,Walton,Region 2,0.1812
+Georgia,Warren,Region 2,0.1812
+Georgia,Washington,Region 2,0.1812
+Georgia,Wilkes,Region 2,0.1812
+Georgia,Wilkinson,Region 2,0.1812
+Georgia,Clayton,Region 3,0.1612
+Georgia,DeKalb,Region 3,0.1612
+Georgia,Fulton,Region 3,0.1612
+Georgia,Gwinnett,Region 3,0.1612
+Georgia,Newton,Region 3,0.1612
+Georgia,Rockdale,Region 3,0.1612
+Georgia,Baker,Region 4,0.1914
+Georgia,Ben Hill,Region 4,0.1914
+Georgia,Berrien,Region 4,0.1914
+Georgia,Brooks,Region 4,0.1914
+Georgia,Calhoun,Region 4,0.1914
+Georgia,Colquitt,Region 4,0.1914
+Georgia,Cook,Region 4,0.1914
+Georgia,Decatur,Region 4,0.1914
+Georgia,Dougherty,Region 4,0.1914
+Georgia,Early,Region 4,0.1914
+Georgia,Echols,Region 4,0.1914
+Georgia,Grady,Region 4,0.1914
+Georgia,Irwin,Region 4,0.1914
+Georgia,Lanier,Region 4,0.1914
+Georgia,Lee,Region 4,0.1914
+Georgia,Lowndes,Region 4,0.1914
+Georgia,Miller,Region 4,0.1914
+Georgia,Mitchell,Region 4,0.1914
+Georgia,Seminole,Region 4,0.1914
+Georgia,Terrell,Region 4,0.1914
+Georgia,Thomas,Region 4,0.1914
+Georgia,Tift,Region 4,0.1914
+Georgia,Turner,Region 4,0.1914
+Georgia,Worth,Region 4,0.1914
+Georgia,Appling,Region 5,0.1880
+Georgia,Atkinson,Region 5,0.1880
+Georgia,Bacon,Region 5,0.1880
+Georgia,Bleckley,Region 5,0.1880
+Georgia,Brantley,Region 5,0.1880
+Georgia,Bryan,Region 5,0.1880
+Georgia,Bulloch,Region 5,0.1880
+Georgia,Camden,Region 5,0.1880
+Georgia,Candler,Region 5,0.1880
+Georgia,Charlton,Region 5,0.1880
+Georgia,Chatham,Region 5,0.1880
+Georgia,Clinch,Region 5,0.1880
+Georgia,Coffee,Region 5,0.1880
+Georgia,Dodge,Region 5,0.1880
+Georgia,Effingham,Region 5,0.1880
+Georgia,Evans,Region 5,0.1880
+Georgia,Glynn,Region 5,0.1880
+Georgia,Jeff Davis,Region 5,0.1880
+Georgia,Johnson,Region 5,0.1880
+Georgia,Laurens,Region 5,0.1880
+Georgia,Liberty,Region 5,0.1880
+Georgia,Long,Region 5,0.1880
+Georgia,McIntosh,Region 5,0.1880
+Georgia,Montgomery,Region 5,0.1880
+Georgia,Pierce,Region 5,0.1880
+Georgia,Pulaski,Region 5,0.1880
+Georgia,Tattnall,Region 5,0.1880
+Georgia,Telfair,Region 5,0.1880
+Georgia,Toombs,Region 5,0.1880
+Georgia,Treutlen,Region 5,0.1880
+Georgia,Ware,Region 5,0.1880
+Georgia,Wayne,Region 5,0.1880
+Georgia,Wheeler,Region 5,0.1880
+Georgia,Wilcox,Region 5,0.1880
+Georgia,Butts,Region 6,0.1932
+Georgia,Carroll,Region 6,0.1932
+Georgia,Chattahoochee,Region 6,0.1932
+Georgia,Clay,Region 6,0.1932
+Georgia,Coweta,Region 6,0.1932
+Georgia,Crawford,Region 6,0.1932
+Georgia,Crisp,Region 6,0.1932
+Georgia,Dooly,Region 6,0.1932
+Georgia,Fayette,Region 6,0.1932
+Georgia,Harris,Region 6,0.1932
+Georgia,Heard,Region 6,0.1932
+Georgia,Henry,Region 6,0.1932
+Georgia,Houston,Region 6,0.1932
+Georgia,Lamar,Region 6,0.1932
+Georgia,Macon,Region 6,0.1932
+Georgia,Marion,Region 6,0.1932
+Georgia,Meriwether,Region 6,0.1932
+Georgia,Muscogee,Region 6,0.1932
+Georgia,Peach,Region 6,0.1932
+Georgia,Pike,Region 6,0.1932
+Georgia,Quitman,Region 6,0.1932
+Georgia,Randolph,Region 6,0.1932
+Georgia,Schley,Region 6,0.1932
+Georgia,Spalding,Region 6,0.1932
+Georgia,Stewart,Region 6,0.1932
+Georgia,Sumter,Region 6,0.1932
+Georgia,Talbot,Region 6,0.1932
+Georgia,Taylor,Region 6,0.1932
+Georgia,Troup,Region 6,0.1932
+Georgia,Upson,Region 6,0.1932
+Georgia,Webster,Region 6,0.1932
+Idaho,Benewah,Region 1,0.2424
+Idaho,Bonner,Region 1,0.2424
+Idaho,Boundary,Region 1,0.2424
+Idaho,Kootenai,Region 1,0.2424
+Idaho,Shoshone,Region 1,0.2424
+Idaho,Clearwater,Region 2,0.2336
+Idaho,Idaho,Region 2,0.2336
+Idaho,Latah,Region 2,0.2336
+Idaho,Lewis,Region 2,0.2336
+Idaho,Nez Perce,Region 2,0.2336
+Idaho,Adams,Region 3,0.2431
+Idaho,Canyon,Region 3,0.2431
+Idaho,Gem,Region 3,0.2431
+Idaho,Owyhee,Region 3,0.2431
+Idaho,Payette,Region 3,0.2431
+Idaho,Washington,Region 3,0.2431
+Idaho,Ada,Region 4,0.2556
+Idaho,Boise,Region 4,0.2556
+Idaho,Elmore,Region 4,0.2556
+Idaho,Valley,Region 4,0.2556
+Idaho,Blaine,Region 5,0.2308
+Idaho,Camas,Region 5,0.2308
+Idaho,Cassia,Region 5,0.2308
+Idaho,Gooding,Region 5,0.2308
+Idaho,Jerome,Region 5,0.2308
+Idaho,Lincoln,Region 5,0.2308
+Idaho,Minidoka,Region 5,0.2308
+Idaho,Twin Falls,Region 5,0.2308
+Idaho,Bannock,Region 6,0.2465
+Idaho,Bear Lake,Region 6,0.2465
+Idaho,Caribou,Region 6,0.2465
+Idaho,Franklin,Region 6,0.2465
+Idaho,Oneida,Region 6,0.2465
+Idaho,Power,Region 6,0.2465
+Idaho,Bingham,Region 7,0.2497
+Idaho,Bonneville,Region 7,0.2497
+Idaho,Butte,Region 7,0.2497
+Idaho,Clark,Region 7,0.2497
+Idaho,Custer,Region 7,0.2497
+Idaho,Fremont,Region 7,0.2497
+Idaho,Jefferson,Region 7,0.2497
+Idaho,Lemhi,Region 7,0.2497
+Idaho,Madison,Region 7,0.2497
+Idaho,Teton,Region 7,0.2497
+Illinois,ADAMS,Region 4b,0.1802
+Illinois,CHAMPAIGN,Region 3a (Champaign),0.2027
+Illinois,COOK,Region 1 (Cook),0.1639
+Illinois,DEKALB,Region 2d,0.1788
+Illinois,DUPAGE,Region 2a (DuPage),0.1672
+Illinois,KANE,Region 2b,0.1612
+Illinois,KANKAKEE,Region 2d,0.1788
+Illinois,KENDALL,Region 2d,0.1788
+Illinois,LAKE,Region 2b,0.1612
+Illinois,LASALLE,Region 3b,0.1859
+Illinois,MCHENRY,Region 2b,0.1612
+Illinois,MCLEAN,Region 3b,0.1859
+Illinois,MACON,Region 4b,0.1802
+Illinois,MADISON,Region 5a,0.1882
+Illinois,PEORIA,Region 3b,0.1859
+Illinois,ROCK ISLAND,Region 3b,0.1859
+Illinois,ST CLAIR,Region 5a,0.1882
+Illinois,SANGAMON,Region 4a (Sangamon),0.1888
+Illinois,TAZEWELL,Region 3b,0.1859
+Illinois,VERMILION,Region 3b,0.1859
+Illinois,WILL,Region 2b,0.1612
+Illinois,WILLIAMSON,Region 5b,0.1759
+Illinois,WINNEBAGO,Region 2c (Winnebago),0.1818
+Indiana,Boone,Central,0.1941
+Indiana,Hamilton,Central,0.1941
+Indiana,Hancock,Central,0.1941
+Indiana,Hendricks,Central,0.1941
+Indiana,Johnson,Central,0.1941
+Indiana,Marion,Central,0.1941
+Indiana,Morgan,Central,0.1941
+Indiana,Shelby,Central,0.1941
+Indiana,Blackford,East,0.2290
+Indiana,Delaware,East,0.2290
+Indiana,Fayette,East,0.2290
+Indiana,Grant,East,0.2290
+Indiana,Henry,East,0.2290
+Indiana,Jay,East,0.2290
+Indiana,Madison,East,0.2290
+Indiana,Randolph,East,0.2290
+Indiana,Rush,East,0.2290
+Indiana,Union,East,0.2290
+Indiana,Wayne,East,0.2290
+Indiana,Cass,North Central,0.2306
+Indiana,Elkhart,North Central,0.2306
+Indiana,Fulton,North Central,0.2306
+Indiana,Howard,North Central,0.2306
+Indiana,Kosciusko,North Central,0.2306
+Indiana,La Porte,North Central,0.2306
+Indiana,Marshall,North Central,0.2306
+Indiana,Miami,North Central,0.2306
+Indiana,ST JOSEPH,North Central,0.2306
+Indiana,Tipton,North Central,0.2306
+Indiana,Wabash,North Central,0.2306
+Indiana,Adams,Northeast,0.2113
+Indiana,Allen,Northeast,0.2113
+Indiana,DeKalb,Northeast,0.2113
+Indiana,Huntington,Northeast,0.2113
+Indiana,LaGrange,Northeast,0.2113
+Indiana,Noble,Northeast,0.2113
+Indiana,Steuben,Northeast,0.2113
+Indiana,Wells,Northeast,0.2113
+Indiana,Whitley,Northeast,0.2113
+Indiana,Jasper,Northwest,0.2002
+Indiana,Lake,Northwest,0.2002
+Indiana,Newton,Northwest,0.2002
+Indiana,Porter,Northwest,0.2002
+Indiana,Pulaski,Northwest,0.2002
+Indiana,Starke,Northwest,0.2002
+Indiana,Bartholomew,Southeast,0.2249
+Indiana,Brown,Southeast,0.2249
+Indiana,Clark,Southeast,0.2249
+Indiana,Crawford,Southeast,0.2249
+Indiana,Dearborn,Southeast,0.2249
+Indiana,Decatur,Southeast,0.2249
+Indiana,Floyd,Southeast,0.2249
+Indiana,Franklin,Southeast,0.2249
+Indiana,Harrison,Southeast,0.2249
+Indiana,Jackson,Southeast,0.2249
+Indiana,Jefferson,Southeast,0.2249
+Indiana,Jennings,Southeast,0.2249
+Indiana,Lawrence,Southeast,0.2249
+Indiana,Ohio,Southeast,0.2249
+Indiana,Orange,Southeast,0.2249
+Indiana,Ripley,Southeast,0.2249
+Indiana,Scott,Southeast,0.2249
+Indiana,Switzerland,Southeast,0.2249
+Indiana,Washington,Southeast,0.2249
+Indiana,Daviess,Southwest,0.2146
+Indiana,Dubois,Southwest,0.2146
+Indiana,Gibson,Southwest,0.2146
+Indiana,Greene,Southwest,0.2146
+Indiana,Knox,Southwest,0.2146
+Indiana,Martin,Southwest,0.2146
+Indiana,Perry,Southwest,0.2146
+Indiana,Pike,Southwest,0.2146
+Indiana,Posey,Southwest,0.2146
+Indiana,Spencer,Southwest,0.2146
+Indiana,Vanderburgh,Southwest,0.2146
+Indiana,Warrick,Southwest,0.2146
+Indiana,Benton,West,0.2509
+Indiana,Carroll,West,0.2509
+Indiana,Clay,West,0.2509
+Indiana,Clinton,West,0.2509
+Indiana,Fountain,West,0.2509
+Indiana,Monroe,West,0.2509
+Indiana,Montgomery,West,0.2509
+Indiana,Owen,West,0.2509
+Indiana,Parke,West,0.2509
+Indiana,Putnam,West,0.2509
+Indiana,Sullivan,West,0.2509
+Indiana,Tippecanoe,West,0.2509
+Indiana,Vermillion,West,0.2509
+Indiana,Vigo,West,0.2509
+Indiana,Warren,West,0.2509
+Indiana,White,West,0.2509
+Iowa,Jasper,Central,0.1978
+Iowa,Marion,Central,0.1978
+Iowa,Polk,Central,0.1978
+Iowa,Warren,Central,0.1978
+Iowa,Boone,North Central,0.1891
+Iowa,Cerro Gordo,North Central,0.1891
+Iowa,Floyd,North Central,0.1891
+Iowa,Franklin,North Central,0.1891
+Iowa,Hancock,North Central,0.1891
+Iowa,Hardin,North Central,0.1891
+Iowa,Kossuth,North Central,0.1891
+Iowa,Marshall,North Central,0.1891
+Iowa,Mitchell,North Central,0.1891
+Iowa,Poweshiek,North Central,0.1891
+Iowa,Story,North Central,0.1891
+Iowa,Tama,North Central,0.1891
+Iowa,Winnebago,North Central,0.1891
+Iowa,Worth,North Central,0.1891
+Iowa,Allamakee,Northeast,0.1929
+Iowa,Benton,Northeast,0.1929
+Iowa,Black Hawk,Northeast,0.1929
+Iowa,Bremer,Northeast,0.1929
+Iowa,Buchanan,Northeast,0.1929
+Iowa,Butler,Northeast,0.1929
+Iowa,Chickasaw,Northeast,0.1929
+Iowa,Clayton,Northeast,0.1929
+Iowa,Clinton,Northeast,0.1929
+Iowa,Delaware,Northeast,0.1929
+Iowa,Dubuque,Northeast,0.1929
+Iowa,Fayette,Northeast,0.1929
+Iowa,Grundy,Northeast,0.1929
+Iowa,Howard,Northeast,0.1929
+Iowa,Jackson,Northeast,0.1929
+Iowa,Jones,Northeast,0.1929
+Iowa,Linn,Northeast,0.1929
+Iowa,Winneshiek,Northeast,0.1929
+Iowa,Audubon,Northwest,0.1700
+Iowa,Buena Vista,Northwest,0.1700
+Iowa,Calhoun,Northwest,0.1700
+Iowa,Carroll,Northwest,0.1700
+Iowa,Cherokee,Northwest,0.1700
+Iowa,Clay,Northwest,0.1700
+Iowa,Crawford,Northwest,0.1700
+Iowa,Dickinson,Northwest,0.1700
+Iowa,Emmet,Northwest,0.1700
+Iowa,Greene,Northwest,0.1700
+Iowa,Guthrie,Northwest,0.1700
+Iowa,Hamilton,Northwest,0.1700
+Iowa,Humboldt,Northwest,0.1700
+Iowa,Ida,Northwest,0.1700
+Iowa,Lyon,Northwest,0.1700
+Iowa,Monona,Northwest,0.1700
+Iowa,O'Brien,Northwest,0.1700
+Iowa,Osceola,Northwest,0.1700
+Iowa,Palo Alto,Northwest,0.1700
+Iowa,Plymouth,Northwest,0.1700
+Iowa,Pocahontas,Northwest,0.1700
+Iowa,Sac,Northwest,0.1700
+Iowa,Shelby,Northwest,0.1700
+Iowa,Sioux,Northwest,0.1700
+Iowa,Webster,Northwest,0.1700
+Iowa,Woodbury,Northwest,0.1700
+Iowa,Wright,Northwest,0.1700
+Iowa,Appanoose,Southeast,0.2031
+Iowa,Cedar,Southeast,0.2031
+Iowa,Davis,Southeast,0.2031
+Iowa,Des Moines,Southeast,0.2031
+Iowa,Henry,Southeast,0.2031
+Iowa,Iowa,Southeast,0.2031
+Iowa,Jefferson,Southeast,0.2031
+Iowa,Johnson,Southeast,0.2031
+Iowa,Keokuk,Southeast,0.2031
+Iowa,Lee,Southeast,0.2031
+Iowa,Louisa,Southeast,0.2031
+Iowa,Lucas,Southeast,0.2031
+Iowa,Mahaska,Southeast,0.2031
+Iowa,Monroe,Southeast,0.2031
+Iowa,Muscatine,Southeast,0.2031
+Iowa,Scott,Southeast,0.2031
+Iowa,Van Buren,Southeast,0.2031
+Iowa,Wapello,Southeast,0.2031
+Iowa,Washington,Southeast,0.2031
+Iowa,Wayne,Southeast,0.2031
+Iowa,Adair,Southwest,0.1812
+Iowa,Adams,Southwest,0.1812
+Iowa,Cass,Southwest,0.1812
+Iowa,Clarke,Southwest,0.1812
+Iowa,Dallas,Southwest,0.1812
+Iowa,Decatur,Southwest,0.1812
+Iowa,Fremont,Southwest,0.1812
+Iowa,Harrison,Southwest,0.1812
+Iowa,Madison,Southwest,0.1812
+Iowa,Mills,Southwest,0.1812
+Iowa,Montgomery,Southwest,0.1812
+Iowa,Page,Southwest,0.1812
+Iowa,Pottawattamie,Southwest,0.1812
+Iowa,Ringgold,Southwest,0.1812
+Iowa,Taylor,Southwest,0.1812
+Iowa,Union,Southwest,0.1812
+Kansas,Atchison,Northeast,0.1964
+Kansas,Brown,Northeast,0.1964
+Kansas,Doniphan,Northeast,0.1964
+Kansas,Douglas,Northeast,0.1964
+Kansas,Franklin,Northeast,0.1964
+Kansas,Geary,Northeast,0.1964
+Kansas,Jackson,Northeast,0.1964
+Kansas,Jefferson,Northeast,0.1964
+Kansas,Johnson,Northeast,0.1964
+Kansas,Leavenworth,Northeast,0.1964
+Kansas,Lyon,Northeast,0.1964
+Kansas,Marshall,Northeast,0.1964
+Kansas,Miami,Northeast,0.1964
+Kansas,Morris,Northeast,0.1964
+Kansas,Nemaha,Northeast,0.1964
+Kansas,Osage,Northeast,0.1964
+Kansas,Pottawatomie,Northeast,0.1964
+Kansas,Riley,Northeast,0.1964
+Kansas,Shawnee,Northeast,0.1964
+Kansas,Wabaunsee,Northeast,0.1964
+Kansas,Wyandotte,Northeast,0.1964
+Kansas,Cheyenne,Northwest and North Central,0.1851
+Kansas,Decatur,Northwest and North Central,0.1851
+Kansas,Ellis,Northwest and North Central,0.1851
+Kansas,Gove,Northwest and North Central,0.1851
+Kansas,Graham,Northwest and North Central,0.1851
+Kansas,Logan,Northwest and North Central,0.1851
+Kansas,Norton,Northwest and North Central,0.1851
+Kansas,Phillips,Northwest and North Central,0.1851
+Kansas,Rawlins,Northwest and North Central,0.1851
+Kansas,Rooks,Northwest and North Central,0.1851
+Kansas,Sheridan,Northwest and North Central,0.1851
+Kansas,Sherman,Northwest and North Central,0.1851
+Kansas,Thomas,Northwest and North Central,0.1851
+Kansas,Trego,Northwest and North Central,0.1851
+Kansas,Wallace,Northwest and North Central,0.1851
+Kansas,Clay,Northwest and North Central,0.1851
+Kansas,Cloud,Northwest and North Central,0.1851
+Kansas,Dickinson,Northwest and North Central,0.1851
+Kansas,Ellsworth,Northwest and North Central,0.1851
+Kansas,Jewell,Northwest and North Central,0.1851
+Kansas,Lincoln,Northwest and North Central,0.1851
+Kansas,Mitchell,Northwest and North Central,0.1851
+Kansas,Osborne,Northwest and North Central,0.1851
+Kansas,Ottawa,Northwest and North Central,0.1851
+Kansas,Republic,Northwest and North Central,0.1851
+Kansas,Russell,Northwest and North Central,0.1851
+Kansas,Saline,Northwest and North Central,0.1851
+Kansas,Smith,Northwest and North Central,0.1851
+Kansas,Washington,Northwest and North Central,0.1851
+Kansas,Barber,South Central,0.1946
+Kansas,Barton,South Central,0.1946
+Kansas,Butler,South Central,0.1946
+Kansas,Cowley,South Central,0.1946
+Kansas,Harper,South Central,0.1946
+Kansas,Harvey,South Central,0.1946
+Kansas,Kingman,South Central,0.1946
+Kansas,Marion,South Central,0.1946
+Kansas,McPherson,South Central,0.1946
+Kansas,Pratt,South Central,0.1946
+Kansas,Reno,South Central,0.1946
+Kansas,Rice,South Central,0.1946
+Kansas,Sedgwick,South Central,0.1946
+Kansas,Stafford,South Central,0.1946
+Kansas,Sumner,South Central,0.1946
+Kansas,Allen,Southeast,0.1903
+Kansas,Anderson,Southeast,0.1903
+Kansas,Bourbon,Southeast,0.1903
+Kansas,Chase,Southeast,0.1903
+Kansas,Chautauqua,Southeast,0.1903
+Kansas,Cherokee,Southeast,0.1903
+Kansas,Coffey,Southeast,0.1903
+Kansas,Crawford,Southeast,0.1903
+Kansas,Elk,Southeast,0.1903
+Kansas,Greenwood,Southeast,0.1903
+Kansas,Labette,Southeast,0.1903
+Kansas,Linn,Southeast,0.1903
+Kansas,Montgomery,Southeast,0.1903
+Kansas,Neosho,Southeast,0.1903
+Kansas,Wilson,Southeast,0.1903
+Kansas,Woodson,Southeast,0.1903
+Kansas,Clark,Southwest,0.1795
+Kansas,Comanche,Southwest,0.1795
+Kansas,Edwards,Southwest,0.1795
+Kansas,Finney,Southwest,0.1795
+Kansas,Ford,Southwest,0.1795
+Kansas,Grant,Southwest,0.1795
+Kansas,Gray,Southwest,0.1795
+Kansas,Greeley,Southwest,0.1795
+Kansas,Hamilton,Southwest,0.1795
+Kansas,Haskell,Southwest,0.1795
+Kansas,Hodgeman,Southwest,0.1795
+Kansas,Kearny,Southwest,0.1795
+Kansas,Kiowa,Southwest,0.1795
+Kansas,Lane,Southwest,0.1795
+Kansas,Meade,Southwest,0.1795
+Kansas,Morton,Southwest,0.1795
+Kansas,Ness,Southwest,0.1795
+Kansas,Pawnee,Southwest,0.1795
+Kansas,Rush,Southwest,0.1795
+Kansas,Scott,Southwest,0.1795
+Kansas,Seward,Southwest,0.1795
+Kansas,Stanton,Southwest,0.1795
+Kansas,Stevens,Southwest,0.1795
+Kansas,Wichita,Southwest,0.1795
+Kentucky,Adair,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Casey,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Clinton,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Cumberland,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Green,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,McCreary,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Pulaski,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Russell,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Taylor,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Wayne,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Bell,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Clay,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Harlan,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Jackson,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Knox,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Laurel,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Rockcastle,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Whitley,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Allen,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Barren,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Butler,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Edmonson,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Hart,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Logan,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Metcalfe,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Monroe,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Simpson,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Warren,"Adanta, Cumberland River, and Lifeskills",0.2173
+Kentucky,Anderson,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Bourbon,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Boyle,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Clark,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Estill,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Fayette,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Franklin,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Garrard,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Harrison,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Jessamine,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Lincoln,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Madison,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Mercer,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Nicholas,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Powell,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Scott,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Woodford,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Bracken,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Fleming,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Lewis,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Mason,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Robertson,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Boone,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Campbell,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Carroll,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Gallatin,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Grant,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Kenton,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Owen,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Pendleton,"Bluegrass, Comprehend, and North Key",0.2411
+Kentucky,Bullitt,Centerstone,0.2169
+Kentucky,Henry,Centerstone,0.2169
+Kentucky,Jefferson,Centerstone,0.2169
+Kentucky,Oldham,Centerstone,0.2169
+Kentucky,Shelby,Centerstone,0.2169
+Kentucky,Spencer,Centerstone,0.2169
+Kentucky,Trimble,Centerstone,0.2169
+Kentucky,Breckinridge,Communicare and River Valley,0.2049
+Kentucky,Grayson,Communicare and River Valley,0.2049
+Kentucky,Hardin,Communicare and River Valley,0.2049
+Kentucky,Larue,Communicare and River Valley,0.2049
+Kentucky,Marion,Communicare and River Valley,0.2049
+Kentucky,Meade,Communicare and River Valley,0.2049
+Kentucky,Nelson,Communicare and River Valley,0.2049
+Kentucky,Washington,Communicare and River Valley,0.2049
+Kentucky,Daviess,Communicare and River Valley,0.2049
+Kentucky,Hancock,Communicare and River Valley,0.2049
+Kentucky,Henderson,Communicare and River Valley,0.2049
+Kentucky,McLean,Communicare and River Valley,0.2049
+Kentucky,Ohio,Communicare and River Valley,0.2049
+Kentucky,Union,Communicare and River Valley,0.2049
+Kentucky,Webster,Communicare and River Valley,0.2049
+Kentucky,Ballard,Four Rivers and Pennyroyal,0.2164
+Kentucky,Calloway,Four Rivers and Pennyroyal,0.2164
+Kentucky,Carlisle,Four Rivers and Pennyroyal,0.2164
+Kentucky,Fulton,Four Rivers and Pennyroyal,0.2164
+Kentucky,Graves,Four Rivers and Pennyroyal,0.2164
+Kentucky,Hickman,Four Rivers and Pennyroyal,0.2164
+Kentucky,Livingston,Four Rivers and Pennyroyal,0.2164
+Kentucky,Marshall,Four Rivers and Pennyroyal,0.2164
+Kentucky,McCracken,Four Rivers and Pennyroyal,0.2164
+Kentucky,Caldwell,Four Rivers and Pennyroyal,0.2164
+Kentucky,Christian,Four Rivers and Pennyroyal,0.2164
+Kentucky,Crittenden,Four Rivers and Pennyroyal,0.2164
+Kentucky,Hopkins,Four Rivers and Pennyroyal,0.2164
+Kentucky,Lyon,Four Rivers and Pennyroyal,0.2164
+Kentucky,Muhlenberg,Four Rivers and Pennyroyal,0.2164
+Kentucky,Todd,Four Rivers and Pennyroyal,0.2164
+Kentucky,Trigg,Four Rivers and Pennyroyal,0.2164
+Kentucky,Breathitt,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Knott,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Lee,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Leslie,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Letcher,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Owsley,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Perry,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Wolfe,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Floyd,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Johnson,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Magoffin,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Martin,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Pike,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Bath,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Boyd,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Carter,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Elliott,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Greenup,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Lawrence,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Menifee,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Montgomery,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Morgan,"Kentucky River, Mountain, and Pathways",0.2385
+Kentucky,Rowan,"Kentucky River, Mountain, and Pathways",0.2385
+Louisiana,Orleans,Region 1,0.1946
+Louisiana,Plaquemines,Region 1,0.1946
+Louisiana,St Bernard,Region 1,0.1946
+Louisiana,Jefferson,Region 10 (Jefferson),0.2028
+Louisiana,Ascension,Regions 2 and 9,0.1967
+Louisiana,East Baton Rouge,Regions 2 and 9,0.1967
+Louisiana,East Feliciana,Regions 2 and 9,0.1967
+Louisiana,Iberville,Regions 2 and 9,0.1967
+Louisiana,Pointe Coupee,Regions 2 and 9,0.1967
+Louisiana,West Baton Rouge,Regions 2 and 9,0.1967
+Louisiana,West Feliciana,Regions 2 and 9,0.1967
+Louisiana,Livingston,Regions 2 and 9,0.1967
+Louisiana,St Helena,Regions 2 and 9,0.1967
+Louisiana,ST TAMMANY,Regions 2 and 9,0.1967
+Louisiana,Tangipahoa,Regions 2 and 9,0.1967
+Louisiana,Washington,Regions 2 and 9,0.1967
+Louisiana,Assumption,Region 3,0.1918
+Louisiana,Lafourche,Region 3,0.1918
+Louisiana,St Charles,Region 3,0.1918
+Louisiana,St James,Region 3,0.1918
+Louisiana,St John the,Region 3,0.1918
+Louisiana,   Baptist,Region 3,0.1918
+Louisiana,St Mary,Region 3,0.1918
+Louisiana,Terrebonne,Region 3,0.1918
+Louisiana,Acadia,"Regions 4, 5, and 6",0.2026
+Louisiana,Evangeline,"Regions 4, 5, and 6",0.2026
+Louisiana,Iberia,"Regions 4, 5, and 6",0.2026
+Louisiana,Lafayette,"Regions 4, 5, and 6",0.2026
+Louisiana,ST LANDRY,"Regions 4, 5, and 6",0.2026
+Louisiana,St Martin,"Regions 4, 5, and 6",0.2026
+Louisiana,Vermilion,"Regions 4, 5, and 6",0.2026
+Louisiana,Allen,"Regions 4, 5, and 6",0.2026
+Louisiana,Beauregard,"Regions 4, 5, and 6",0.2026
+Louisiana,Calcasieu,"Regions 4, 5, and 6",0.2026
+Louisiana,Cameron,"Regions 4, 5, and 6",0.2026
+Louisiana,Jefferson Davis,"Regions 4, 5, and 6",0.2026
+Louisiana,Avoyelles,"Regions 4, 5, and 6",0.2026
+Louisiana,Catahoula,"Regions 4, 5, and 6",0.2026
+Louisiana,Concordia,"Regions 4, 5, and 6",0.2026
+Louisiana,Grant,"Regions 4, 5, and 6",0.2026
+Louisiana,La Salle,"Regions 4, 5, and 6",0.2026
+Louisiana,Rapides,"Regions 4, 5, and 6",0.2026
+Louisiana,Vernon,"Regions 4, 5, and 6",0.2026
+Louisiana,Winn,"Regions 4, 5, and 6",0.2026
+Louisiana,Bienville,Regions 7 and 8,0.1907
+Louisiana,Bossier,Regions 7 and 8,0.1907
+Louisiana,Caddo,Regions 7 and 8,0.1907
+Louisiana,Claiborne,Regions 7 and 8,0.1907
+Louisiana,De Soto,Regions 7 and 8,0.1907
+Louisiana,Natchitoches,Regions 7 and 8,0.1907
+Louisiana,Red River,Regions 7 and 8,0.1907
+Louisiana,Sabine,Regions 7 and 8,0.1907
+Louisiana,Webster,Regions 7 and 8,0.1907
+Louisiana,Caldwell,Regions 7 and 8,0.1907
+Louisiana,East Carroll,Regions 7 and 8,0.1907
+Louisiana,Franklin,Regions 7 and 8,0.1907
+Louisiana,Jackson,Regions 7 and 8,0.1907
+Louisiana,Lincoln,Regions 7 and 8,0.1907
+Louisiana,Madison,Regions 7 and 8,0.1907
+Louisiana,Morehouse,Regions 7 and 8,0.1907
+Louisiana,Ouachita,Regions 7 and 8,0.1907
+Louisiana,Richland,Regions 7 and 8,0.1907
+Louisiana,Tensas,Regions 7 and 8,0.1907
+Louisiana,Union,Regions 7 and 8,0.1907
+Louisiana,West Carroll,Regions 7 and 8,0.1907
+Maine,Aroostook,Aroostook,0.1903
+Maine,Hancock,Downeast,0.1818
+Maine,Washington,Downeast,0.1818
+Maine,Kennebec,Central,0.2082
+Maine,Somerset,Central,0.2082
+Maine,Cumberland,Cumberland,0.1945
+Maine,Knox,Midcoast,0.1840
+Maine,Lincoln,Midcoast,0.1840
+Maine,Sagadahoc,Midcoast,0.1840
+Maine,Waldo,Midcoast,0.1840
+Maine,Penobscot,Penquis,0.2136
+Maine,Piscataquis,Penquis,0.2136
+Maine,Androscoggin,Western,0.2222
+Maine,Franklin,Western,0.2222
+Maine,Oxford,Western,0.2222
+Maine,York,York,0.2028
+Maryland,Anne Arundel,Anne Arundel,0.1799
+Maryland,Baltimore City,Baltimore City,0.1846
+Maryland,Baltimore,Baltimore County,0.1770
+Maryland,Montgomery,Montgomery,0.1508
+Maryland,Carroll,North Central,0.1853
+Maryland,Howard,North Central,0.1853
+Maryland,Caroline,Northeast,0.1927
+Maryland,Cecil,Northeast,0.1927
+Maryland,Harford,Northeast,0.1927
+Maryland,Kent,Northeast,0.1927
+Maryland,Queen Anne's,Northeast,0.1927
+Maryland,Talbot,Northeast,0.1927
+Maryland,Prince George's,Prince George's,0.1436
+Maryland,Calvert,South,0.1741
+Maryland,Charles,South,0.1741
+Maryland,Dorchester,South,0.1741
+Maryland,Somerset,South,0.1741
+Maryland,ST MARY'S,South,0.1741
+Maryland,Wicomico,South,0.1741
+Maryland,Worcester,South,0.1741
+Maryland,Allegany,West,0.1738
+Maryland,Frederick,West,0.1738
+Maryland,Garrett,West,0.1738
+Maryland,Washington,West,0.1738
+Massachusetts,BARNSTABLE,Southeast,0.2130
+Massachusetts,BERKSHIRE,Western,0.2220
+Massachusetts,BRISTOL,Southeast,0.2130
+Massachusetts,ESSEX,Northeast,0.1911
+Massachusetts,FRANKLIN,Western,0.2220
+Massachusetts,HAMPDEN,Massachusetts,0.2080
+Massachusetts,HAMPSHIRE,Western,0.2220
+Massachusetts,MIDDLESEX,Massachusetts,0.2080
+Massachusetts,NORFOLK,Massachusetts,0.2080
+Massachusetts,PLYMOUTH,Massachusetts,0.2080
+Massachusetts,SUFFOLK,Boston,0.2423
+Massachusetts,WORCESTER,Massachusetts,0.2080
+Michigan,Alger,Region 1,0.1851
+Michigan,Baraga,Region 1,0.1851
+Michigan,Chippewa,Region 1,0.1851
+Michigan,Delta,Region 1,0.1851
+Michigan,Dickinson,Region 1,0.1851
+Michigan,Gogebic,Region 1,0.1851
+Michigan,Houghton,Region 1,0.1851
+Michigan,Iron,Region 1,0.1851
+Michigan,Keweenaw,Region 1,0.1851
+Michigan,Luce,Region 1,0.1851
+Michigan,Mackinac,Region 1,0.1851
+Michigan,Marquette,Region 1,0.1851
+Michigan,Menominee,Region 1,0.1851
+Michigan,Ontonagon,Region 1,0.1851
+Michigan,Schoolcraft,Region 1,0.1851
+Michigan,Alcona,Region 2,0.1680
+Michigan,Alpena,Region 2,0.1680
+Michigan,Antrim,Region 2,0.1680
+Michigan,Benzie,Region 2,0.1680
+Michigan,Charlevoix,Region 2,0.1680
+Michigan,Cheboygan,Region 2,0.1680
+Michigan,Crawford,Region 2,0.1680
+Michigan,Emmet,Region 2,0.1680
+Michigan,Grand Traverse,Region 2,0.1680
+Michigan,Iosco,Region 2,0.1680
+Michigan,Kalkaska,Region 2,0.1680
+Michigan,Leelanau,Region 2,0.1680
+Michigan,Manistee,Region 2,0.1680
+Michigan,Missaukee,Region 2,0.1680
+Michigan,Montmorency,Region 2,0.1680
+Michigan,Ogemaw,Region 2,0.1680
+Michigan,Oscoda,Region 2,0.1680
+Michigan,Otsego,Region 2,0.1680
+Michigan,Presque Isle,Region 2,0.1680
+Michigan,Roscommon,Region 2,0.1680
+Michigan,Wexford,Region 2,0.1680
+Michigan,Allegan,Region 3,0.1885
+Michigan,Kent,Region 3,0.1885
+Michigan,Lake,Region 3,0.1885
+Michigan,Mason,Region 3,0.1885
+Michigan,Muskegon,Region 3,0.1885
+Michigan,Oceana,Region 3,0.1885
+Michigan,Ottawa,Region 3,0.1885
+Michigan,Barry,Region 4,0.1963
+Michigan,Berrien,Region 4,0.1963
+Michigan,Branch,Region 4,0.1963
+Michigan,Calhoun,Region 4,0.1963
+Michigan,Cass,Region 4,0.1963
+Michigan,Kalamazoo,Region 4,0.1963
+Michigan,St Joseph,Region 4,0.1963
+Michigan,Van Buren,Region 4,0.1963
+Michigan,Arenac,Region 5,0.1861
+Michigan,Bay,Region 5,0.1861
+Michigan,Clare,Region 5,0.1861
+Michigan,Clinton,Region 5,0.1861
+Michigan,Eaton,Region 5,0.1861
+Michigan,Gladwin,Region 5,0.1861
+Michigan,Gratiot,Region 5,0.1861
+Michigan,Hillsdale,Region 5,0.1861
+Michigan,Huron,Region 5,0.1861
+Michigan,Ingham,Region 5,0.1861
+Michigan,Ionia,Region 5,0.1861
+Michigan,Isabella,Region 5,0.1861
+Michigan,Jackson,Region 5,0.1861
+Michigan,Mecosta,Region 5,0.1861
+Michigan,Midland,Region 5,0.1861
+Michigan,Montcalm,Region 5,0.1861
+Michigan,Newaygo,Region 5,0.1861
+Michigan,Osceola,Region 5,0.1861
+Michigan,Saginaw,Region 5,0.1861
+Michigan,Shiawassee,Region 5,0.1861
+Michigan,Tuscola,Region 5,0.1861
+Michigan,Lenawee,Region 6,0.1987
+Michigan,Livingston,Region 6,0.1987
+Michigan,Monroe,Region 6,0.1987
+Michigan,Washtenaw,Region 6,0.1987
+Michigan,Wayne,Region 7,0.1888
+Michigan,Oakland,Region 8,0.1641
+Michigan,Macomb,Region 9,0.1860
+Michigan,Genesee,Region 10,0.1978
+Michigan,Lapeer,Region 10,0.1978
+Michigan,Sanilac,Region 10,0.1978
+Michigan,ST CLAIR,Region 10,0.1978
+Minnesota,Becker,Region 1,0.1790
+Minnesota,Beltrami,Region 1,0.1790
+Minnesota,Clearwater,Region 1,0.1790
+Minnesota,Hubbard,Region 1,0.1790
+Minnesota,Kittson,Region 1,0.1790
+Minnesota,Lake of the Woods,Region 1,0.1790
+Minnesota,Mahnomen,Region 1,0.1790
+Minnesota,Marshall,Region 1,0.1790
+Minnesota,Norman,Region 1,0.1790
+Minnesota,Pennington,Region 1,0.1790
+Minnesota,Polk,Region 1,0.1790
+Minnesota,Red Lake,Region 1,0.1790
+Minnesota,Roseau,Region 1,0.1790
+Minnesota,Aitkin,Region 2,0.1904
+Minnesota,Carlton,Region 2,0.1904
+Minnesota,Cook,Region 2,0.1904
+Minnesota,Itasca,Region 2,0.1904
+Minnesota,Koochiching,Region 2,0.1904
+Minnesota,Lake,Region 2,0.1904
+Minnesota,ST LOUIS,Region 2,0.1904
+Minnesota,Cass,Region 3,0.1896
+Minnesota,Clay,Region 3,0.1896
+Minnesota,Crow Wing,Region 3,0.1896
+Minnesota,Douglas,Region 3,0.1896
+Minnesota,Grant,Region 3,0.1896
+Minnesota,Otter Tail,Region 3,0.1896
+Minnesota,Pope,Region 3,0.1896
+Minnesota,Stevens,Region 3,0.1896
+Minnesota,Todd,Region 3,0.1896
+Minnesota,Traverse,Region 3,0.1896
+Minnesota,Wadena,Region 3,0.1896
+Minnesota,Wilkin,Region 3,0.1896
+Minnesota,Benton,Region 4,0.1862
+Minnesota,Chisago,Region 4,0.1862
+Minnesota,Isanti,Region 4,0.1862
+Minnesota,Kanabec,Region 4,0.1862
+Minnesota,Mille Lacs,Region 4,0.1862
+Minnesota,Morrison,Region 4,0.1862
+Minnesota,Pine,Region 4,0.1862
+Minnesota,Sherburne,Region 4,0.1862
+Minnesota,Stearns,Region 4,0.1862
+Minnesota,Wright,Region 4,0.1862
+Minnesota,Big Stone,Region 5,0.1787
+Minnesota,Blue Earth,Region 5,0.1787
+Minnesota,Brown,Region 5,0.1787
+Minnesota,Chippewa,Region 5,0.1787
+Minnesota,Cottonwood,Region 5,0.1787
+Minnesota,Faribault,Region 5,0.1787
+Minnesota,Jackson,Region 5,0.1787
+Minnesota,Kandiyohi,Region 5,0.1787
+Minnesota,Lac qui Parle,Region 5,0.1787
+Minnesota,Le Sueur,Region 5,0.1787
+Minnesota,Lincoln,Region 5,0.1787
+Minnesota,Lyon,Region 5,0.1787
+Minnesota,Martin,Region 5,0.1787
+Minnesota,McLeod,Region 5,0.1787
+Minnesota,Meeker,Region 5,0.1787
+Minnesota,Murray,Region 5,0.1787
+Minnesota,Nicollet,Region 5,0.1787
+Minnesota,Nobles,Region 5,0.1787
+Minnesota,Pipestone,Region 5,0.1787
+Minnesota,Redwood,Region 5,0.1787
+Minnesota,Renville,Region 5,0.1787
+Minnesota,Rock,Region 5,0.1787
+Minnesota,Sibley,Region 5,0.1787
+Minnesota,Swift,Region 5,0.1787
+Minnesota,Waseca,Region 5,0.1787
+Minnesota,Watonwan,Region 5,0.1787
+Minnesota,Yellow Medicine,Region 5,0.1787
+Minnesota,Dodge,Region 6,0.1870
+Minnesota,Fillmore,Region 6,0.1870
+Minnesota,Freeborn,Region 6,0.1870
+Minnesota,Goodhue,Region 6,0.1870
+Minnesota,Houston,Region 6,0.1870
+Minnesota,Mower,Region 6,0.1870
+Minnesota,Olmsted,Region 6,0.1870
+Minnesota,Rice,Region 6,0.1870
+Minnesota,Steele,Region 6,0.1870
+Minnesota,Wabasha,Region 6,0.1870
+Minnesota,Winona,Region 6,0.1870
+Minnesota,Hennepin,Region 7A (Hennepin),0.1895
+Minnesota,Ramsey,Region 7B (Ramsey),0.2033
+Minnesota,Anoka,Region 7C,0.1931
+Minnesota,Carver,Region 7C,0.1931
+Minnesota,Dakota,Region 7C,0.1931
+Minnesota,Scott,Region 7C,0.1931
+Minnesota,Washington,Region 7C,0.1931
+Mississippi,Alcorn,Region 1,0.1955
+Mississippi,Benton,Region 1,0.1955
+Mississippi,Calhoun,Region 1,0.1955
+Mississippi,Chickasaw,Region 1,0.1955
+Mississippi,DeSoto,Region 1,0.1955
+Mississippi,Itawamba,Region 1,0.1955
+Mississippi,Lafayette,Region 1,0.1955
+Mississippi,Lee,Region 1,0.1955
+Mississippi,Marshall,Region 1,0.1955
+Mississippi,Monroe,Region 1,0.1955
+Mississippi,Panola,Region 1,0.1955
+Mississippi,Pontotoc,Region 1,0.1955
+Mississippi,Prentiss,Region 1,0.1955
+Mississippi,Tate,Region 1,0.1955
+Mississippi,Tippah,Region 1,0.1955
+Mississippi,Tishomingo,Region 1,0.1955
+Mississippi,Union,Region 1,0.1955
+Mississippi,Yalobusha,Region 1,0.1955
+Mississippi,Attala,Region 2,0.1694
+Mississippi,Bolivar,Region 2,0.1694
+Mississippi,Carroll,Region 2,0.1694
+Mississippi,Coahoma,Region 2,0.1694
+Mississippi,Grenada,Region 2,0.1694
+Mississippi,Holmes,Region 2,0.1694
+Mississippi,Humphreys,Region 2,0.1694
+Mississippi,Issaquena,Region 2,0.1694
+Mississippi,Leflore,Region 2,0.1694
+Mississippi,Montgomery,Region 2,0.1694
+Mississippi,Quitman,Region 2,0.1694
+Mississippi,Sharkey,Region 2,0.1694
+Mississippi,Sunflower,Region 2,0.1694
+Mississippi,Tallahatchie,Region 2,0.1694
+Mississippi,Tunica,Region 2,0.1694
+Mississippi,Warren,Region 2,0.1694
+Mississippi,Washington,Region 2,0.1694
+Mississippi,Yazoo,Region 2,0.1694
+Mississippi,Choctaw,Region 3,0.1981
+Mississippi,Clarke,Region 3,0.1981
+Mississippi,Clay,Region 3,0.1981
+Mississippi,Jasper,Region 3,0.1981
+Mississippi,Kemper,Region 3,0.1981
+Mississippi,Lauderdale,Region 3,0.1981
+Mississippi,Leake,Region 3,0.1981
+Mississippi,Lowndes,Region 3,0.1981
+Mississippi,Neshoba,Region 3,0.1981
+Mississippi,Newton,Region 3,0.1981
+Mississippi,Noxubee,Region 3,0.1981
+Mississippi,Oktibbeha,Region 3,0.1981
+Mississippi,Scott,Region 3,0.1981
+Mississippi,Smith,Region 3,0.1981
+Mississippi,Webster,Region 3,0.1981
+Mississippi,Winston,Region 3,0.1981
+Mississippi,Copiah,Region 4,0.1893
+Mississippi,Hinds,Region 4,0.1893
+Mississippi,Madison,Region 4,0.1893
+Mississippi,Rankin,Region 4,0.1893
+Mississippi,Simpson,Region 4,0.1893
+Mississippi,Adams,Region 5,0.1879
+Mississippi,Amite,Region 5,0.1879
+Mississippi,Claiborne,Region 5,0.1879
+Mississippi,Franklin,Region 5,0.1879
+Mississippi,Jefferson,Region 5,0.1879
+Mississippi,Lawrence,Region 5,0.1879
+Mississippi,Lincoln,Region 5,0.1879
+Mississippi,Pike,Region 5,0.1879
+Mississippi,Walthall,Region 5,0.1879
+Mississippi,Wilkinson,Region 5,0.1879
+Mississippi,Covington,Region 6,0.1981
+Mississippi,Forrest,Region 6,0.1981
+Mississippi,Greene,Region 6,0.1981
+Mississippi,Jefferson Davis,Region 6,0.1981
+Mississippi,Jones,Region 6,0.1981
+Mississippi,Lamar,Region 6,0.1981
+Mississippi,Marion,Region 6,0.1981
+Mississippi,Perry,Region 6,0.1981
+Mississippi,Wayne,Region 6,0.1981
+Mississippi,George,Region 7,0.2073
+Mississippi,Hancock,Region 7,0.2073
+Mississippi,Harrison,Region 7,0.2073
+Mississippi,Jackson,Region 7,0.2073
+Mississippi,Pearl River,Region 7,0.2073
+Mississippi,Stone,Region 7,0.2073
+Missouri,Adair,Central,0.1938
+Missouri,Audrain,Central,0.1938
+Missouri,Boone,Central,0.1938
+Missouri,Callaway,Central,0.1938
+Missouri,Camden,Central,0.1938
+Missouri,Carroll,Central,0.1938
+Missouri,Chariton,Central,0.1938
+Missouri,Clark,Central,0.1938
+Missouri,Cole,Central,0.1938
+Missouri,Cooper,Central,0.1938
+Missouri,Howard,Central,0.1938
+Missouri,Knox,Central,0.1938
+Missouri,Laclede,Central,0.1938
+Missouri,Lewis,Central,0.1938
+Missouri,Macon,Central,0.1938
+Missouri,Marion,Central,0.1938
+Missouri,Miller,Central,0.1938
+Missouri,Moniteau,Central,0.1938
+Missouri,Monroe,Central,0.1938
+Missouri,Montgomery,Central,0.1938
+Missouri,Morgan,Central,0.1938
+Missouri,Osage,Central,0.1938
+Missouri,Pettis,Central,0.1938
+Missouri,Pike,Central,0.1938
+Missouri,Pulaski,Central,0.1938
+Missouri,Ralls,Central,0.1938
+Missouri,Randolph,Central,0.1938
+Missouri,Saline,Central,0.1938
+Missouri,Schuyler,Central,0.1938
+Missouri,Scotland,Central,0.1938
+Missouri,Shelby,Central,0.1938
+Missouri,ST LOUIS,Eastern (St. Louis City and County),0.1861
+Missouri,ST LOUIS CITY,Eastern (St. Louis City and County),0.1861
+Missouri,Franklin,Eastern (excluding St. Louis),0.2024
+Missouri,Jefferson,Eastern (excluding St. Louis),0.2024
+Missouri,Lincoln,Eastern (excluding St. Louis),0.2024
+Missouri,ST CHARLES,Eastern (excluding St. Louis),0.2024
+Missouri,Warren,Eastern (excluding St. Louis),0.2024
+Missouri,Jackson,Northwest (Jackson),0.2160
+Missouri,Andrew,Northwest (excluding Jackson),0.2119
+Missouri,Atchison,Northwest (excluding Jackson),0.2119
+Missouri,Buchanan,Northwest (excluding Jackson),0.2119
+Missouri,Caldwell,Northwest (excluding Jackson),0.2119
+Missouri,Cass,Northwest (excluding Jackson),0.2119
+Missouri,Clay,Northwest (excluding Jackson),0.2119
+Missouri,Clinton,Northwest (excluding Jackson),0.2119
+Missouri,Daviess,Northwest (excluding Jackson),0.2119
+Missouri,DeKalb,Northwest (excluding Jackson),0.2119
+Missouri,Gentry,Northwest (excluding Jackson),0.2119
+Missouri,Grundy,Northwest (excluding Jackson),0.2119
+Missouri,Harrison,Northwest (excluding Jackson),0.2119
+Missouri,Holt,Northwest (excluding Jackson),0.2119
+Missouri,Johnson,Northwest (excluding Jackson),0.2119
+Missouri,Lafayette,Northwest (excluding Jackson),0.2119
+Missouri,Linn,Northwest (excluding Jackson),0.2119
+Missouri,Livingston,Northwest (excluding Jackson),0.2119
+Missouri,Mercer,Northwest (excluding Jackson),0.2119
+Missouri,Nodaway,Northwest (excluding Jackson),0.2119
+Missouri,Platte,Northwest (excluding Jackson),0.2119
+Missouri,Putnam,Northwest (excluding Jackson),0.2119
+Missouri,Ray,Northwest (excluding Jackson),0.2119
+Missouri,Sullivan,Northwest (excluding Jackson),0.2119
+Missouri,Worth,Northwest (excluding Jackson),0.2119
+Missouri,Bollinger,Southeast,0.2153
+Missouri,Butler,Southeast,0.2153
+Missouri,Cape Girardeau,Southeast,0.2153
+Missouri,Carter,Southeast,0.2153
+Missouri,Crawford,Southeast,0.2153
+Missouri,Dent,Southeast,0.2153
+Missouri,Douglas,Southeast,0.2153
+Missouri,Dunklin,Southeast,0.2153
+Missouri,Gasconade,Southeast,0.2153
+Missouri,Howell,Southeast,0.2153
+Missouri,Iron,Southeast,0.2153
+Missouri,Madison,Southeast,0.2153
+Missouri,Maries,Southeast,0.2153
+Missouri,Mississippi,Southeast,0.2153
+Missouri,New Madrid,Southeast,0.2153
+Missouri,Oregon,Southeast,0.2153
+Missouri,Ozark,Southeast,0.2153
+Missouri,Pemiscot,Southeast,0.2153
+Missouri,Perry,Southeast,0.2153
+Missouri,Phelps,Southeast,0.2153
+Missouri,Reynolds,Southeast,0.2153
+Missouri,Ripley,Southeast,0.2153
+Missouri,Scott,Southeast,0.2153
+Missouri,Shannon,Southeast,0.2153
+Missouri,ST FRANCOIS,Southeast,0.2153
+Missouri,Ste Genevieve,Southeast,0.2153
+Missouri,Stoddard,Southeast,0.2153
+Missouri,Texas,Southeast,0.2153
+Missouri,Washington,Southeast,0.2153
+Missouri,Wayne,Southeast,0.2153
+Missouri,Wright,Southeast,0.2153
+Missouri,Barry,Southwest,0.2235
+Missouri,Barton,Southwest,0.2235
+Missouri,Bates,Southwest,0.2235
+Missouri,Benton,Southwest,0.2235
+Missouri,Cedar,Southwest,0.2235
+Missouri,Christian,Southwest,0.2235
+Missouri,Dade,Southwest,0.2235
+Missouri,Dallas,Southwest,0.2235
+Missouri,Greene,Southwest,0.2235
+Missouri,Henry,Southwest,0.2235
+Missouri,Hickory,Southwest,0.2235
+Missouri,Jasper,Southwest,0.2235
+Missouri,Lawrence,Southwest,0.2235
+Missouri,McDonald,Southwest,0.2235
+Missouri,Newton,Southwest,0.2235
+Missouri,Polk,Southwest,0.2235
+Missouri,ST CLAIR,Southwest,0.2235
+Missouri,Stone,Southwest,0.2235
+Missouri,Taney,Southwest,0.2235
+Missouri,Vernon,Southwest,0.2235
+Missouri,Webster,Southwest,0.2235
+Montana,Carter,Region 1,0.1911
+Montana,Custer,Region 1,0.1911
+Montana,Daniels,Region 1,0.1911
+Montana,Dawson,Region 1,0.1911
+Montana,Fallon,Region 1,0.1911
+Montana,Garfield,Region 1,0.1911
+Montana,McCone,Region 1,0.1911
+Montana,Phillips,Region 1,0.1911
+Montana,Powder River,Region 1,0.1911
+Montana,Prairie,Region 1,0.1911
+Montana,Richland,Region 1,0.1911
+Montana,Roosevelt,Region 1,0.1911
+Montana,Rosebud,Region 1,0.1911
+Montana,Sheridan,Region 1,0.1911
+Montana,Treasure,Region 1,0.1911
+Montana,Valley,Region 1,0.1911
+Montana,Wibaux,Region 1,0.1911
+Montana,Blaine,Region 2,0.1918
+Montana,Cascade,Region 2,0.1918
+Montana,Chouteau,Region 2,0.1918
+Montana,Glacier,Region 2,0.1918
+Montana,Hill,Region 2,0.1918
+Montana,Liberty,Region 2,0.1918
+Montana,Pondera,Region 2,0.1918
+Montana,Teton,Region 2,0.1918
+Montana,Toole,Region 2,0.1918
+Montana,Big Horn,Region 3,0.2012
+Montana,Carbon,Region 3,0.2012
+Montana,Fergus,Region 3,0.2012
+Montana,Golden Valley,Region 3,0.2012
+Montana,Judith Basin,Region 3,0.2012
+Montana,Musselshell,Region 3,0.2012
+Montana,Petroleum,Region 3,0.2012
+Montana,Stillwater,Region 3,0.2012
+Montana,Sweet Grass,Region 3,0.2012
+Montana,Wheatland,Region 3,0.2012
+Montana,Yellowstone,Region 3,0.2012
+Montana,Beaverhead,Region 4,0.1990
+Montana,Broadwater,Region 4,0.1990
+Montana,Deer Lodge,Region 4,0.1990
+Montana,Gallatin,Region 4,0.1990
+Montana,Granite,Region 4,0.1990
+Montana,Jefferson,Region 4,0.1990
+Montana,Lewis and Clark,Region 4,0.1990
+Montana,Madison,Region 4,0.1990
+Montana,Meagher,Region 4,0.1990
+Montana,Park,Region 4,0.1990
+Montana,Powell,Region 4,0.1990
+Montana,Silver Bow,Region 4,0.1990
+Montana,Flathead,Region 5,0.2005
+Montana,Lake,Region 5,0.2005
+Montana,Lincoln,Region 5,0.2005
+Montana,Mineral,Region 5,0.2005
+Montana,Missoula,Region 5,0.2005
+Montana,Ravalli,Region 5,0.2005
+Montana,Sanders,Region 5,0.2005
+Nebraska,Banner,Region 1,0.1776
+Nebraska,Box Butte,Region 1,0.1776
+Nebraska,Cheyenne,Region 1,0.1776
+Nebraska,Dawes,Region 1,0.1776
+Nebraska,Deuel,Region 1,0.1776
+Nebraska,Garden,Region 1,0.1776
+Nebraska,Kimball,Region 1,0.1776
+Nebraska,Morrill,Region 1,0.1776
+Nebraska,Scotts Bluff,Region 1,0.1776
+Nebraska,Sheridan,Region 1,0.1776
+Nebraska,Sioux,Region 1,0.1776
+Nebraska,Arthur,Region 2,0.1716
+Nebraska,Chase,Region 2,0.1716
+Nebraska,Dawson,Region 2,0.1716
+Nebraska,Dundy,Region 2,0.1716
+Nebraska,Frontier,Region 2,0.1716
+Nebraska,Gosper,Region 2,0.1716
+Nebraska,Grant,Region 2,0.1716
+Nebraska,Hayes,Region 2,0.1716
+Nebraska,Hitchcock,Region 2,0.1716
+Nebraska,Hooker,Region 2,0.1716
+Nebraska,Keith,Region 2,0.1716
+Nebraska,Lincoln,Region 2,0.1716
+Nebraska,Logan,Region 2,0.1716
+Nebraska,McPherson,Region 2,0.1716
+Nebraska,Perkins,Region 2,0.1716
+Nebraska,Red Willow,Region 2,0.1716
+Nebraska,Thomas,Region 2,0.1716
+Nebraska,Adams,Region 3,0.1685
+Nebraska,Blaine,Region 3,0.1685
+Nebraska,Buffalo,Region 3,0.1685
+Nebraska,Clay,Region 3,0.1685
+Nebraska,Custer,Region 3,0.1685
+Nebraska,Franklin,Region 3,0.1685
+Nebraska,Furnas,Region 3,0.1685
+Nebraska,Garfield,Region 3,0.1685
+Nebraska,Greeley,Region 3,0.1685
+Nebraska,Hall,Region 3,0.1685
+Nebraska,Hamilton,Region 3,0.1685
+Nebraska,Harlan,Region 3,0.1685
+Nebraska,Howard,Region 3,0.1685
+Nebraska,Kearney,Region 3,0.1685
+Nebraska,Loup,Region 3,0.1685
+Nebraska,Merrick,Region 3,0.1685
+Nebraska,Nuckolls,Region 3,0.1685
+Nebraska,Phelps,Region 3,0.1685
+Nebraska,Sherman,Region 3,0.1685
+Nebraska,Valley,Region 3,0.1685
+Nebraska,Webster,Region 3,0.1685
+Nebraska,Wheeler,Region 3,0.1685
+Nebraska,Antelope,Region 4,0.1576
+Nebraska,Boone,Region 4,0.1576
+Nebraska,Boyd,Region 4,0.1576
+Nebraska,Brown,Region 4,0.1576
+Nebraska,Burt,Region 4,0.1576
+Nebraska,Cedar,Region 4,0.1576
+Nebraska,Cherry,Region 4,0.1576
+Nebraska,Colfax,Region 4,0.1576
+Nebraska,Cuming,Region 4,0.1576
+Nebraska,Dakota,Region 4,0.1576
+Nebraska,Dixon,Region 4,0.1576
+Nebraska,Holt,Region 4,0.1576
+Nebraska,Keya Paha,Region 4,0.1576
+Nebraska,Knox,Region 4,0.1576
+Nebraska,Madison,Region 4,0.1576
+Nebraska,Nance,Region 4,0.1576
+Nebraska,Pierce,Region 4,0.1576
+Nebraska,Platte,Region 4,0.1576
+Nebraska,Rock,Region 4,0.1576
+Nebraska,Stanton,Region 4,0.1576
+Nebraska,Thurston,Region 4,0.1576
+Nebraska,Wayne,Region 4,0.1576
+Nebraska,Butler,Region 5,0.1956
+Nebraska,Fillmore,Region 5,0.1956
+Nebraska,Gage,Region 5,0.1956
+Nebraska,Jefferson,Region 5,0.1956
+Nebraska,Johnson,Region 5,0.1956
+Nebraska,Lancaster,Region 5,0.1956
+Nebraska,Nemaha,Region 5,0.1956
+Nebraska,Otoe,Region 5,0.1956
+Nebraska,Pawnee,Region 5,0.1956
+Nebraska,Polk,Region 5,0.1956
+Nebraska,Richardson,Region 5,0.1956
+Nebraska,Saline,Region 5,0.1956
+Nebraska,Saunders,Region 5,0.1956
+Nebraska,Seward,Region 5,0.1956
+Nebraska,Thayer,Region 5,0.1956
+Nebraska,York,Region 5,0.1956
+Nebraska,Cass,Region 6,0.1854
+Nebraska,Dodge,Region 6,0.1854
+Nebraska,Douglas,Region 6,0.1854
+Nebraska,Sarpy,Region 6,0.1854
+Nebraska,Washington,Region 6,0.1854
+Nevada,CLARK,Clark – Region 1,0.2011
+Nevada,WASHOE,Washoe – Region 2,0.1998
+New Hampshire,CHESHIRE,Southern 2,0.1967
+New Hampshire,GRAFTON,Northern,0.1943
+New Hampshire,HILLSBOROUGH,Southern 2,0.1967
+New Hampshire,MERRIMACK,Central 2,0.2023
+New Hampshire,ROCKINGHAM,Southern 1 (Rockingham),0.1869
+New Hampshire,STRAFFORD,Central 1,0.2239
+New Jersey,Hunterdon,Central,0.1682
+New Jersey,Mercer,Central,0.1682
+New Jersey,Monmouth,Central,0.1682
+New Jersey,Ocean,Central,0.1682
+New Jersey,Somerset,Central,0.1682
+New Jersey,Essex,Metropolitan,0.1452
+New Jersey,Middlesex,Metropolitan,0.1452
+New Jersey,Union,Metropolitan,0.1452
+New Jersey,Bergen,Northern,0.1470
+New Jersey,Hudson,Northern,0.1470
+New Jersey,Morris,Northern,0.1470
+New Jersey,Passaic,Northern,0.1470
+New Jersey,Sussex,Northern,0.1470
+New Jersey,Warren,Northern,0.1470
+New Jersey,Atlantic,Southern,0.1758
+New Jersey,Burlington,Southern,0.1758
+New Jersey,Camden,Southern,0.1758
+New Jersey,Cape May,Southern,0.1758
+New Jersey,Cumberland,Southern,0.1758
+New Jersey,Gloucester,Southern,0.1758
+New Jersey,Salem,Southern,0.1758
+New Mexico,Cibola,Region 1,0.1819
+New Mexico,McKinley,Region 1,0.1819
+New Mexico,Sandoval,Region 1,0.1819
+New Mexico,San Juan,Region 1,0.1819
+New Mexico,Valencia,Region 1,0.1819
+New Mexico,Colfax,Region 2,0.1764
+New Mexico,Guadalupe,Region 2,0.1764
+New Mexico,Los Alamos,Region 2,0.1764
+New Mexico,Mora,Region 2,0.1764
+New Mexico,Rio Arriba,Region 2,0.1764
+New Mexico,San Miguel,Region 2,0.1764
+New Mexico,Santa Fe,Region 2,0.1764
+New Mexico,Taos,Region 2,0.1764
+New Mexico,Union,Region 2,0.1764
+New Mexico,Bernalillo,Region 3 (Bernalillo),0.2073
+New Mexico,Chaves,Region 4,0.1713
+New Mexico,Curry,Region 4,0.1713
+New Mexico,De Baca,Region 4,0.1713
+New Mexico,Eddy,Region 4,0.1713
+New Mexico,Harding,Region 4,0.1713
+New Mexico,Lea,Region 4,0.1713
+New Mexico,Quay,Region 4,0.1713
+New Mexico,Roosevelt,Region 4,0.1713
+New Mexico,Catron,Region 5a,0.1850
+New Mexico,Grant,Region 5a,0.1850
+New Mexico,Hidalgo,Region 5a,0.1850
+New Mexico,Lincoln,Region 5a,0.1850
+New Mexico,Luna,Region 5a,0.1850
+New Mexico,Otero,Region 5a,0.1850
+New Mexico,Sierra,Region 5a,0.1850
+New Mexico,Socorro,Region 5a,0.1850
+New Mexico,Torrance,Region 5a,0.1850
+New Mexico,Dona Ana,Region 5b (Dona Ana),0.1934
+New York,ALBANY,Region 4: Capital Region,0.1928
+New York,BRONX,Region 2A: Bronx,0.1686
+New York,BROOME,Region 9: Southern Tier,0.2172
+New York,CATTARAUGUS,Region 11: Western,0.1769
+New York,CAYUGA,Region 8: Central,0.1959
+New York,CHAUTAUQUA,Region 11: Western,0.1769
+New York,CHEMUNG,Region 10: Finger Lakes,0.2052
+New York,CLINTON,Region 6: North Country,0.1877
+New York,DUTCHESS,Region 3: Mid-Hudson,0.1628
+New York,ERIE,Region 11: Western,0.1769
+New York,JEFFERSON,Region 7: Tug Hill Seaway,0.2019
+New York,KINGS,Region 2B: Kings,0.1869
+New York,LIVINGSTON,Region 10: Finger Lakes,0.2052
+New York,MADISON,Region 8: Central,0.1959
+New York,MONROE,Region 10: Finger Lakes,0.2052
+New York,NASSAU,Region 1: Long Island,0.1646
+New York,NEW YORK,Region 2C: New York,0.1950
+New York,NIAGARA,Region 11: Western,0.1769
+New York,ONEIDA,Region 8: Central,0.1959
+New York,ONONDAGA,Region 8: Central,0.1959
+New York,ONTARIO,Region 10: Finger Lakes,0.2052
+New York,ORANGE,Region 3: Mid-Hudson,0.1628
+New York,OSWEGO,Region 8: Central,0.1959
+New York,PUTNAM,Region 3: Mid-Hudson,0.1628
+New York,QUEENS,Region 2D: Queens,0.1738
+New York,RENSSELAER,Region 4: Capital Region,0.1928
+New York,RICHMOND,Region 2E: Richmond,0.1821
+New York,ROCKLAND,Region 3: Mid-Hudson,0.1628
+New York,ST LAWRENCE,Region 7: Tug Hill Seaway,0.2019
+New York,SARATOGA,Region 4: Capital Region,0.1928
+New York,SCHENECTADY,Region 4: Capital Region,0.1928
+New York,STEUBEN,Region 10: Finger Lakes,0.2052
+New York,SUFFOLK,Region 1: Long Island,0.1646
+New York,SULLIVAN,Region 3: Mid-Hudson,0.1628
+New York,TOMPKINS,Region 9: Southern Tier,0.2172
+New York,ULSTER,Region 3: Mid-Hudson,0.1628
+New York,WARREN,Region 6: North Country,0.1877
+New York,WAYNE,Region 10: Finger Lakes,0.2052
+New York,WESTCHESTER,Region 3: Mid-Hudson,0.1628
+North Carolina,Cumberland,Alliance Behavioral Healthcare 1,0.1998
+North Carolina,Durham,Alliance Behavioral Healthcare 1,0.1998
+North Carolina,Johnston,Alliance Behavioral Healthcare 1,0.1998
+North Carolina,Wake,Alliance Behavioral Healthcare 2,0.1874
+North Carolina,Cabarrus,Cardinal Innovations Healthcare Solutions 1,0.1752
+North Carolina,Davidson,Cardinal Innovations Healthcare Solutions 1,0.1752
+North Carolina,Rowan,Cardinal Innovations Healthcare Solutions 1,0.1752
+North Carolina,Stanly,Cardinal Innovations Healthcare Solutions 1,0.1752
+North Carolina,Union,Cardinal Innovations Healthcare Solutions 1,0.1752
+North Carolina,Alamance,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Caswell,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Chatham,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Franklin,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Granville,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Halifax,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Orange,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Person,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Vance,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Warren,Cardinal Innovations Healthcare Solutions 2,0.1847
+North Carolina,Mecklenburg,Cardinal Innovations Healthcare Solutions 3,0.1886
+North Carolina,Davie,CenterPoint Human Services,0.1837
+North Carolina,Forsyth,CenterPoint Human Services,0.1837
+North Carolina,Rockingham,CenterPoint Human Services,0.1837
+North Carolina,Stokes,CenterPoint Human Services,0.1837
+North Carolina,Bladen,Eastpointe,0.1729
+North Carolina,Columbus,Eastpointe,0.1729
+North Carolina,Duplin,Eastpointe,0.1729
+North Carolina,Edgecombe,Eastpointe,0.1729
+North Carolina,Greene,Eastpointe,0.1729
+North Carolina,Lenoir,Eastpointe,0.1729
+North Carolina,Nash,Eastpointe,0.1729
+North Carolina,Robeson,Eastpointe,0.1729
+North Carolina,Sampson,Eastpointe,0.1729
+North Carolina,Scotland,Eastpointe,0.1729
+North Carolina,Wayne,Eastpointe,0.1729
+North Carolina,Wilson,Eastpointe,0.1729
+North Carolina,Burke,Partners Behavioral Health Management,0.1895
+North Carolina,Catawba,Partners Behavioral Health Management,0.1895
+North Carolina,Cleveland,Partners Behavioral Health Management,0.1895
+North Carolina,Gaston,Partners Behavioral Health Management,0.1895
+North Carolina,Iredell,Partners Behavioral Health Management,0.1895
+North Carolina,Lincoln,Partners Behavioral Health Management,0.1895
+North Carolina,Surry,Partners Behavioral Health Management,0.1895
+North Carolina,Yadkin,Partners Behavioral Health Management,0.1895
+North Carolina,Anson,Sandhills Center 1,0.1776
+North Carolina,Harnett,Sandhills Center 1,0.1776
+North Carolina,Hoke,Sandhills Center 1,0.1776
+North Carolina,Lee,Sandhills Center 1,0.1776
+North Carolina,Montgomery,Sandhills Center 1,0.1776
+North Carolina,Moore,Sandhills Center 1,0.1776
+North Carolina,Randolph,Sandhills Center 1,0.1776
+North Carolina,Richmond,Sandhills Center 1,0.1776
+North Carolina,Guilford,Sandhills Center 2,0.1802
+North Carolina,Alexander,Smoky Mountain Center 1,0.1908
+North Carolina,Alleghany,Smoky Mountain Center 1,0.1908
+North Carolina,Ashe,Smoky Mountain Center 1,0.1908
+North Carolina,Avery,Smoky Mountain Center 1,0.1908
+North Carolina,Caldwell,Smoky Mountain Center 1,0.1908
+North Carolina,Cherokee,Smoky Mountain Center 1,0.1908
+North Carolina,Clay,Smoky Mountain Center 1,0.1908
+North Carolina,Graham,Smoky Mountain Center 1,0.1908
+North Carolina,Haywood,Smoky Mountain Center 1,0.1908
+North Carolina,Jackson,Smoky Mountain Center 1,0.1908
+North Carolina,Macon,Smoky Mountain Center 1,0.1908
+North Carolina,McDowell,Smoky Mountain Center 1,0.1908
+North Carolina,Swain,Smoky Mountain Center 1,0.1908
+North Carolina,Watauga,Smoky Mountain Center 1,0.1908
+North Carolina,Wilkes,Smoky Mountain Center 1,0.1908
+North Carolina,Buncombe,Smoky Mountain Center 2,0.1809
+North Carolina,Henderson,Smoky Mountain Center 2,0.1809
+North Carolina,Madison,Smoky Mountain Center 2,0.1809
+North Carolina,Mitchell,Smoky Mountain Center 2,0.1809
+North Carolina,Polk,Smoky Mountain Center 2,0.1809
+North Carolina,Rutherford,Smoky Mountain Center 2,0.1809
+North Carolina,Transylvania,Smoky Mountain Center 2,0.1809
+North Carolina,Yancey,Smoky Mountain Center 2,0.1809
+North Carolina,Beaufort,Trillium Healthcare Resources 1,0.1809
+North Carolina,Bertie,Trillium Healthcare Resources 1,0.1809
+North Carolina,Camden,Trillium Healthcare Resources 1,0.1809
+North Carolina,Chowan,Trillium Healthcare Resources 1,0.1809
+North Carolina,Craven,Trillium Healthcare Resources 1,0.1809
+North Carolina,Currituck,Trillium Healthcare Resources 1,0.1809
+North Carolina,Dare,Trillium Healthcare Resources 1,0.1809
+North Carolina,Gates,Trillium Healthcare Resources 1,0.1809
+North Carolina,Hertford,Trillium Healthcare Resources 1,0.1809
+North Carolina,Hyde,Trillium Healthcare Resources 1,0.1809
+North Carolina,Jones,Trillium Healthcare Resources 1,0.1809
+North Carolina,Martin,Trillium Healthcare Resources 1,0.1809
+North Carolina,Northampton,Trillium Healthcare Resources 1,0.1809
+North Carolina,Pamlico,Trillium Healthcare Resources 1,0.1809
+North Carolina,Pasquotank,Trillium Healthcare Resources 1,0.1809
+North Carolina,Perquimans,Trillium Healthcare Resources 1,0.1809
+North Carolina,Pitt,Trillium Healthcare Resources 1,0.1809
+North Carolina,Tyrrell,Trillium Healthcare Resources 1,0.1809
+North Carolina,Washington,Trillium Healthcare Resources 1,0.1809
+North Carolina,Brunswick,Trillium Healthcare Resources 2,0.2112
+North Carolina,Carteret,Trillium Healthcare Resources 2,0.2112
+North Carolina,New Hanover,Trillium Healthcare Resources 2,0.2112
+North Carolina,Onslow,Trillium Healthcare Resources 2,0.2112
+North Carolina,Pender,Trillium Healthcare Resources 2,0.2112
+North Dakota,Adams,Badlands,0.1747
+North Dakota,Billings,Badlands,0.1747
+North Dakota,Bowman,Badlands,0.1747
+North Dakota,Dunn,Badlands,0.1747
+North Dakota,Golden Valley,Badlands,0.1747
+North Dakota,Hettinger,Badlands,0.1747
+North Dakota,Slope,Badlands,0.1747
+North Dakota,Stark,Badlands,0.1747
+North Dakota,Burleigh,West Central,0.1614
+North Dakota,Emmons,West Central,0.1614
+North Dakota,Grant,West Central,0.1614
+North Dakota,Kidder,West Central,0.1614
+North Dakota,McLean,West Central,0.1614
+North Dakota,Mercer,West Central,0.1614
+North Dakota,Morton,West Central,0.1614
+North Dakota,Oliver,West Central,0.1614
+North Dakota,Sheridan,West Central,0.1614
+North Dakota,Sioux,West Central,0.1614
+North Dakota,Benson,Lake Region,0.1809
+North Dakota,Cavalier,Lake Region,0.1809
+North Dakota,Eddy,Lake Region,0.1809
+North Dakota,Ramsey,Lake Region,0.1809
+North Dakota,Rolette,Lake Region,0.1809
+North Dakota,Towner,Lake Region,0.1809
+North Dakota,Bottineau,North Central,0.1850
+North Dakota,Burke,North Central,0.1850
+North Dakota,McHenry,North Central,0.1850
+North Dakota,Mountrail,North Central,0.1850
+North Dakota,Pierce,North Central,0.1850
+North Dakota,Renville,North Central,0.1850
+North Dakota,Ward,North Central,0.1850
+North Dakota,Grand Forks,Northeast,0.1937
+North Dakota,Nelson,Northeast,0.1937
+North Dakota,Pembina,Northeast,0.1937
+North Dakota,Walsh,Northeast,0.1937
+North Dakota,Divide,Northwest,0.1888
+North Dakota,McKenzie,Northwest,0.1888
+North Dakota,Williams,Northwest,0.1888
+North Dakota,Barnes,South Central,0.1675
+North Dakota,Dickey,South Central,0.1675
+North Dakota,Foster,South Central,0.1675
+North Dakota,Griggs,South Central,0.1675
+North Dakota,LaMoure,South Central,0.1675
+North Dakota,Logan,South Central,0.1675
+North Dakota,McIntosh,South Central,0.1675
+North Dakota,Stutsman,South Central,0.1675
+North Dakota,Wells,South Central,0.1675
+North Dakota,Cass,Southeast,0.2002
+North Dakota,Ransom,Southeast,0.2002
+North Dakota,Richland,Southeast,0.2002
+North Dakota,Sargent,Southeast,0.2002
+North Dakota,Steele,Southeast,0.2002
+North Dakota,Traill,Southeast,0.2002
+Ohio,Allen,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Auglaize,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Hardin,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Champaign,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Logan,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Darke,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Miami,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Shelby,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Preble,"Boards 2, 46, 55, and 68",0.2086
+Ohio,Ashland,"Boards 3, 52, and 85",0.1940
+Ohio,Medina,"Boards 3, 52, and 85",0.1940
+Ohio,Holmes,"Boards 3, 52, and 85",0.1940
+Ohio,Wayne,"Boards 3, 52, and 85",0.1940
+Ohio,Ashtabula,Boards 4 and 78,0.2033
+Ohio,Trumbull,Boards 4 and 78,0.2033
+Ohio,Athens,Boards 5 and 60,0.2315
+Ohio,Hocking,Boards 5 and 60,0.2315
+Ohio,Vinton,Boards 5 and 60,0.2315
+Ohio,Coshocton,Boards 5 and 60,0.2315
+Ohio,Guernsey,Boards 5 and 60,0.2315
+Ohio,Morgan,Boards 5 and 60,0.2315
+Ohio,Muskingum,Boards 5 and 60,0.2315
+Ohio,Noble,Boards 5 and 60,0.2315
+Ohio,Perry,Boards 5 and 60,0.2315
+Ohio,Belmont,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Harrison,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Monroe,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Columbiana,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Jefferson,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Carroll,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Tuscarawas,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Washington,"Boards 7, 15, 41, 79, and 84",0.2000
+Ohio,Brown,"Boards 8, 13, and 83",0.2085
+Ohio,Clermont,"Boards 8, 13, and 83",0.2085
+Ohio,Clinton,"Boards 8, 13, and 83",0.2085
+Ohio,Warren,"Boards 8, 13, and 83",0.2085
+Ohio,Butler,Board 9 (Butler),0.2108
+Ohio,Clark,Board 12,0.2237
+Ohio,Greene,Board 12,0.2237
+Ohio,Madison,Board 12,0.2237
+Ohio,Cuyahoga,Boards 18 and 47,0.1929
+Ohio,Lorain,Boards 18 and 47,0.1929
+Ohio,Defiance,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Fulton,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Henry,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Williams,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Hancock,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Mercer,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Paulding,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Van Wert,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Putnam,"Boards 20, 32, 54, and 69",0.2007
+Ohio,Delaware,"Boards 21, 39, 51, 70, and 80",0.2065
+Ohio,Morrow,"Boards 21, 39, 51, 70, and 80",0.2065
+Ohio,Huron,"Boards 21, 39, 51, 70, and 80",0.2065
+Ohio,Crawford,"Boards 21, 39, 51, 70, and 80",0.2065
+Ohio,Marion,"Boards 21, 39, 51, 70, and 80",0.2065
+Ohio,Richland,"Boards 21, 39, 51, 70, and 80",0.2065
+Ohio,Union,"Boards 21, 39, 51, 70, and 80",0.2065
+Ohio,Erie,"Boards 22, 74, and 87",0.1992
+Ohio,Ottawa,"Boards 22, 74, and 87",0.1992
+Ohio,Sandusky,"Boards 22, 74, and 87",0.1992
+Ohio,Seneca,"Boards 22, 74, and 87",0.1992
+Ohio,Wyandot,"Boards 22, 74, and 87",0.1992
+Ohio,Wood,"Boards 22, 74, and 87",0.1992
+Ohio,Fairfield,Boards 23 and 45,0.2198
+Ohio,Knox,Boards 23 and 45,0.2198
+Ohio,Licking,Boards 23 and 45,0.2198
+Ohio,Franklin,Board 25 (Franklin),0.2228
+Ohio,Gallia,"Boards 27, 71, and 73",0.2133
+Ohio,Jackson,"Boards 27, 71, and 73",0.2133
+Ohio,Meigs,"Boards 27, 71, and 73",0.2133
+Ohio,Fayette,"Boards 27, 71, and 73",0.2133
+Ohio,Highland,"Boards 27, 71, and 73",0.2133
+Ohio,Pickaway,"Boards 27, 71, and 73",0.2133
+Ohio,Pike,"Boards 27, 71, and 73",0.2133
+Ohio,Ross,"Boards 27, 71, and 73",0.2133
+Ohio,Adams,"Boards 27, 71, and 73",0.2133
+Ohio,Lawrence,"Boards 27, 71, and 73",0.2133
+Ohio,Scioto,"Boards 27, 71, and 73",0.2133
+Ohio,Geauga,"Boards 28, 43, and 67",0.2044
+Ohio,Lake,"Boards 28, 43, and 67",0.2044
+Ohio,Portage,"Boards 28, 43, and 67",0.2044
+Ohio,Hamilton,Board 31 (Hamilton),0.1980
+Ohio,Lucas,Board 48 (Lucas),0.2245
+Ohio,Mahoning,Boards 50 and 76,0.2097
+Ohio,Stark,Boards 50 and 76,0.2097
+Ohio,Montgomery,Board 57 (Montgomery),0.2233
+Ohio,Summit,Board 77 (Summit),0.2148
+Oklahoma,Canadian,Central,0.2021
+Oklahoma,Cleveland,Central,0.2021
+Oklahoma,Grady,Central,0.2021
+Oklahoma,McClain,Central,0.2021
+Oklahoma,Adair,East Central,0.1993
+Oklahoma,Cherokee,East Central,0.1993
+Oklahoma,Creek,East Central,0.1993
+Oklahoma,Lincoln,East Central,0.1993
+Oklahoma,McIntosh,East Central,0.1993
+Oklahoma,Muskogee,East Central,0.1993
+Oklahoma,Okfuskee,East Central,0.1993
+Oklahoma,Okmulgee,East Central,0.1993
+Oklahoma,Sequoyah,East Central,0.1993
+Oklahoma,Wagoner,East Central,0.1993
+Oklahoma,Craig,Northeast,0.2040
+Oklahoma,Delaware,Northeast,0.2040
+Oklahoma,Kay,Northeast,0.2040
+Oklahoma,Mayes,Northeast,0.2040
+Oklahoma,Noble,Northeast,0.2040
+Oklahoma,Nowata,Northeast,0.2040
+Oklahoma,Osage,Northeast,0.2040
+Oklahoma,Ottawa,Northeast,0.2040
+Oklahoma,Pawnee,Northeast,0.2040
+Oklahoma,Payne,Northeast,0.2040
+Oklahoma,Rogers,Northeast,0.2040
+Oklahoma,Washington,Northeast,0.2040
+Oklahoma,Alfalfa,Northwest and Southwest,0.1789
+Oklahoma,Beaver,Northwest and Southwest,0.1789
+Oklahoma,Cimarron,Northwest and Southwest,0.1789
+Oklahoma,Ellis,Northwest and Southwest,0.1789
+Oklahoma,Garfield,Northwest and Southwest,0.1789
+Oklahoma,Grant,Northwest and Southwest,0.1789
+Oklahoma,Harper,Northwest and Southwest,0.1789
+Oklahoma,Kingfisher,Northwest and Southwest,0.1789
+Oklahoma,Logan,Northwest and Southwest,0.1789
+Oklahoma,Major,Northwest and Southwest,0.1789
+Oklahoma,Texas,Northwest and Southwest,0.1789
+Oklahoma,Woods,Northwest and Southwest,0.1789
+Oklahoma,Woodward,Northwest and Southwest,0.1789
+Oklahoma,Beckham,Northwest and Southwest,0.1789
+Oklahoma,Blaine,Northwest and Southwest,0.1789
+Oklahoma,Caddo,Northwest and Southwest,0.1789
+Oklahoma,Comanche,Northwest and Southwest,0.1789
+Oklahoma,Cotton,Northwest and Southwest,0.1789
+Oklahoma,Custer,Northwest and Southwest,0.1789
+Oklahoma,Dewey,Northwest and Southwest,0.1789
+Oklahoma,Greer,Northwest and Southwest,0.1789
+Oklahoma,Harmon,Northwest and Southwest,0.1789
+Oklahoma,Jackson,Northwest and Southwest,0.1789
+Oklahoma,Jefferson,Northwest and Southwest,0.1789
+Oklahoma,Kiowa,Northwest and Southwest,0.1789
+Oklahoma,Roger Mills,Northwest and Southwest,0.1789
+Oklahoma,Stephens,Northwest and Southwest,0.1789
+Oklahoma,Tillman,Northwest and Southwest,0.1789
+Oklahoma,Washita,Northwest and Southwest,0.1789
+Oklahoma,Oklahoma,Oklahoma County,0.2198
+Oklahoma,Atoka,Southeast,0.1981
+Oklahoma,Bryan,Southeast,0.1981
+Oklahoma,Carter,Southeast,0.1981
+Oklahoma,Choctaw,Southeast,0.1981
+Oklahoma,Coal,Southeast,0.1981
+Oklahoma,Garvin,Southeast,0.1981
+Oklahoma,Haskell,Southeast,0.1981
+Oklahoma,Hughes,Southeast,0.1981
+Oklahoma,Johnston,Southeast,0.1981
+Oklahoma,Latimer,Southeast,0.1981
+Oklahoma,Le Flore,Southeast,0.1981
+Oklahoma,Love,Southeast,0.1981
+Oklahoma,Marshall,Southeast,0.1981
+Oklahoma,McCurtain,Southeast,0.1981
+Oklahoma,Murray,Southeast,0.1981
+Oklahoma,Pittsburg,Southeast,0.1981
+Oklahoma,Pontotoc,Southeast,0.1981
+Oklahoma,Pottawatomie,Southeast,0.1981
+Oklahoma,Pushmataha,Southeast,0.1981
+Oklahoma,Seminole,Southeast,0.1981
+Oklahoma,Tulsa,Tulsa County,0.2012
+Oregon,Multnomah,Region 1 (Multnomah),0.2735
+Oregon,Clackamas,Region 2,0.2082
+Oregon,Washington,Region 2,0.2082
+Oregon,Benton,Region 3,0.2451
+Oregon,Clatsop,Region 3,0.2451
+Oregon,Columbia,Region 3,0.2451
+Oregon,Lane,Region 3,0.2451
+Oregon,Lincoln,Region 3,0.2451
+Oregon,Linn,Region 3,0.2451
+Oregon,Marion,Region 3,0.2451
+Oregon,Polk,Region 3,0.2451
+Oregon,Tillamook,Region 3,0.2451
+Oregon,Yamhill,Region 3,0.2451
+Oregon,Coos,Region 4,0.2344
+Oregon,Curry,Region 4,0.2344
+Oregon,Douglas,Region 4,0.2344
+Oregon,Jackson,Region 4,0.2344
+Oregon,Josephine,Region 4,0.2344
+Oregon,Klamath,Region 4,0.2344
+Oregon,Crook,Region 5 (Central),0.2123
+Oregon,Deschutes,Region 5 (Central),0.2123
+Oregon,Jefferson,Region 5 (Central),0.2123
+Oregon,Baker,Region 6 (Eastern),0.2120
+Oregon,Gilliam,Region 6 (Eastern),0.2120
+Oregon,Grant,Region 6 (Eastern),0.2120
+Oregon,Harney,Region 6 (Eastern),0.2120
+Oregon,Hood River,Region 6 (Eastern),0.2120
+Oregon,Lake,Region 6 (Eastern),0.2120
+Oregon,Malheur,Region 6 (Eastern),0.2120
+Oregon,Morrow,Region 6 (Eastern),0.2120
+Oregon,Sherman,Region 6 (Eastern),0.2120
+Oregon,Umatilla,Region 6 (Eastern),0.2120
+Oregon,Union,Region 6 (Eastern),0.2120
+Oregon,Wallowa,Region 6 (Eastern),0.2120
+Oregon,Wasco,Region 6 (Eastern),0.2120
+Oregon,Wheeler,Region 6 (Eastern),0.2120
+Pennsylvania,Allegheny,Region 1 (Allegheny),0.1901
+Pennsylvania,Beaver,"Regions 3, 8, 9, and 51",0.1755
+Pennsylvania,Butler,"Regions 3, 8, 9, and 51",0.1755
+Pennsylvania,Cambria,"Regions 3, 8, 9, and 51",0.1755
+Pennsylvania,Armstrong,"Regions 3, 8, 9, and 51",0.1755
+Pennsylvania,Clarion,"Regions 3, 8, 9, and 51",0.1755
+Pennsylvania,Indiana,"Regions 3, 8, 9, and 51",0.1755
+Pennsylvania,Berks,"Regions 4, 11, 37, and 49",0.1915
+Pennsylvania,Carbon,"Regions 4, 11, 37, and 49",0.1915
+Pennsylvania,Monroe,"Regions 4, 11, 37, and 49",0.1915
+Pennsylvania,Pike,"Regions 4, 11, 37, and 49",0.1915
+Pennsylvania,Schuylkill,"Regions 4, 11, 37, and 49",0.1915
+Pennsylvania,Wayne,"Regions 4, 11, 37, and 49",0.1915
+Pennsylvania,Blair,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Cumberland,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Perry,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Franklin,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Fulton,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Huntingdon,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Juniata,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Mifflin,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Bedford,"Regions 5, 18, 23, 24, and 46",0.1941
+Pennsylvania,Bradford,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Sullivan,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Centre,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Columbia,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Montour,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Snyder,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Union,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Clinton,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Lycoming,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Northumberland,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Tioga,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Potter,"Regions 6, 12, 16, 31, 35, 45, and 47",0.1842
+Pennsylvania,Bucks,"Regions 7, 13, 20, and 33",0.1740
+Pennsylvania,Chester,"Regions 7, 13, 20, and 33",0.1740
+Pennsylvania,Delaware,"Regions 7, 13, 20, and 33",0.1740
+Pennsylvania,Montgomery,"Regions 7, 13, 20, and 33",0.1740
+Pennsylvania,Cameron,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Elk,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,McKean,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Clearfield,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Jefferson,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Lawrence,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Mercer,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Forest,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Warren,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Venango,"Regions 10, 15, 27, 32, 43, and 44",0.1803
+Pennsylvania,Crawford,Regions 17 and 21,0.2040
+Pennsylvania,Erie,Regions 17 and 21,0.2040
+Pennsylvania,Dauphin,"Regions 19, 26, 28, and 42",0.1883
+Pennsylvania,Lancaster,"Regions 19, 26, 28, and 42",0.1883
+Pennsylvania,Lebanon,"Regions 19, 26, 28, and 42",0.1883
+Pennsylvania,Adams,"Regions 19, 26, 28, and 42",0.1883
+Pennsylvania,York,"Regions 19, 26, 28, and 42",0.1883
+Pennsylvania,Fayette,"Regions 22, 38, 40, 41, and 48",0.1863
+Pennsylvania,Somerset,"Regions 22, 38, 40, 41, and 48",0.1863
+Pennsylvania,Washington,"Regions 22, 38, 40, 41, and 48",0.1863
+Pennsylvania,Westmoreland,"Regions 22, 38, 40, 41, and 48",0.1863
+Pennsylvania,Greene,"Regions 22, 38, 40, 41, and 48",0.1863
+Pennsylvania,Lehigh,Regions 29 and 34,0.1861
+Pennsylvania,Northampton,Regions 29 and 34,0.1861
+Pennsylvania,Luzerne,Regions 30 and 50,0.1852
+Pennsylvania,Wyoming,Regions 30 and 50,0.1852
+Pennsylvania,Lackawanna,Regions 30 and 50,0.1852
+Pennsylvania,Susquehanna,Regions 30 and 50,0.1852
+Pennsylvania,Philadelphia,Region 36 (Philadelphia),0.1750
+Rhode Island,KENT,Region 4: Kent County,0.2075
+Rhode Island,NEWPORT,Region 6: Newport County,0.1893
+Rhode Island,PROVIDENCE,Region 1: Southern Providence County,0.1919
+Rhode Island,WASHINGTON,Region 7: South County,0.1933
+South Carolina,Abbeville,Region 1,0.1726
+South Carolina,Anderson,Region 1,0.1726
+South Carolina,Cherokee,Region 1,0.1726
+South Carolina,Edgefield,Region 1,0.1726
+South Carolina,Greenville,Region 1,0.1726
+South Carolina,Greenwood,Region 1,0.1726
+South Carolina,Laurens,Region 1,0.1726
+South Carolina,McCormick,Region 1,0.1726
+South Carolina,Newberry,Region 1,0.1726
+South Carolina,Oconee,Region 1,0.1726
+South Carolina,Pickens,Region 1,0.1726
+South Carolina,Saluda,Region 1,0.1726
+South Carolina,Spartanburg,Region 1,0.1726
+South Carolina,Union,Region 1,0.1726
+South Carolina,Chester,Region 2,0.1871
+South Carolina,Chesterfield,Region 2,0.1871
+South Carolina,Fairfield,Region 2,0.1871
+South Carolina,Kershaw,Region 2,0.1871
+South Carolina,Lancaster,Region 2,0.1871
+South Carolina,Lee,Region 2,0.1871
+South Carolina,Lexington,Region 2,0.1871
+South Carolina,Richland,Region 2,0.1871
+South Carolina,York,Region 2,0.1871
+South Carolina,Clarendon,Region 3,0.1864
+South Carolina,Darlington,Region 3,0.1864
+South Carolina,Dillon,Region 3,0.1864
+South Carolina,Florence,Region 3,0.1864
+South Carolina,Georgetown,Region 3,0.1864
+South Carolina,Horry,Region 3,0.1864
+South Carolina,Marion,Region 3,0.1864
+South Carolina,Marlboro,Region 3,0.1864
+South Carolina,Sumter,Region 3,0.1864
+South Carolina,Williamsburg,Region 3,0.1864
+South Carolina,Aiken,Region 4,0.1949
+South Carolina,Allendale,Region 4,0.1949
+South Carolina,Bamberg,Region 4,0.1949
+South Carolina,Barnwell,Region 4,0.1949
+South Carolina,Beaufort,Region 4,0.1949
+South Carolina,Berkeley,Region 4,0.1949
+South Carolina,Calhoun,Region 4,0.1949
+South Carolina,Charleston,Region 4,0.1949
+South Carolina,Colleton,Region 4,0.1949
+South Carolina,Dorchester,Region 4,0.1949
+South Carolina,Hampton,Region 4,0.1949
+South Carolina,Jasper,Region 4,0.1949
+South Carolina,Orangeburg,Region 4,0.1949
+South Dakota,Bennett,Region 1,0.1820
+South Dakota,Butte,Region 1,0.1820
+South Dakota,Custer,Region 1,0.1820
+South Dakota,Fall River,Region 1,0.1820
+South Dakota,Harding,Region 1,0.1820
+South Dakota,Jackson,Region 1,0.1820
+South Dakota,Lawrence,Region 1,0.1820
+South Dakota,Meade,Region 1,0.1820
+South Dakota,Oglala Lakota,Region 1,0.1820
+South Dakota,Pennington,Region 1,0.1820
+South Dakota,Perkins,Region 1,0.1820
+South Dakota,Buffalo,Region 2,0.1605
+South Dakota,Campbell,Region 2,0.1605
+South Dakota,Corson,Region 2,0.1605
+South Dakota,Dewey,Region 2,0.1605
+South Dakota,Gregory,Region 2,0.1605
+South Dakota,Haakon,Region 2,0.1605
+South Dakota,Hand,Region 2,0.1605
+South Dakota,Hughes,Region 2,0.1605
+South Dakota,Hyde,Region 2,0.1605
+South Dakota,Jones,Region 2,0.1605
+South Dakota,Lyman,Region 2,0.1605
+South Dakota,Mellette,Region 2,0.1605
+South Dakota,Potter,Region 2,0.1605
+South Dakota,Stanley,Region 2,0.1605
+South Dakota,Sully,Region 2,0.1605
+South Dakota,Todd,Region 2,0.1605
+South Dakota,Tripp,Region 2,0.1605
+South Dakota,Walworth,Region 2,0.1605
+South Dakota,Ziebach,Region 2,0.1605
+South Dakota,Beadle,Region 3,0.1682
+South Dakota,Brookings,Region 3,0.1682
+South Dakota,Brown,Region 3,0.1682
+South Dakota,Clark,Region 3,0.1682
+South Dakota,Codington,Region 3,0.1682
+South Dakota,Day,Region 3,0.1682
+South Dakota,Deuel,Region 3,0.1682
+South Dakota,Edmunds,Region 3,0.1682
+South Dakota,Faulk,Region 3,0.1682
+South Dakota,Grant,Region 3,0.1682
+South Dakota,Hamlin,Region 3,0.1682
+South Dakota,Kingsbury,Region 3,0.1682
+South Dakota,Lake,Region 3,0.1682
+South Dakota,Marshall,Region 3,0.1682
+South Dakota,McPherson,Region 3,0.1682
+South Dakota,Moody,Region 3,0.1682
+South Dakota,Roberts,Region 3,0.1682
+South Dakota,Spink,Region 3,0.1682
+South Dakota,Aurora,Region 4,0.1672
+South Dakota,Bon Homme,Region 4,0.1672
+South Dakota,Brule,Region 4,0.1672
+South Dakota,Charles Mix,Region 4,0.1672
+South Dakota,Clay,Region 4,0.1672
+South Dakota,Davison,Region 4,0.1672
+South Dakota,Douglas,Region 4,0.1672
+South Dakota,Hanson,Region 4,0.1672
+South Dakota,Hutchinson,Region 4,0.1672
+South Dakota,Jerauld,Region 4,0.1672
+South Dakota,Miner,Region 4,0.1672
+South Dakota,Sanborn,Region 4,0.1672
+South Dakota,Union,Region 4,0.1672
+South Dakota,Yankton,Region 4,0.1672
+South Dakota,Lincoln,Region 5,0.1689
+South Dakota,McCook,Region 5,0.1689
+South Dakota,Minnehaha,Region 5,0.1689
+South Dakota,Turner,Region 5,0.1689
+Tennessee,Carter,Region 1,0.1879
+Tennessee,Greene,Region 1,0.1879
+Tennessee,Hancock,Region 1,0.1879
+Tennessee,Hawkins,Region 1,0.1879
+Tennessee,Johnson,Region 1,0.1879
+Tennessee,Sullivan,Region 1,0.1879
+Tennessee,Unicoi,Region 1,0.1879
+Tennessee,Washington,Region 1,0.1879
+Tennessee,Anderson,Region 2,0.1914
+Tennessee,Blount,Region 2,0.1914
+Tennessee,Campbell,Region 2,0.1914
+Tennessee,Claiborne,Region 2,0.1914
+Tennessee,Cocke,Region 2,0.1914
+Tennessee,Grainger,Region 2,0.1914
+Tennessee,Hamblen,Region 2,0.1914
+Tennessee,Jefferson,Region 2,0.1914
+Tennessee,Knox,Region 2,0.1914
+Tennessee,Loudon,Region 2,0.1914
+Tennessee,Monroe,Region 2,0.1914
+Tennessee,Morgan,Region 2,0.1914
+Tennessee,Roane,Region 2,0.1914
+Tennessee,Scott,Region 2,0.1914
+Tennessee,Sevier,Region 2,0.1914
+Tennessee,Union,Region 2,0.1914
+Tennessee,Bledsoe,Region 3,0.1915
+Tennessee,Bradley,Region 3,0.1915
+Tennessee,Clay,Region 3,0.1915
+Tennessee,Cumberland,Region 3,0.1915
+Tennessee,DeKalb,Region 3,0.1915
+Tennessee,Fentress,Region 3,0.1915
+Tennessee,Grundy,Region 3,0.1915
+Tennessee,Hamilton,Region 3,0.1915
+Tennessee,Jackson,Region 3,0.1915
+Tennessee,Macon,Region 3,0.1915
+Tennessee,Marion,Region 3,0.1915
+Tennessee,McMinn,Region 3,0.1915
+Tennessee,Meigs,Region 3,0.1915
+Tennessee,Overton,Region 3,0.1915
+Tennessee,Pickett,Region 3,0.1915
+Tennessee,Polk,Region 3,0.1915
+Tennessee,Putnam,Region 3,0.1915
+Tennessee,Rhea,Region 3,0.1915
+Tennessee,Sequatchie,Region 3,0.1915
+Tennessee,Smith,Region 3,0.1915
+Tennessee,Van Buren,Region 3,0.1915
+Tennessee,Warren,Region 3,0.1915
+Tennessee,White,Region 3,0.1915
+Tennessee,Davidson,Region 4 (Davidson),0.1818
+Tennessee,Bedford,Region 5,0.1893
+Tennessee,Cannon,Region 5,0.1893
+Tennessee,Cheatham,Region 5,0.1893
+Tennessee,Coffee,Region 5,0.1893
+Tennessee,Dickson,Region 5,0.1893
+Tennessee,Franklin,Region 5,0.1893
+Tennessee,Giles,Region 5,0.1893
+Tennessee,Hickman,Region 5,0.1893
+Tennessee,Houston,Region 5,0.1893
+Tennessee,Humphreys,Region 5,0.1893
+Tennessee,Lawrence,Region 5,0.1893
+Tennessee,Lewis,Region 5,0.1893
+Tennessee,Lincoln,Region 5,0.1893
+Tennessee,Marshall,Region 5,0.1893
+Tennessee,Maury,Region 5,0.1893
+Tennessee,Montgomery,Region 5,0.1893
+Tennessee,Moore,Region 5,0.1893
+Tennessee,Perry,Region 5,0.1893
+Tennessee,Robertson,Region 5,0.1893
+Tennessee,Rutherford,Region 5,0.1893
+Tennessee,Stewart,Region 5,0.1893
+Tennessee,Sumner,Region 5,0.1893
+Tennessee,Trousdale,Region 5,0.1893
+Tennessee,Wayne,Region 5,0.1893
+Tennessee,Williamson,Region 5,0.1893
+Tennessee,Wilson,Region 5,0.1893
+Tennessee,Benton,Region 6,0.1876
+Tennessee,Carroll,Region 6,0.1876
+Tennessee,Chester,Region 6,0.1876
+Tennessee,Crockett,Region 6,0.1876
+Tennessee,Decatur,Region 6,0.1876
+Tennessee,Dyer,Region 6,0.1876
+Tennessee,Fayette,Region 6,0.1876
+Tennessee,Gibson,Region 6,0.1876
+Tennessee,Hardeman,Region 6,0.1876
+Tennessee,Hardin,Region 6,0.1876
+Tennessee,Haywood,Region 6,0.1876
+Tennessee,Henderson,Region 6,0.1876
+Tennessee,Henry,Region 6,0.1876
+Tennessee,Lake,Region 6,0.1876
+Tennessee,Lauderdale,Region 6,0.1876
+Tennessee,Madison,Region 6,0.1876
+Tennessee,McNairy,Region 6,0.1876
+Tennessee,Obion,Region 6,0.1876
+Tennessee,Tipton,Region 6,0.1876
+Tennessee,Weakley,Region 6,0.1876
+Tennessee,Shelby,Region 7 (Shelby),0.1501
+Texas,Armstrong,Region 1,0.1828
+Texas,Bailey,Region 1,0.1828
+Texas,Briscoe,Region 1,0.1828
+Texas,Carson,Region 1,0.1828
+Texas,Castro,Region 1,0.1828
+Texas,Childress,Region 1,0.1828
+Texas,Cochran,Region 1,0.1828
+Texas,Collingsworth,Region 1,0.1828
+Texas,Crosby,Region 1,0.1828
+Texas,Dallam,Region 1,0.1828
+Texas,Deaf Smith,Region 1,0.1828
+Texas,Dickens,Region 1,0.1828
+Texas,Donley,Region 1,0.1828
+Texas,Floyd,Region 1,0.1828
+Texas,Garza,Region 1,0.1828
+Texas,Gray,Region 1,0.1828
+Texas,Hale,Region 1,0.1828
+Texas,Hall,Region 1,0.1828
+Texas,Hansford,Region 1,0.1828
+Texas,Hartley,Region 1,0.1828
+Texas,Hemphill,Region 1,0.1828
+Texas,Hockley,Region 1,0.1828
+Texas,Hutchinson,Region 1,0.1828
+Texas,King,Region 1,0.1828
+Texas,Lamb,Region 1,0.1828
+Texas,Lubbock,Region 1,0.1828
+Texas,Lynn,Region 1,0.1828
+Texas,Moore,Region 1,0.1828
+Texas,Motley,Region 1,0.1828
+Texas,Ochiltree,Region 1,0.1828
+Texas,Oldham,Region 1,0.1828
+Texas,Parmer,Region 1,0.1828
+Texas,Potter,Region 1,0.1828
+Texas,Randall,Region 1,0.1828
+Texas,Roberts,Region 1,0.1828
+Texas,Sherman,Region 1,0.1828
+Texas,Swisher,Region 1,0.1828
+Texas,Terry,Region 1,0.1828
+Texas,Wheeler,Region 1,0.1828
+Texas,Yoakum,Region 1,0.1828
+Texas,Archer,Region 2,0.1852
+Texas,Baylor,Region 2,0.1852
+Texas,Brown,Region 2,0.1852
+Texas,Callahan,Region 2,0.1852
+Texas,Clay,Region 2,0.1852
+Texas,Coleman,Region 2,0.1852
+Texas,Comanche,Region 2,0.1852
+Texas,Cottle,Region 2,0.1852
+Texas,Eastland,Region 2,0.1852
+Texas,Fisher,Region 2,0.1852
+Texas,Foard,Region 2,0.1852
+Texas,Hardeman,Region 2,0.1852
+Texas,Haskell,Region 2,0.1852
+Texas,Jack,Region 2,0.1852
+Texas,Jones,Region 2,0.1852
+Texas,Kent,Region 2,0.1852
+Texas,Knox,Region 2,0.1852
+Texas,Mitchell,Region 2,0.1852
+Texas,Montague,Region 2,0.1852
+Texas,Nolan,Region 2,0.1852
+Texas,Runnels,Region 2,0.1852
+Texas,Scurry,Region 2,0.1852
+Texas,Shackelford,Region 2,0.1852
+Texas,Stephens,Region 2,0.1852
+Texas,Stonewall,Region 2,0.1852
+Texas,Taylor,Region 2,0.1852
+Texas,Throckmorton,Region 2,0.1852
+Texas,Wichita,Region 2,0.1852
+Texas,Wilbarger,Region 2,0.1852
+Texas,Young,Region 2,0.1852
+Texas,Collin,Region 3a,0.1549
+Texas,Dallas,Region 3a,0.1549
+Texas,Denton,Region 3a,0.1549
+Texas,Ellis,Region 3a,0.1549
+Texas,Hunt,Region 3a,0.1549
+Texas,Kaufman,Region 3a,0.1549
+Texas,Navarro,Region 3a,0.1549
+Texas,Rockwall,Region 3a,0.1549
+Texas,Cooke,Region 3bc,0.1591
+Texas,Erath,Region 3bc,0.1591
+Texas,Fannin,Region 3bc,0.1591
+Texas,Grayson,Region 3bc,0.1591
+Texas,Hood,Region 3bc,0.1591
+Texas,Johnson,Region 3bc,0.1591
+Texas,Palo Pinto,Region 3bc,0.1591
+Texas,Parker,Region 3bc,0.1591
+Texas,Somervell,Region 3bc,0.1591
+Texas,Tarrant,Region 3bc,0.1591
+Texas,Wise,Region 3bc,0.1591
+Texas,Anderson,Region 4,0.1691
+Texas,Bowie,Region 4,0.1691
+Texas,Camp,Region 4,0.1691
+Texas,Cass,Region 4,0.1691
+Texas,Cherokee,Region 4,0.1691
+Texas,Delta,Region 4,0.1691
+Texas,Franklin,Region 4,0.1691
+Texas,Gregg,Region 4,0.1691
+Texas,Harrison,Region 4,0.1691
+Texas,Henderson,Region 4,0.1691
+Texas,Hopkins,Region 4,0.1691
+Texas,Lamar,Region 4,0.1691
+Texas,Marion,Region 4,0.1691
+Texas,Morris,Region 4,0.1691
+Texas,Panola,Region 4,0.1691
+Texas,Rains,Region 4,0.1691
+Texas,Red River,Region 4,0.1691
+Texas,Rusk,Region 4,0.1691
+Texas,Smith,Region 4,0.1691
+Texas,Titus,Region 4,0.1691
+Texas,Upshur,Region 4,0.1691
+Texas,Van Zandt,Region 4,0.1691
+Texas,Wood,Region 4,0.1691
+Texas,Angelina,Region 5,0.1694
+Texas,Hardin,Region 5,0.1694
+Texas,Houston,Region 5,0.1694
+Texas,Jasper,Region 5,0.1694
+Texas,Jefferson,Region 5,0.1694
+Texas,Nacogdoches,Region 5,0.1694
+Texas,Newton,Region 5,0.1694
+Texas,Orange,Region 5,0.1694
+Texas,Polk,Region 5,0.1694
+Texas,Sabine,Region 5,0.1694
+Texas,San Augustine,Region 5,0.1694
+Texas,San Jacinto,Region 5,0.1694
+Texas,Shelby,Region 5,0.1694
+Texas,Trinity,Region 5,0.1694
+Texas,Tyler,Region 5,0.1694
+Texas,Austin,Region 6a,0.1533
+Texas,Chambers,Region 6a,0.1533
+Texas,Colorado,Region 6a,0.1533
+Texas,Fort Bend,Region 6a,0.1533
+Texas,Harris,Region 6a,0.1533
+Texas,Liberty,Region 6a,0.1533
+Texas,Montgomery,Region 6a,0.1533
+Texas,Walker,Region 6a,0.1533
+Texas,Waller,Region 6a,0.1533
+Texas,Wharton,Region 6a,0.1533
+Texas,Galveston,Region 6bc,0.1603
+Texas,Matagorda,Region 6bc,0.1603
+Texas,Bastrop,Region 7a,0.1906
+Texas,Blanco,Region 7a,0.1906
+Texas,Burnet,Region 7a,0.1906
+Texas,Caldwell,Region 7a,0.1906
+Texas,Fayette,Region 7a,0.1906
+Texas,Hays,Region 7a,0.1906
+Texas,Lee,Region 7a,0.1906
+Texas,Llano,Region 7a,0.1906
+Texas,Travis,Region 7a,0.1906
+Texas,Williamson,Region 7a,0.1906
+Texas,Bell,Region 7bcd,0.2010
+Texas,Bosque,Region 7bcd,0.2010
+Texas,Brazos,Region 7bcd,0.2010
+Texas,Burleson,Region 7bcd,0.2010
+Texas,Coryell,Region 7bcd,0.2010
+Texas,Falls,Region 7bcd,0.2010
+Texas,Freestone,Region 7bcd,0.2010
+Texas,Grimes,Region 7bcd,0.2010
+Texas,Hamilton,Region 7bcd,0.2010
+Texas,Hill,Region 7bcd,0.2010
+Texas,Lampasas,Region 7bcd,0.2010
+Texas,Leon,Region 7bcd,0.2010
+Texas,Limestone,Region 7bcd,0.2010
+Texas,Madison,Region 7bcd,0.2010
+Texas,McLennan,Region 7bcd,0.2010
+Texas,Milam,Region 7bcd,0.2010
+Texas,Mills,Region 7bcd,0.2010
+Texas,Robertson,Region 7bcd,0.2010
+Texas,San Saba,Region 7bcd,0.2010
+Texas,Washington,Region 7bcd,0.2010
+Texas,Atascosa,Region 8,0.1683
+Texas,Bandera,Region 8,0.1683
+Texas,Bexar,Region 8,0.1683
+Texas,Calhoun,Region 8,0.1683
+Texas,Comal,Region 8,0.1683
+Texas,DeWitt,Region 8,0.1683
+Texas,Dimmit,Region 8,0.1683
+Texas,Edwards,Region 8,0.1683
+Texas,Frio,Region 8,0.1683
+Texas,Gillespie,Region 8,0.1683
+Texas,Goliad,Region 8,0.1683
+Texas,Gonzales,Region 8,0.1683
+Texas,Guadalupe,Region 8,0.1683
+Texas,Jackson,Region 8,0.1683
+Texas,Karnes,Region 8,0.1683
+Texas,Kendall,Region 8,0.1683
+Texas,Kerr,Region 8,0.1683
+Texas,Kinney,Region 8,0.1683
+Texas,La Salle,Region 8,0.1683
+Texas,Lavaca,Region 8,0.1683
+Texas,Maverick,Region 8,0.1683
+Texas,Medina,Region 8,0.1683
+Texas,Real,Region 8,0.1683
+Texas,Uvalde,Region 8,0.1683
+Texas,Val Verde,Region 8,0.1683
+Texas,Victoria,Region 8,0.1683
+Texas,Wilson,Region 8,0.1683
+Texas,Zavala,Region 8,0.1683
+Texas,Andrews,Region 9,0.1693
+Texas,Borden,Region 9,0.1693
+Texas,Coke,Region 9,0.1693
+Texas,Concho,Region 9,0.1693
+Texas,Crane,Region 9,0.1693
+Texas,Crockett,Region 9,0.1693
+Texas,Dawson,Region 9,0.1693
+Texas,Ector,Region 9,0.1693
+Texas,Gaines,Region 9,0.1693
+Texas,Glasscock,Region 9,0.1693
+Texas,Howard,Region 9,0.1693
+Texas,Irion,Region 9,0.1693
+Texas,Kimble,Region 9,0.1693
+Texas,Loving,Region 9,0.1693
+Texas,Martin,Region 9,0.1693
+Texas,Mason,Region 9,0.1693
+Texas,McCulloch,Region 9,0.1693
+Texas,Menard,Region 9,0.1693
+Texas,Midland,Region 9,0.1693
+Texas,Pecos,Region 9,0.1693
+Texas,Reagan,Region 9,0.1693
+Texas,Reeves,Region 9,0.1693
+Texas,Schleicher,Region 9,0.1693
+Texas,Sterling,Region 9,0.1693
+Texas,Sutton,Region 9,0.1693
+Texas,Terrell,Region 9,0.1693
+Texas,Tom Green,Region 9,0.1693
+Texas,Upton,Region 9,0.1693
+Texas,Ward,Region 9,0.1693
+Texas,Winkler,Region 9,0.1693
+Texas,Brewster,Region 10,0.1436
+Texas,Culberson,Region 10,0.1436
+Texas,El Paso,Region 10,0.1436
+Texas,Hudspeth,Region 10,0.1436
+Texas,Jeff Davis,Region 10,0.1436
+Texas,Presidio,Region 10,0.1436
+Texas,Aransas,Region 11abd,0.1409
+Texas,Bee,Region 11abd,0.1409
+Texas,Brooks,Region 11abd,0.1409
+Texas,Cameron,Region 11abd,0.1409
+Texas,Duval,Region 11abd,0.1409
+Texas,Jim Hogg,Region 11abd,0.1409
+Texas,Jim Wells,Region 11abd,0.1409
+Texas,Kenedy,Region 11abd,0.1409
+Texas,Kleberg,Region 11abd,0.1409
+Texas,Live Oak,Region 11abd,0.1409
+Texas,McMullen,Region 11abd,0.1409
+Texas,Nueces,Region 11abd,0.1409
+Texas,Refugio,Region 11abd,0.1409
+Texas,San Patricio,Region 11abd,0.1409
+Texas,Starr,Region 11abd,0.1409
+Texas,Webb,Region 11abd,0.1409
+Texas,Willacy,Region 11abd,0.1409
+Texas,Zapata,Region 11abd,0.1409
+Texas,Hidalgo,Region 11c (Hidalgo),0.1340
+Utah,Box Elder,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Cache,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Rich,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Daggett,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Duchesne,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Uintah,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Summit,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Tooele,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Wasatch,"Bear River, Northeastern, Summit, Tooele, and Wasatch",0.2271
+Utah,Juab,"Central, Four Corners, and San Juan",0.2293
+Utah,Millard,"Central, Four Corners, and San Juan",0.2293
+Utah,Piute,"Central, Four Corners, and San Juan",0.2293
+Utah,Sanpete,"Central, Four Corners, and San Juan",0.2293
+Utah,Sevier,"Central, Four Corners, and San Juan",0.2293
+Utah,Wayne,"Central, Four Corners, and San Juan",0.2293
+Utah,Carbon,"Central, Four Corners, and San Juan",0.2293
+Utah,Emery,"Central, Four Corners, and San Juan",0.2293
+Utah,Grand,"Central, Four Corners, and San Juan",0.2293
+Utah,San Juan,"Central, Four Corners, and San Juan",0.2293
+Utah,Beaver,Southwest,0.2337
+Utah,Garfield,Southwest,0.2337
+Utah,Iron,Southwest,0.2337
+Utah,Kane,Southwest,0.2337
+Utah,Washington,Southwest,0.2337
+Utah,Davis,Davis County,0.2334
+Utah,Salt Lake,Salt Lake County,0.2529
+Utah,Utah,Utah County,0.2582
+Utah,Morgan,"Weber, Morgan",0.2463
+Utah,Weber,"Weber, Morgan",0.2463
+Vermont,Addison,Champlain Valley,0.2129
+Vermont,Chittenden,Champlain Valley,0.2129
+Vermont,Franklin,Champlain Valley,0.2129
+Vermont,Grand Isle,Champlain Valley,0.2129
+Vermont,Caledonia,Rural Northeast,0.2111
+Vermont,Essex,Rural Northeast,0.2111
+Vermont,Lamoille,Rural Northeast,0.2111
+Vermont,Orleans,Rural Northeast,0.2111
+Vermont,Washington,Rural Northeast,0.2111
+Vermont,Orange,Rural Southeast,0.1980
+Vermont,Windham,Rural Southeast,0.1980
+Vermont,Windsor,Rural Southeast,0.1980
+Vermont,Bennington,Rural Southwest,0.2122
+Vermont,Rutland,Rural Southwest,0.2122
+Virginia,Albemarle,Region 1,0.1789
+Virginia,Augusta,Region 1,0.1789
+Virginia,Bath,Region 1,0.1789
+Virginia,Buena Vista City,Region 1,0.1789
+Virginia,Caroline,Region 1,0.1789
+Virginia,Charlottesville City,Region 1,0.1789
+Virginia,Clarke,Region 1,0.1789
+Virginia,Culpeper,Region 1,0.1789
+Virginia,Fauquier,Region 1,0.1789
+Virginia,Fluvanna,Region 1,0.1789
+Virginia,Frederick,Region 1,0.1789
+Virginia,Fredericksburg City,Region 1,0.1789
+Virginia,Greene,Region 1,0.1789
+Virginia,Harrisonburg City,Region 1,0.1789
+Virginia,Highland,Region 1,0.1789
+Virginia,King George,Region 1,0.1789
+Virginia,Lexington City,Region 1,0.1789
+Virginia,Louisa,Region 1,0.1789
+Virginia,Madison,Region 1,0.1789
+Virginia,Nelson,Region 1,0.1789
+Virginia,Orange,Region 1,0.1789
+Virginia,Page,Region 1,0.1789
+Virginia,Rappahannock,Region 1,0.1789
+Virginia,Rockbridge,Region 1,0.1789
+Virginia,Rockingham,Region 1,0.1789
+Virginia,Shenandoah,Region 1,0.1789
+Virginia,Spotsylvania,Region 1,0.1789
+Virginia,Stafford,Region 1,0.1789
+Virginia,Staunton City,Region 1,0.1789
+Virginia,Warren,Region 1,0.1789
+Virginia,Waynesboro City,Region 1,0.1789
+Virginia,Winchester City,Region 1,0.1789
+Virginia,Alexandria City,Region 2,0.1776
+Virginia,Arlington,Region 2,0.1776
+Virginia,Fairfax,Region 2,0.1776
+Virginia,Fairfax City,Region 2,0.1776
+Virginia,Falls Church City,Region 2,0.1776
+Virginia,Loudoun,Region 2,0.1776
+Virginia,Manassas City,Region 2,0.1776
+Virginia,Manassas Park City,Region 2,0.1776
+Virginia,Prince William,Region 2,0.1776
+Virginia,Alleghany,Region 3,0.1918
+Virginia,Amherst,Region 3,0.1918
+Virginia,Appomattox,Region 3,0.1918
+Virginia,Bedford,Region 3,0.1918
+Virginia,Bedford City,Region 3,0.1918
+Virginia,Bland,Region 3,0.1918
+Virginia,Botetourt,Region 3,0.1918
+Virginia,Bristol City,Region 3,0.1918
+Virginia,Buchanan,Region 3,0.1918
+Virginia,Campbell,Region 3,0.1918
+Virginia,Carroll,Region 3,0.1918
+Virginia,Covington City,Region 3,0.1918
+Virginia,Craig,Region 3,0.1918
+Virginia,Danville City,Region 3,0.1918
+Virginia,Dickenson,Region 3,0.1918
+Virginia,Floyd,Region 3,0.1918
+Virginia,Franklin,Region 3,0.1918
+Virginia,Galax City,Region 3,0.1918
+Virginia,Giles,Region 3,0.1918
+Virginia,Grayson,Region 3,0.1918
+Virginia,Henry,Region 3,0.1918
+Virginia,Lee,Region 3,0.1918
+Virginia,Lynchburg City,Region 3,0.1918
+Virginia,Martinsville City,Region 3,0.1918
+Virginia,Montgomery,Region 3,0.1918
+Virginia,Norton City,Region 3,0.1918
+Virginia,Patrick,Region 3,0.1918
+Virginia,Pittsylvania,Region 3,0.1918
+Virginia,Pulaski,Region 3,0.1918
+Virginia,Radford City,Region 3,0.1918
+Virginia,Roanoke,Region 3,0.1918
+Virginia,Roanoke City,Region 3,0.1918
+Virginia,Russell,Region 3,0.1918
+Virginia,Salem City,Region 3,0.1918
+Virginia,Scott,Region 3,0.1918
+Virginia,Smyth,Region 3,0.1918
+Virginia,Tazewell,Region 3,0.1918
+Virginia,Washington,Region 3,0.1918
+Virginia,Wise,Region 3,0.1918
+Virginia,Wythe,Region 3,0.1918
+Virginia,Amelia,Region 4,0.1803
+Virginia,Brunswick,Region 4,0.1803
+Virginia,Buckingham,Region 4,0.1803
+Virginia,Charles City,Region 4,0.1803
+Virginia,Charlotte,Region 4,0.1803
+Virginia,Chesterfield,Region 4,0.1803
+Virginia,Colonial Heights City,Region 4,0.1803
+Virginia,Cumberland,Region 4,0.1803
+Virginia,Dinwiddie,Region 4,0.1803
+Virginia,Emporia City,Region 4,0.1803
+Virginia,Goochland,Region 4,0.1803
+Virginia,Greensville,Region 4,0.1803
+Virginia,Halifax,Region 4,0.1803
+Virginia,Hanover,Region 4,0.1803
+Virginia,Henrico,Region 4,0.1803
+Virginia,Hopewell City,Region 4,0.1803
+Virginia,Lunenburg,Region 4,0.1803
+Virginia,Mecklenburg,Region 4,0.1803
+Virginia,New Kent,Region 4,0.1803
+Virginia,Nottoway,Region 4,0.1803
+Virginia,Petersburg City,Region 4,0.1803
+Virginia,Powhatan,Region 4,0.1803
+Virginia,Prince Edward,Region 4,0.1803
+Virginia,Prince George,Region 4,0.1803
+Virginia,Richmond City,Region 4,0.1803
+Virginia,Surry,Region 4,0.1803
+Virginia,Sussex,Region 4,0.1803
+Virginia,Accomack,Region 5,0.1917
+Virginia,Chesapeake City,Region 5,0.1917
+Virginia,Essex,Region 5,0.1917
+Virginia,Franklin City,Region 5,0.1917
+Virginia,Gloucester,Region 5,0.1917
+Virginia,Hampton City,Region 5,0.1917
+Virginia,Isle of Wight,Region 5,0.1917
+Virginia,James City,Region 5,0.1917
+Virginia,King and Queen,Region 5,0.1917
+Virginia,King William,Region 5,0.1917
+Virginia,Lancaster,Region 5,0.1917
+Virginia,Mathews,Region 5,0.1917
+Virginia,Middlesex,Region 5,0.1917
+Virginia,Newport News City,Region 5,0.1917
+Virginia,Norfolk City,Region 5,0.1917
+Virginia,Northampton,Region 5,0.1917
+Virginia,Northumberland,Region 5,0.1917
+Virginia,Poquoson City,Region 5,0.1917
+Virginia,Portsmouth City,Region 5,0.1917
+Virginia,Richmond,Region 5,0.1917
+Virginia,Southampton,Region 5,0.1917
+Virginia,Suffolk City,Region 5,0.1917
+Virginia,Virginia Beach City,Region 5,0.1917
+Virginia,Westmoreland,Region 5,0.1917
+Virginia,Williamsburg City,Region 5,0.1917
+Virginia,York,Region 5,0.1917
+Washington,Asotin,Greater Columbia and North Central,0.2265
+Washington,Benton,Greater Columbia and North Central,0.2265
+Washington,Chelan,Greater Columbia and North Central,0.2265
+Washington,Columbia,Greater Columbia and North Central,0.2265
+Washington,Douglas,Greater Columbia and North Central,0.2265
+Washington,Franklin,Greater Columbia and North Central,0.2265
+Washington,Garfield,Greater Columbia and North Central,0.2265
+Washington,Grant,Greater Columbia and North Central,0.2265
+Washington,Kittitas,Greater Columbia and North Central,0.2265
+Washington,Klickitat,Greater Columbia and North Central,0.2265
+Washington,Walla Walla,Greater Columbia and North Central,0.2265
+Washington,Whitman,Greater Columbia and North Central,0.2265
+Washington,Yakima,Greater Columbia and North Central,0.2265
+Washington,Adams,Spokane,0.2365
+Washington,Ferry,Spokane,0.2365
+Washington,Lincoln,Spokane,0.2365
+Washington,Okanogan,Spokane,0.2365
+Washington,Pend Oreille,Spokane,0.2365
+Washington,Spokane,Spokane,0.2365
+Washington,Stevens,Spokane,0.2365
+Washington,King,King,0.2175
+Washington,Island,North Sound,0.2200
+Washington,San Juan,North Sound,0.2200
+Washington,Skagit,North Sound,0.2200
+Washington,Snohomish,North Sound,0.2200
+Washington,Whatcom,North Sound,0.2200
+Washington,Pierce,Pierce,0.2218
+Washington,Clallam,Salish,0.2278
+Washington,Jefferson,Salish,0.2278
+Washington,Kitsap,Salish,0.2278
+Washington,Clark,SW WA and Great Rivers,0.2361
+Washington,Cowlitz,SW WA and Great Rivers,0.2361
+Washington,Grays Harbor,SW WA and Great Rivers,0.2361
+Washington,Lewis,SW WA and Great Rivers,0.2361
+Washington,Pacific,SW WA and Great Rivers,0.2361
+Washington,Skamania,SW WA and Great Rivers,0.2361
+Washington,Wahkiakum,SW WA and Great Rivers,0.2361
+Washington,Mason,Thurston-Mason,0.2166
+Washington,Thurston,Thurston-Mason,0.2166
+West Virginia,Brooke,Region I,0.2079
+West Virginia,Hancock,Region I,0.2079
+West Virginia,Marshall,Region I,0.2079
+West Virginia,Ohio,Region I,0.2079
+West Virginia,Wetzel,Region I,0.2079
+West Virginia,Berkeley,Region II,0.2204
+West Virginia,Grant,Region II,0.2204
+West Virginia,Hampshire,Region II,0.2204
+West Virginia,Hardy,Region II,0.2204
+West Virginia,Jefferson,Region II,0.2204
+West Virginia,Mineral,Region II,0.2204
+West Virginia,Morgan,Region II,0.2204
+West Virginia,Pendleton,Region II,0.2204
+West Virginia,Calhoun,Region III,0.2466
+West Virginia,Jackson,Region III,0.2466
+West Virginia,Pleasants,Region III,0.2466
+West Virginia,Ritchie,Region III,0.2466
+West Virginia,Roane,Region III,0.2466
+West Virginia,Tyler,Region III,0.2466
+West Virginia,Wirt,Region III,0.2466
+West Virginia,Wood,Region III,0.2466
+West Virginia,Barbour,Region IV,0.2483
+West Virginia,Braxton,Region IV,0.2483
+West Virginia,Doddridge,Region IV,0.2483
+West Virginia,Gilmer,Region IV,0.2483
+West Virginia,Harrison,Region IV,0.2483
+West Virginia,Lewis,Region IV,0.2483
+West Virginia,Marion,Region IV,0.2483
+West Virginia,Monongalia,Region IV,0.2483
+West Virginia,Preston,Region IV,0.2483
+West Virginia,Randolph,Region IV,0.2483
+West Virginia,Taylor,Region IV,0.2483
+West Virginia,Tucker,Region IV,0.2483
+West Virginia,Upshur,Region IV,0.2483
+West Virginia,Boone,Region V,0.2398
+West Virginia,Cabell,Region V,0.2398
+West Virginia,Clay,Region V,0.2398
+West Virginia,Kanawha,Region V,0.2398
+West Virginia,Lincoln,Region V,0.2398
+West Virginia,Logan,Region V,0.2398
+West Virginia,Mason,Region V,0.2398
+West Virginia,Mingo,Region V,0.2398
+West Virginia,Putnam,Region V,0.2398
+West Virginia,Wayne,Region V,0.2398
+West Virginia,Fayette,Region VI,0.2346
+West Virginia,Greenbrier,Region VI,0.2346
+West Virginia,McDowell,Region VI,0.2346
+West Virginia,Mercer,Region VI,0.2346
+West Virginia,Monroe,Region VI,0.2346
+West Virginia,Nicholas,Region VI,0.2346
+West Virginia,Pocahontas,Region VI,0.2346
+West Virginia,Raleigh,Region VI,0.2346
+West Virginia,Summers,Region VI,0.2346
+West Virginia,Webster,Region VI,0.2346
+West Virginia,Wyoming,Region VI,0.2346
+Wisconsin,Milwaukee,Milwaukee,0.1906
+Wisconsin,Brown,Northeastern,0.1725
+Wisconsin,Calumet,Northeastern,0.1725
+Wisconsin,Door,Northeastern,0.1725
+Wisconsin,Fond du Lac,Northeastern,0.1725
+Wisconsin,Green Lake,Northeastern,0.1725
+Wisconsin,Kewaunee,Northeastern,0.1725
+Wisconsin,Manitowoc,Northeastern,0.1725
+Wisconsin,Marinette,Northeastern,0.1725
+Wisconsin,Marquette,Northeastern,0.1725
+Wisconsin,Menominee,Northeastern,0.1725
+Wisconsin,Oconto,Northeastern,0.1725
+Wisconsin,Outagamie,Northeastern,0.1725
+Wisconsin,Shawano,Northeastern,0.1725
+Wisconsin,Sheboygan,Northeastern,0.1725
+Wisconsin,Waupaca,Northeastern,0.1725
+Wisconsin,Waushara,Northeastern,0.1725
+Wisconsin,Winnebago,Northeastern,0.1725
+Wisconsin,Ashland,Northern,0.1705
+Wisconsin,Bayfield,Northern,0.1705
+Wisconsin,Florence,Northern,0.1705
+Wisconsin,Forest,Northern,0.1705
+Wisconsin,Iron,Northern,0.1705
+Wisconsin,Langlade,Northern,0.1705
+Wisconsin,Lincoln,Northern,0.1705
+Wisconsin,Marathon,Northern,0.1705
+Wisconsin,Oneida,Northern,0.1705
+Wisconsin,Portage,Northern,0.1705
+Wisconsin,Price,Northern,0.1705
+Wisconsin,Sawyer,Northern,0.1705
+Wisconsin,Taylor,Northern,0.1705
+Wisconsin,Vilas,Northern,0.1705
+Wisconsin,Wood,Northern,0.1705
+Wisconsin,Jefferson,Southeastern,0.1786
+Wisconsin,Kenosha,Southeastern,0.1786
+Wisconsin,Ozaukee,Southeastern,0.1786
+Wisconsin,Racine,Southeastern,0.1786
+Wisconsin,Walworth,Southeastern,0.1786
+Wisconsin,Washington,Southeastern,0.1786
+Wisconsin,Waukesha,Southeastern,0.1786
+Wisconsin,Adams,Southern,0.2056
+Wisconsin,Columbia,Southern,0.2056
+Wisconsin,Crawford,Southern,0.2056
+Wisconsin,Dane,Southern,0.2056
+Wisconsin,Dodge,Southern,0.2056
+Wisconsin,Grant,Southern,0.2056
+Wisconsin,Green,Southern,0.2056
+Wisconsin,Iowa,Southern,0.2056
+Wisconsin,Juneau,Southern,0.2056
+Wisconsin,Lafayette,Southern,0.2056
+Wisconsin,Richland,Southern,0.2056
+Wisconsin,Rock,Southern,0.2056
+Wisconsin,Sauk,Southern,0.2056
+Wisconsin,Vernon,Southern,0.2056
+Wisconsin,Barron,Western,0.1808
+Wisconsin,Buffalo,Western,0.1808
+Wisconsin,Burnett,Western,0.1808
+Wisconsin,Chippewa,Western,0.1808
+Wisconsin,Clark,Western,0.1808
+Wisconsin,Douglas,Western,0.1808
+Wisconsin,Dunn,Western,0.1808
+Wisconsin,Eau Claire,Western,0.1808
+Wisconsin,Jackson,Western,0.1808
+Wisconsin,La Crosse,Western,0.1808
+Wisconsin,Monroe,Western,0.1808
+Wisconsin,Pepin,Western,0.1808
+Wisconsin,Pierce,Western,0.1808
+Wisconsin,Polk,Western,0.1808
+Wisconsin,Rusk,Western,0.1808
+Wisconsin,ST CROIX,Western,0.1808
+Wisconsin,Trempealeau,Western,0.1808
+Wisconsin,Washburn,Western,0.1808
+Wyoming,Laramie,Judicial District 1 (Laramie),0.2051
+Wyoming,Albany,Judicial District 2,0.2186
+Wyoming,Carbon,Judicial District 2,0.2186
+Wyoming,Lincoln,Judicial District 3,0.2076
+Wyoming,Sweetwater,Judicial District 3,0.2076
+Wyoming,Uinta,Judicial District 3,0.2076
+Wyoming,Johnson,Judicial District 4,0.1847
+Wyoming,Sheridan,Judicial District 4,0.1847
+Wyoming,Big Horn,Judicial District 5,0.1895
+Wyoming,Hot Springs,Judicial District 5,0.1895
+Wyoming,Park,Judicial District 5,0.1895
+Wyoming,Washakie,Judicial District 5,0.1895
+Wyoming,Campbell,Judicial District 6,0.2068
+Wyoming,Crook,Judicial District 6,0.2068
+Wyoming,Weston,Judicial District 6,0.2068
+Wyoming,Natrona,Judicial District 7 (Natrona),0.1974
+Wyoming,Converse,Judicial District 8,0.1849
+Wyoming,Goshen,Judicial District 8,0.1849
+Wyoming,Niobrara,Judicial District 8,0.1849
+Wyoming,Platte,Judicial District 8,0.1849
+Wyoming,Fremont,Judicial District 9,0.1916
+Wyoming,Sublette,Judicial District 9,0.1916
+Wyoming,Teton,Judicial District 9,0.1916
+Texas,BRAZORIA,Region 6bc,0.1603

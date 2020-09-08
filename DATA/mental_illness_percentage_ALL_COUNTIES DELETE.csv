@@ -1,0 +1,2987 @@
+state_name,county,Substate,mental_illness_percentage
+Alabama,Cherokee,Region 1,19.95%
+Alabama,Colbert,Region 1,19.95%
+Alabama,Cullman,Region 1,19.95%
+Alabama,De Kalb,Region 1,19.95%
+Alabama,Etowah,Region 1,19.95%
+Alabama,Fayette,Region 1,19.95%
+Alabama,Franklin,Region 1,19.95%
+Alabama,Jackson,Region 1,19.95%
+Alabama,Lamar,Region 1,19.95%
+Alabama,Lauderdale,Region 1,19.95%
+Alabama,Lawrence,Region 1,19.95%
+Alabama,Limestone,Region 1,19.95%
+Alabama,Madison,Region 1,19.95%
+Alabama,Marion,Region 1,19.95%
+Alabama,Marshall,Region 1,19.95%
+Alabama,Morgan,Region 1,19.95%
+Alabama,Walker,Region 1,19.95%
+Alabama,Winston,Region 1,19.95%
+Alabama,Bibb,Region 2,21.33%
+Alabama,Blount,Region 2,21.33%
+Alabama,Calhoun,Region 2,21.33%
+Alabama,Chilton,Region 2,21.33%
+Alabama,Clay,Region 2,21.33%
+Alabama,Cleburne,Region 2,21.33%
+Alabama,Coosa,Region 2,21.33%
+Alabama,Jefferson,Region 2,21.33%
+Alabama,Pickens,Region 2,21.33%
+Alabama,Randolph,Region 2,21.33%
+Alabama,Shelby,Region 2,21.33%
+Alabama,ST CLAIR,Region 2,21.33%
+Alabama,Talladega,Region 2,21.33%
+Alabama,Tuscaloosa,Region 2,21.33%
+Alabama,Autauga,Region 3,20.87%
+Alabama,Bullock,Region 3,20.87%
+Alabama,Chambers,Region 3,20.87%
+Alabama,Choctaw,Region 3,20.87%
+Alabama,Dallas,Region 3,20.87%
+Alabama,Elmore,Region 3,20.87%
+Alabama,Greene,Region 3,20.87%
+Alabama,Hale,Region 3,20.87%
+Alabama,Lee,Region 3,20.87%
+Alabama,Lowndes,Region 3,20.87%
+Alabama,Macon,Region 3,20.87%
+Alabama,Marengo,Region 3,20.87%
+Alabama,Montgomery,Region 3,20.87%
+Alabama,Perry,Region 3,20.87%
+Alabama,Pike,Region 3,20.87%
+Alabama,Russell,Region 3,20.87%
+Alabama,Sumter,Region 3,20.87%
+Alabama,Tallapoosa,Region 3,20.87%
+Alabama,Wilcox,Region 3,20.87%
+Alabama,Baldwin,Region 4,20.51%
+Alabama,Barbour,Region 4,20.51%
+Alabama,Butler,Region 4,20.51%
+Alabama,Clarke,Region 4,20.51%
+Alabama,Coffee,Region 4,20.51%
+Alabama,Conecuh,Region 4,20.51%
+Alabama,Covington,Region 4,20.51%
+Alabama,Crenshaw,Region 4,20.51%
+Alabama,Dale,Region 4,20.51%
+Alabama,Escambia,Region 4,20.51%
+Alabama,Geneva,Region 4,20.51%
+Alabama,Henry,Region 4,20.51%
+Alabama,Houston,Region 4,20.51%
+Alabama,Mobile,Region 4,20.51%
+Alabama,Monroe,Region 4,20.51%
+Alabama,Washington,Region 4,20.51%
+Arizona,Maricopa,Central,18.34%
+Arizona,Apache,North,18.26%
+Arizona,Coconino,North,18.26%
+Arizona,Gila,North,18.26%
+Arizona,Mohave,North,18.26%
+Arizona,Navajo,North,18.26%
+Arizona,Yavapai,North,18.26%
+Arizona,Pima,South A,19.62%
+Arizona,Cochise,South B,18.08%
+Arizona,Graham,South B,18.08%
+Arizona,Greenlee,South B,18.08%
+Arizona,La Paz,South B,18.08%
+Arizona,Pinal,South B,18.08%
+Arizona,Santa Cruz,South B,18.08%
+Arizona,Yuma,South B,18.08%
+Arkansas,Benton,Catchment Area 1,20.73%
+Arkansas,Carroll,Catchment Area 1,20.73%
+Arkansas,Madison,Catchment Area 1,20.73%
+Arkansas,Washington,Catchment Area 1,20.73%
+Arkansas,Baxter,Catchment Area 2,20.75%
+Arkansas,Boone,Catchment Area 2,20.75%
+Arkansas,Cleburne,Catchment Area 2,20.75%
+Arkansas,Fulton,Catchment Area 2,20.75%
+Arkansas,Independence,Catchment Area 2,20.75%
+Arkansas,Izard,Catchment Area 2,20.75%
+Arkansas,Jackson,Catchment Area 2,20.75%
+Arkansas,Marion,Catchment Area 2,20.75%
+Arkansas,Newton,Catchment Area 2,20.75%
+Arkansas,Searcy,Catchment Area 2,20.75%
+Arkansas,Sharp,Catchment Area 2,20.75%
+Arkansas,Stone,Catchment Area 2,20.75%
+Arkansas,Van Buren,Catchment Area 2,20.75%
+Arkansas,White,Catchment Area 2,20.75%
+Arkansas,Woodruff,Catchment Area 2,20.75%
+Arkansas,Clay,Catchment Area 3,21.18%
+Arkansas,Craighead,Catchment Area 3,21.18%
+Arkansas,Crittenden,Catchment Area 3,21.18%
+Arkansas,Cross,Catchment Area 3,21.18%
+Arkansas,Greene,Catchment Area 3,21.18%
+Arkansas,Lawrence,Catchment Area 3,21.18%
+Arkansas,Lee,Catchment Area 3,21.18%
+Arkansas,Mississippi,Catchment Area 3,21.18%
+Arkansas,Monroe,Catchment Area 3,21.18%
+Arkansas,Phillips,Catchment Area 3,21.18%
+Arkansas,Poinsett,Catchment Area 3,21.18%
+Arkansas,Randolph,Catchment Area 3,21.18%
+Arkansas,St. Francis,Catchment Area 3,21.18%
+Arkansas,Crawford,Catchment Area 4,21.46%
+Arkansas,Franklin,Catchment Area 4,21.46%
+Arkansas,Logan,Catchment Area 4,21.46%
+Arkansas,Polk,Catchment Area 4,21.46%
+Arkansas,Scott,Catchment Area 4,21.46%
+Arkansas,Sebastian,Catchment Area 4,21.46%
+Arkansas,Clark,Catchment Area 5,21.53%
+Arkansas,Conway,Catchment Area 5,21.53%
+Arkansas,Faulkner,Catchment Area 5,21.53%
+Arkansas,Garland,Catchment Area 5,21.53%
+Arkansas,Hot Spring,Catchment Area 5,21.53%
+Arkansas,Johnson,Catchment Area 5,21.53%
+Arkansas,Montgomery,Catchment Area 5,21.53%
+Arkansas,Perry,Catchment Area 5,21.53%
+Arkansas,Pike,Catchment Area 5,21.53%
+Arkansas,Pope,Catchment Area 5,21.53%
+Arkansas,Yell,Catchment Area 5,21.53%
+Arkansas,Arkansas,Catchment Area 6,18.55%
+Arkansas,Ashley,Catchment Area 6,18.55%
+Arkansas,Bradley,Catchment Area 6,18.55%
+Arkansas,Chicot,Catchment Area 6,18.55%
+Arkansas,Cleveland,Catchment Area 6,18.55%
+Arkansas,Desha,Catchment Area 6,18.55%
+Arkansas,Drew,Catchment Area 6,18.55%
+Arkansas,Grant,Catchment Area 6,18.55%
+Arkansas,Jefferson,Catchment Area 6,18.55%
+Arkansas,Lincoln,Catchment Area 6,18.55%
+Arkansas,Calhoun,Catchment Area 7,18.89%
+Arkansas,Columbia,Catchment Area 7,18.89%
+Arkansas,Dallas,Catchment Area 7,18.89%
+Arkansas,Hempstead,Catchment Area 7,18.89%
+Arkansas,Howard,Catchment Area 7,18.89%
+Arkansas,Lafayette,Catchment Area 7,18.89%
+Arkansas,Little River,Catchment Area 7,18.89%
+Arkansas,Miller,Catchment Area 7,18.89%
+Arkansas,Nevada,Catchment Area 7,18.89%
+Arkansas,Ouachita,Catchment Area 7,18.89%
+Arkansas,Sevier,Catchment Area 7,18.89%
+Arkansas,Union,Catchment Area 7,18.89%
+Arkansas,Lonoke,Catchment Area 8,19.47%
+Arkansas,Prairie,Catchment Area 8,19.47%
+Arkansas,Pulaski,Catchment Area 8,19.47%
+Arkansas,Saline,Catchment Area 8,19.47%
+California,Butte,Region 1R,21.49%
+California,Colusa,Region 1R,21.49%
+California,Del Norte,Region 1R,21.49%
+California,Glenn,Region 1R,21.49%
+California,Humboldt,Region 1R,21.49%
+California,Lake,Region 1R,21.49%
+California,Lassen,Region 1R,21.49%
+California,Mendocino,Region 1R,21.49%
+California,Modoc,Region 1R,21.49%
+California,Plumas,Region 1R,21.49%
+California,Shasta,Region 1R,21.49%
+California,Sierra,Region 1R,21.49%
+California,Siskiyou,Region 1R,21.49%
+California,Tehama,Region 1R,21.49%
+California,Trinity,Region 1R,21.49%
+California,El Dorado,Region 2R,19.04%
+California,Nevada,Region 2R,19.04%
+California,Placer,Region 2R,19.04%
+California,Sutter,Region 2R,19.04%
+California,Yolo,Region 2R,19.04%
+California,Yuba,Region 2R,19.04%
+California,Sacramento,Region 3R (Sacramento),19.48%
+California,Marin,Region 4R,17.92%
+California,Napa,Region 4R,17.92%
+California,Solano,Region 4R,17.92%
+California,Sonoma,Region 4R,17.92%
+California,San Francisco,Region 5R (San Francisco),20.93%
+California,Santa Clara,Region 6 (Santa Clara),17.44%
+California,Contra Costa,Region 7R (Contra Costa),17.90%
+California,Alameda,Region 8R (Alameda),18.94%
+California,San Mateo,Region 9R (San Mateo),17.70%
+California,Santa Barbara,Region 10,19.02%
+California,Ventura,Region 10,19.02%
+California,Los Angeles,Region 11 (Los Angeles),17.53%
+California,Alpine,Region 12R,20.41%
+California,Amador,Region 12R,20.41%
+California,Calaveras,Region 12R,20.41%
+California,Mono,Region 12R,20.41%
+California,San Joaquin,Region 12R,20.41%
+California,Tuolumne,Region 12R,20.41%
+California,Imperial,Regions 13 and 19R,17.97%
+California,Riverside,Regions 13 and 19R,17.97%
+California,Orange,Region 14 (Orange),16.93%
+California,Fresno,Region 15R (Fresno),19.69%
+California,San Diego,Region 16R (San Diego),18.36%
+California,Inyo,Region 17R,17.77%
+California,Kern,Region 17R,17.77%
+California,Kings,Region 17R,17.77%
+California,Tulare,Region 17R,17.77%
+California,San Bernardino,Region 18R (San Bernardino),17.57%
+California,Madera,Region 20R,19.22%
+California,Mariposa,Region 20R,19.22%
+California,Merced,Region 20R,19.22%
+California,Stanislaus,Region 20R,19.22%
+California,Monterey,Region 21R,18.93%
+California,San Benito,Region 21R,18.93%
+California,San Luis Obispo,Region 21R,18.93%
+California,Santa Cruz,Region 21R,18.93%
+Colorado,Archuleta,Region 1,21.76%
+Colorado,Delta,Region 1,21.76%
+Colorado,Dolores,Region 1,21.76%
+Colorado,Eagle,Region 1,21.76%
+Colorado,Garfield,Region 1,21.76%
+Colorado,Grand,Region 1,21.76%
+Colorado,Gunnison,Region 1,21.76%
+Colorado,Hinsdale,Region 1,21.76%
+Colorado,Jackson,Region 1,21.76%
+Colorado,La Plata,Region 1,21.76%
+Colorado,Larimer,Region 1,21.76%
+Colorado,Mesa,Region 1,21.76%
+Colorado,Moffat,Region 1,21.76%
+Colorado,Montezuma,Region 1,21.76%
+Colorado,Montrose,Region 1,21.76%
+Colorado,Ouray,Region 1,21.76%
+Colorado,Pitkin,Region 1,21.76%
+Colorado,Rio Blanco,Region 1,21.76%
+Colorado,Routt,Region 1,21.76%
+Colorado,San Juan,Region 1,21.76%
+Colorado,San Miguel,Region 1,21.76%
+Colorado,Summit,Region 1,21.76%
+Colorado,Broomfield,Region 2,21.78%
+Colorado,Cheyenne,Region 2,21.78%
+Colorado,Kit Carson,Region 2,21.78%
+Colorado,Lincoln,Region 2,21.78%
+Colorado,Logan,Region 2,21.78%
+Colorado,Morgan,Region 2,21.78%
+Colorado,Phillips,Region 2,21.78%
+Colorado,Sedgwick,Region 2,21.78%
+Colorado,Washington,Region 2,21.78%
+Colorado,Weld,Region 2,21.78%
+Colorado,Yuma,Region 2,21.78%
+Colorado,Adams,Region 3,19.18%
+Colorado,Arapahoe,Region 3,19.18%
+Colorado,Douglas,Region 3,19.18%
+Colorado,Elbert,Region 3,19.18%
+Colorado,Alamosa,Region 4,19.15%
+Colorado,Baca,Region 4,19.15%
+Colorado,Bent,Region 4,19.15%
+Colorado,Chaffee,Region 4,19.15%
+Colorado,Conejos,Region 4,19.15%
+Colorado,Costilla,Region 4,19.15%
+Colorado,Crowley,Region 4,19.15%
+Colorado,Custer,Region 4,19.15%
+Colorado,Fremont,Region 4,19.15%
+Colorado,Huerfano,Region 4,19.15%
+Colorado,Kiowa,Region 4,19.15%
+Colorado,Lake,Region 4,19.15%
+Colorado,Las Animas,Region 4,19.15%
+Colorado,Mineral,Region 4,19.15%
+Colorado,Otero,Region 4,19.15%
+Colorado,Prowers,Region 4,19.15%
+Colorado,Pueblo,Region 4,19.15%
+Colorado,Rio Grande,Region 4,19.15%
+Colorado,Saguache,Region 4,19.15%
+Colorado,Denver,Region 5,22.76%
+Colorado,Boulder,Region 6,21.82%
+Colorado,Clear Creek,Region 6,21.82%
+Colorado,Gilpin,Region 6,21.82%
+Colorado,Jefferson,Region 6,21.82%
+Colorado,El Paso,Region 7,20.32%
+Colorado,Park,Region 7,20.32%
+Colorado,Teller,Region 7,20.32%
+Connecticut,FAIRFIELD,Southwest,18.57%
+Connecticut,HARTFORD,Northwestern,18.41%
+Connecticut,LITCHFIELD,Northwestern,18.41%
+Connecticut,MIDDLESEX,South Central,17.43%
+Connecticut,NEW HAVEN,Northwestern,18.41%
+Connecticut,NEW LONDON,South Central,17.43%
+Connecticut,TOLLAND,Eastern,20.15%
+Connecticut,WINDHAM,Eastern,20.15%
+Delaware,Kent,Kent,20.03%
+Delaware,New Castle,New Castle (excluding Wilmington City),19.84%
+Delaware,Sussex,Sussex,18.50%
+Delaware,Wilmington City,Wilmington City,19.51%
+District of Columbia,District of Columbia,District of Columbia,21.60%
+Florida,Broward,Broward (Circuit 17),15.44%
+Florida,Orange,Circuit 9,17.67%
+Florida,Osceola,Circuit 9,17.67%
+Florida,Brevard,Circuit 18,17.66%
+Florida,Seminole,Circuit 18,17.66%
+Florida,Pasco,Circuit 6,18.52%
+Florida,Pinellas,Circuit 6,18.52%
+Florida,Hardee,Circuit 10,16.77%
+Florida,Highlands,Circuit 10,16.77%
+Florida,Polk,Circuit 10,16.77%
+Florida,De Soto,Circuit 12,16.99%
+Florida,Manatee,Circuit 12,16.99%
+Florida,Sarasota,Circuit 12,16.99%
+Florida,Hillsborough,Circuit 13 (Hillsborough),18.98%
+Florida,Charlotte,Circuit 20,17.75%
+Florida,Collier,Circuit 20,17.75%
+Florida,Glades,Circuit 20,17.75%
+Florida,Hendry,Circuit 20,17.75%
+Florida,Lee,Circuit 20,17.75%
+Florida,Clay,Circuit 4,17.57%
+Florida,Duval,Circuit 4,17.57%
+Florida,Nassau,Circuit 4,17.57%
+Florida,Citrus,Circuit 5,18.75%
+Florida,Hernando,Circuit 5,18.75%
+Florida,Lake,Circuit 5,18.75%
+Florida,Marion,Circuit 5,18.75%
+Florida,Sumter,Circuit 5,18.75%
+Florida,Flagler,Circuit 7,16.92%
+Florida,Putnam,Circuit 7,16.92%
+Florida,ST JOHNS,Circuit 7,16.92%
+Florida,Volusia,Circuit 7,16.92%
+Florida,Alachua,Circuit 8 ,19.58%
+Florida,Baker,Circuit 8 ,19.58%
+Florida,Bradford,Circuit 8 ,19.58%
+Florida,Columbia,Circuit 8 ,19.58%
+Florida,Dixie,Circuit 8 ,19.58%
+Florida,Gilchrist,Circuit 8 ,19.58%
+Florida,Hamilton,Circuit 8 ,19.58%
+Florida,Lafayette,Circuit 8 ,19.58%
+Florida,Levy,Circuit 8 ,19.58%
+Florida,Suwannee,Circuit 8 ,19.58%
+Florida,Union,Circuit 8 ,19.58%
+Florida,Escambia,Circuit 1,19.89%
+Florida,Okaloosa,Circuit 1,19.89%
+Florida,Santa Rosa,Circuit 1,19.89%
+Florida,Walton,Circuit 1,19.89%
+Florida,Franklin,Circuit 2,20.93%
+Florida,Gadsden,Circuit 2,20.93%
+Florida,Jefferson,Circuit 2,20.93%
+Florida,Leon,Circuit 2,20.93%
+Florida,Liberty,Circuit 2,20.93%
+Florida,Madison,Circuit 2,20.93%
+Florida,Taylor,Circuit 2,20.93%
+Florida,Wakulla,Circuit 2,20.93%
+Florida,Bay,Circuit 14,19.72%
+Florida,Calhoun,Circuit 14,19.72%
+Florida,Gulf,Circuit 14,19.72%
+Florida,Holmes,Circuit 14,19.72%
+Florida,Jackson,Circuit 14,19.72%
+Florida,Washington,Circuit 14,19.72%
+Florida,Miami-Dade,Circuit 11 and 16,14.56%
+Florida,Monroe,Circuit 11 and 16,14.56%
+Florida,Palm Beach,Circuit 15 (Palm Beach),16.58%
+Florida,Indian River,Circuit 19,17.04%
+Florida,Martin,Circuit 19,17.04%
+Florida,Okeechobee,Circuit 19,17.04%
+Florida,ST LUCIE,Circuit 19,17.04%
+Georgia,Banks,Region 1,19.23%
+Georgia,Bartow,Region 1,19.23%
+Georgia,Catoosa,Region 1,19.23%
+Georgia,Chattooga,Region 1,19.23%
+Georgia,Cherokee,Region 1,19.23%
+Georgia,Cobb,Region 1,19.23%
+Georgia,Dade,Region 1,19.23%
+Georgia,Dawson,Region 1,19.23%
+Georgia,Douglas,Region 1,19.23%
+Georgia,Fannin,Region 1,19.23%
+Georgia,Floyd,Region 1,19.23%
+Georgia,Forsyth,Region 1,19.23%
+Georgia,Franklin,Region 1,19.23%
+Georgia,Gilmer,Region 1,19.23%
+Georgia,Gordon,Region 1,19.23%
+Georgia,Habersham,Region 1,19.23%
+Georgia,Hall,Region 1,19.23%
+Georgia,Haralson,Region 1,19.23%
+Georgia,Hart,Region 1,19.23%
+Georgia,Lumpkin,Region 1,19.23%
+Georgia,Murray,Region 1,19.23%
+Georgia,Paulding,Region 1,19.23%
+Georgia,Pickens,Region 1,19.23%
+Georgia,Polk,Region 1,19.23%
+Georgia,Rabun,Region 1,19.23%
+Georgia,Stephens,Region 1,19.23%
+Georgia,Towns,Region 1,19.23%
+Georgia,Union,Region 1,19.23%
+Georgia,Walker,Region 1,19.23%
+Georgia,White,Region 1,19.23%
+Georgia,Whitfield,Region 1,19.23%
+Georgia,Baldwin,Region 2,18.12%
+Georgia,Barrow,Region 2,18.12%
+Georgia,Bibb,Region 2,18.12%
+Georgia,Burke,Region 2,18.12%
+Georgia,Clarke,Region 2,18.12%
+Georgia,Columbia,Region 2,18.12%
+Georgia,Elbert,Region 2,18.12%
+Georgia,Emanuel,Region 2,18.12%
+Georgia,Glascock,Region 2,18.12%
+Georgia,Greene,Region 2,18.12%
+Georgia,Hancock,Region 2,18.12%
+Georgia,Jackson,Region 2,18.12%
+Georgia,Jasper,Region 2,18.12%
+Georgia,Jefferson,Region 2,18.12%
+Georgia,Jenkins,Region 2,18.12%
+Georgia,Jones,Region 2,18.12%
+Georgia,Lincoln,Region 2,18.12%
+Georgia,Madison,Region 2,18.12%
+Georgia,McDuffie,Region 2,18.12%
+Georgia,Monroe,Region 2,18.12%
+Georgia,Morgan,Region 2,18.12%
+Georgia,Oconee,Region 2,18.12%
+Georgia,Oglethorpe,Region 2,18.12%
+Georgia,Putnam,Region 2,18.12%
+Georgia,Richmond,Region 2,18.12%
+Georgia,Screven,Region 2,18.12%
+Georgia,Taliaferro,Region 2,18.12%
+Georgia,Twiggs,Region 2,18.12%
+Georgia,Walton,Region 2,18.12%
+Georgia,Warren,Region 2,18.12%
+Georgia,Washington,Region 2,18.12%
+Georgia,Wilkes,Region 2,18.12%
+Georgia,Wilkinson,Region 2,18.12%
+Georgia,Clayton,Region 3,16.12%
+Georgia,DeKalb,Region 3,16.12%
+Georgia,Fulton,Region 3,16.12%
+Georgia,Gwinnett,Region 3,16.12%
+Georgia,Newton,Region 3,16.12%
+Georgia,Rockdale,Region 3,16.12%
+Georgia,Baker,Region 4,19.14%
+Georgia,Ben Hill,Region 4,19.14%
+Georgia,Berrien,Region 4,19.14%
+Georgia,Brooks,Region 4,19.14%
+Georgia,Calhoun,Region 4,19.14%
+Georgia,Colquitt,Region 4,19.14%
+Georgia,Cook,Region 4,19.14%
+Georgia,Decatur,Region 4,19.14%
+Georgia,Dougherty,Region 4,19.14%
+Georgia,Early,Region 4,19.14%
+Georgia,Echols,Region 4,19.14%
+Georgia,Grady,Region 4,19.14%
+Georgia,Irwin,Region 4,19.14%
+Georgia,Lanier,Region 4,19.14%
+Georgia,Lee,Region 4,19.14%
+Georgia,Lowndes,Region 4,19.14%
+Georgia,Miller,Region 4,19.14%
+Georgia,Mitchell,Region 4,19.14%
+Georgia,Seminole,Region 4,19.14%
+Georgia,Terrell,Region 4,19.14%
+Georgia,Thomas,Region 4,19.14%
+Georgia,Tift,Region 4,19.14%
+Georgia,Turner,Region 4,19.14%
+Georgia,Worth,Region 4,19.14%
+Georgia,Appling,Region 5,18.80%
+Georgia,Atkinson,Region 5,18.80%
+Georgia,Bacon,Region 5,18.80%
+Georgia,Bleckley,Region 5,18.80%
+Georgia,Brantley,Region 5,18.80%
+Georgia,Bryan,Region 5,18.80%
+Georgia,Bulloch,Region 5,18.80%
+Georgia,Camden,Region 5,18.80%
+Georgia,Candler,Region 5,18.80%
+Georgia,Charlton,Region 5,18.80%
+Georgia,Chatham,Region 5,18.80%
+Georgia,Clinch,Region 5,18.80%
+Georgia,Coffee,Region 5,18.80%
+Georgia,Dodge,Region 5,18.80%
+Georgia,Effingham,Region 5,18.80%
+Georgia,Evans,Region 5,18.80%
+Georgia,Glynn,Region 5,18.80%
+Georgia,Jeff Davis,Region 5,18.80%
+Georgia,Johnson,Region 5,18.80%
+Georgia,Laurens,Region 5,18.80%
+Georgia,Liberty,Region 5,18.80%
+Georgia,Long,Region 5,18.80%
+Georgia,McIntosh,Region 5,18.80%
+Georgia,Montgomery,Region 5,18.80%
+Georgia,Pierce,Region 5,18.80%
+Georgia,Pulaski,Region 5,18.80%
+Georgia,Tattnall,Region 5,18.80%
+Georgia,Telfair,Region 5,18.80%
+Georgia,Toombs,Region 5,18.80%
+Georgia,Treutlen,Region 5,18.80%
+Georgia,Ware,Region 5,18.80%
+Georgia,Wayne,Region 5,18.80%
+Georgia,Wheeler,Region 5,18.80%
+Georgia,Wilcox,Region 5,18.80%
+Georgia,Butts,Region 6,19.32%
+Georgia,Carroll,Region 6,19.32%
+Georgia,Chattahoochee,Region 6,19.32%
+Georgia,Clay,Region 6,19.32%
+Georgia,Coweta,Region 6,19.32%
+Georgia,Crawford,Region 6,19.32%
+Georgia,Crisp,Region 6,19.32%
+Georgia,Dooly,Region 6,19.32%
+Georgia,Fayette,Region 6,19.32%
+Georgia,Harris,Region 6,19.32%
+Georgia,Heard,Region 6,19.32%
+Georgia,Henry,Region 6,19.32%
+Georgia,Houston,Region 6,19.32%
+Georgia,Lamar,Region 6,19.32%
+Georgia,Macon,Region 6,19.32%
+Georgia,Marion,Region 6,19.32%
+Georgia,Meriwether,Region 6,19.32%
+Georgia,Muscogee,Region 6,19.32%
+Georgia,Peach,Region 6,19.32%
+Georgia,Pike,Region 6,19.32%
+Georgia,Quitman,Region 6,19.32%
+Georgia,Randolph,Region 6,19.32%
+Georgia,Schley,Region 6,19.32%
+Georgia,Spalding,Region 6,19.32%
+Georgia,Stewart,Region 6,19.32%
+Georgia,Sumter,Region 6,19.32%
+Georgia,Talbot,Region 6,19.32%
+Georgia,Taylor,Region 6,19.32%
+Georgia,Troup,Region 6,19.32%
+Georgia,Upson,Region 6,19.32%
+Georgia,Webster,Region 6,19.32%
+Idaho,Benewah,Region 1,24.24%
+Idaho,Bonner,Region 1,24.24%
+Idaho,Boundary,Region 1,24.24%
+Idaho,Kootenai,Region 1,24.24%
+Idaho,Shoshone,Region 1,24.24%
+Idaho,Clearwater,Region 2,23.36%
+Idaho,Idaho,Region 2,23.36%
+Idaho,Latah,Region 2,23.36%
+Idaho,Lewis,Region 2,23.36%
+Idaho,Nez Perce,Region 2,23.36%
+Idaho,Adams,Region 3,24.31%
+Idaho,Canyon,Region 3,24.31%
+Idaho,Gem,Region 3,24.31%
+Idaho,Owyhee,Region 3,24.31%
+Idaho,Payette,Region 3,24.31%
+Idaho,Washington,Region 3,24.31%
+Idaho,Ada,Region 4,25.56%
+Idaho,Boise,Region 4,25.56%
+Idaho,Elmore,Region 4,25.56%
+Idaho,Valley,Region 4,25.56%
+Idaho,Blaine,Region 5,23.08%
+Idaho,Camas,Region 5,23.08%
+Idaho,Cassia,Region 5,23.08%
+Idaho,Gooding,Region 5,23.08%
+Idaho,Jerome,Region 5,23.08%
+Idaho,Lincoln,Region 5,23.08%
+Idaho,Minidoka,Region 5,23.08%
+Idaho,Twin Falls,Region 5,23.08%
+Idaho,Bannock,Region 6,24.65%
+Idaho,Bear Lake,Region 6,24.65%
+Idaho,Caribou,Region 6,24.65%
+Idaho,Franklin,Region 6,24.65%
+Idaho,Oneida,Region 6,24.65%
+Idaho,Power,Region 6,24.65%
+Idaho,Bingham,Region 7,24.97%
+Idaho,Bonneville,Region 7,24.97%
+Idaho,Butte,Region 7,24.97%
+Idaho,Clark,Region 7,24.97%
+Idaho,Custer,Region 7,24.97%
+Idaho,Fremont,Region 7,24.97%
+Idaho,Jefferson,Region 7,24.97%
+Idaho,Lemhi,Region 7,24.97%
+Idaho,Madison,Region 7,24.97%
+Idaho,Teton,Region 7,24.97%
+Illinois,ADAMS,Region 4b,18.02%
+Illinois,CHAMPAIGN,Region 3a (Champaign),20.27%
+Illinois,COOK,Region 1 (Cook),16.39%
+Illinois,DEKALB,Region 2d,17.88%
+Illinois,DUPAGE,Region 2a (DuPage),16.72%
+Illinois,KANE,Region 2b,16.12%
+Illinois,KANKAKEE,Region 2d,17.88%
+Illinois,KENDALL,Region 2d,17.88%
+Illinois,LAKE,Region 2b,16.12%
+Illinois,LASALLE,Region 3b,18.59%
+Illinois,MCHENRY,Region 2b,16.12%
+Illinois,MCLEAN,Region 3b,18.59%
+Illinois,MACON,Region 4b,18.02%
+Illinois,MADISON,Region 5a,18.82%
+Illinois,PEORIA,Region 3b,18.59%
+Illinois,ROCK ISLAND,Region 3b,18.59%
+Illinois,ST CLAIR,Region 5a,18.82%
+Illinois,SANGAMON,Region 4a (Sangamon),18.88%
+Illinois,TAZEWELL,Region 3b,18.59%
+Illinois,VERMILION,Region 3b,18.59%
+Illinois,WILL,Region 2b,16.12%
+Illinois,WILLIAMSON,Region 5b,17.59%
+Illinois,WINNEBAGO,Region 2c (Winnebago),18.18%
+Indiana,Boone,Central,19.41%
+Indiana,Hamilton,Central,19.41%
+Indiana,Hancock,Central,19.41%
+Indiana,Hendricks,Central,19.41%
+Indiana,Johnson,Central,19.41%
+Indiana,Marion,Central,19.41%
+Indiana,Morgan,Central,19.41%
+Indiana,Shelby,Central,19.41%
+Indiana,Blackford,East,22.90%
+Indiana,Delaware,East,22.90%
+Indiana,Fayette,East,22.90%
+Indiana,Grant,East,22.90%
+Indiana,Henry,East,22.90%
+Indiana,Jay,East,22.90%
+Indiana,Madison,East,22.90%
+Indiana,Randolph,East,22.90%
+Indiana,Rush,East,22.90%
+Indiana,Union,East,22.90%
+Indiana,Wayne,East,22.90%
+Indiana,Cass,North Central,23.06%
+Indiana,Elkhart,North Central,23.06%
+Indiana,Fulton,North Central,23.06%
+Indiana,Howard,North Central,23.06%
+Indiana,Kosciusko,North Central,23.06%
+Indiana,La Porte,North Central,23.06%
+Indiana,Marshall,North Central,23.06%
+Indiana,Miami,North Central,23.06%
+Indiana,ST JOSEPH,North Central,23.06%
+Indiana,Tipton,North Central,23.06%
+Indiana,Wabash,North Central,23.06%
+Indiana,Adams,Northeast,21.13%
+Indiana,Allen,Northeast,21.13%
+Indiana,DeKalb,Northeast,21.13%
+Indiana,Huntington,Northeast,21.13%
+Indiana,LaGrange,Northeast,21.13%
+Indiana,Noble,Northeast,21.13%
+Indiana,Steuben,Northeast,21.13%
+Indiana,Wells,Northeast,21.13%
+Indiana,Whitley,Northeast,21.13%
+Indiana,Jasper,Northwest,20.02%
+Indiana,Lake,Northwest,20.02%
+Indiana,Newton,Northwest,20.02%
+Indiana,Porter,Northwest,20.02%
+Indiana,Pulaski,Northwest,20.02%
+Indiana,Starke,Northwest,20.02%
+Indiana,Bartholomew,Southeast,22.49%
+Indiana,Brown,Southeast,22.49%
+Indiana,Clark,Southeast,22.49%
+Indiana,Crawford,Southeast,22.49%
+Indiana,Dearborn,Southeast,22.49%
+Indiana,Decatur,Southeast,22.49%
+Indiana,Floyd,Southeast,22.49%
+Indiana,Franklin,Southeast,22.49%
+Indiana,Harrison,Southeast,22.49%
+Indiana,Jackson,Southeast,22.49%
+Indiana,Jefferson,Southeast,22.49%
+Indiana,Jennings,Southeast,22.49%
+Indiana,Lawrence,Southeast,22.49%
+Indiana,Ohio,Southeast,22.49%
+Indiana,Orange,Southeast,22.49%
+Indiana,Ripley,Southeast,22.49%
+Indiana,Scott,Southeast,22.49%
+Indiana,Switzerland,Southeast,22.49%
+Indiana,Washington,Southeast,22.49%
+Indiana,Daviess,Southwest,21.46%
+Indiana,Dubois,Southwest,21.46%
+Indiana,Gibson,Southwest,21.46%
+Indiana,Greene,Southwest,21.46%
+Indiana,Knox,Southwest,21.46%
+Indiana,Martin,Southwest,21.46%
+Indiana,Perry,Southwest,21.46%
+Indiana,Pike,Southwest,21.46%
+Indiana,Posey,Southwest,21.46%
+Indiana,Spencer,Southwest,21.46%
+Indiana,Vanderburgh,Southwest,21.46%
+Indiana,Warrick,Southwest,21.46%
+Indiana,Benton,West,25.09%
+Indiana,Carroll,West,25.09%
+Indiana,Clay,West,25.09%
+Indiana,Clinton,West,25.09%
+Indiana,Fountain,West,25.09%
+Indiana,Monroe,West,25.09%
+Indiana,Montgomery,West,25.09%
+Indiana,Owen,West,25.09%
+Indiana,Parke,West,25.09%
+Indiana,Putnam,West,25.09%
+Indiana,Sullivan,West,25.09%
+Indiana,Tippecanoe,West,25.09%
+Indiana,Vermillion,West,25.09%
+Indiana,Vigo,West,25.09%
+Indiana,Warren,West,25.09%
+Indiana,White,West,25.09%
+Iowa,Jasper,Central,19.78%
+Iowa,Marion,Central,19.78%
+Iowa,Polk,Central,19.78%
+Iowa,Warren,Central,19.78%
+Iowa,Boone,North Central,18.91%
+Iowa,Cerro Gordo,North Central,18.91%
+Iowa,Floyd,North Central,18.91%
+Iowa,Franklin,North Central,18.91%
+Iowa,Hancock,North Central,18.91%
+Iowa,Hardin,North Central,18.91%
+Iowa,Kossuth,North Central,18.91%
+Iowa,Marshall,North Central,18.91%
+Iowa,Mitchell,North Central,18.91%
+Iowa,Poweshiek,North Central,18.91%
+Iowa,Story,North Central,18.91%
+Iowa,Tama,North Central,18.91%
+Iowa,Winnebago,North Central,18.91%
+Iowa,Worth,North Central,18.91%
+Iowa,Allamakee,Northeast,19.29%
+Iowa,Benton,Northeast,19.29%
+Iowa,Black Hawk,Northeast,19.29%
+Iowa,Bremer,Northeast,19.29%
+Iowa,Buchanan,Northeast,19.29%
+Iowa,Butler,Northeast,19.29%
+Iowa,Chickasaw,Northeast,19.29%
+Iowa,Clayton,Northeast,19.29%
+Iowa,Clinton,Northeast,19.29%
+Iowa,Delaware,Northeast,19.29%
+Iowa,Dubuque,Northeast,19.29%
+Iowa,Fayette,Northeast,19.29%
+Iowa,Grundy,Northeast,19.29%
+Iowa,Howard,Northeast,19.29%
+Iowa,Jackson,Northeast,19.29%
+Iowa,Jones,Northeast,19.29%
+Iowa,Linn,Northeast,19.29%
+Iowa,Winneshiek,Northeast,19.29%
+Iowa,Audubon,Northwest,17.00%
+Iowa,Buena Vista,Northwest,17.00%
+Iowa,Calhoun,Northwest,17.00%
+Iowa,Carroll,Northwest,17.00%
+Iowa,Cherokee,Northwest,17.00%
+Iowa,Clay,Northwest,17.00%
+Iowa,Crawford,Northwest,17.00%
+Iowa,Dickinson,Northwest,17.00%
+Iowa,Emmet,Northwest,17.00%
+Iowa,Greene,Northwest,17.00%
+Iowa,Guthrie,Northwest,17.00%
+Iowa,Hamilton,Northwest,17.00%
+Iowa,Humboldt,Northwest,17.00%
+Iowa,Ida,Northwest,17.00%
+Iowa,Lyon,Northwest,17.00%
+Iowa,Monona,Northwest,17.00%
+Iowa,O'Brien,Northwest,17.00%
+Iowa,Osceola,Northwest,17.00%
+Iowa,Palo Alto,Northwest,17.00%
+Iowa,Plymouth,Northwest,17.00%
+Iowa,Pocahontas,Northwest,17.00%
+Iowa,Sac,Northwest,17.00%
+Iowa,Shelby,Northwest,17.00%
+Iowa,Sioux,Northwest,17.00%
+Iowa,Webster,Northwest,17.00%
+Iowa,Woodbury,Northwest,17.00%
+Iowa,Wright,Northwest,17.00%
+Iowa,Appanoose,Southeast,20.31%
+Iowa,Cedar,Southeast,20.31%
+Iowa,Davis,Southeast,20.31%
+Iowa,Des Moines,Southeast,20.31%
+Iowa,Henry,Southeast,20.31%
+Iowa,Iowa,Southeast,20.31%
+Iowa,Jefferson,Southeast,20.31%
+Iowa,Johnson,Southeast,20.31%
+Iowa,Keokuk,Southeast,20.31%
+Iowa,Lee,Southeast,20.31%
+Iowa,Louisa,Southeast,20.31%
+Iowa,Lucas,Southeast,20.31%
+Iowa,Mahaska,Southeast,20.31%
+Iowa,Monroe,Southeast,20.31%
+Iowa,Muscatine,Southeast,20.31%
+Iowa,Scott,Southeast,20.31%
+Iowa,Van Buren,Southeast,20.31%
+Iowa,Wapello,Southeast,20.31%
+Iowa,Washington,Southeast,20.31%
+Iowa,Wayne,Southeast,20.31%
+Iowa,Adair,Southwest,18.12%
+Iowa,Adams,Southwest,18.12%
+Iowa,Cass,Southwest,18.12%
+Iowa,Clarke,Southwest,18.12%
+Iowa,Dallas,Southwest,18.12%
+Iowa,Decatur,Southwest,18.12%
+Iowa,Fremont,Southwest,18.12%
+Iowa,Harrison,Southwest,18.12%
+Iowa,Madison,Southwest,18.12%
+Iowa,Mills,Southwest,18.12%
+Iowa,Montgomery,Southwest,18.12%
+Iowa,Page,Southwest,18.12%
+Iowa,Pottawattamie,Southwest,18.12%
+Iowa,Ringgold,Southwest,18.12%
+Iowa,Taylor,Southwest,18.12%
+Iowa,Union,Southwest,18.12%
+Kansas,Atchison,Northeast,19.64%
+Kansas,Brown,Northeast,19.64%
+Kansas,Doniphan,Northeast,19.64%
+Kansas,Douglas,Northeast,19.64%
+Kansas,Franklin,Northeast,19.64%
+Kansas,Geary,Northeast,19.64%
+Kansas,Jackson,Northeast,19.64%
+Kansas,Jefferson,Northeast,19.64%
+Kansas,Johnson,Northeast,19.64%
+Kansas,Leavenworth,Northeast,19.64%
+Kansas,Lyon,Northeast,19.64%
+Kansas,Marshall,Northeast,19.64%
+Kansas,Miami,Northeast,19.64%
+Kansas,Morris,Northeast,19.64%
+Kansas,Nemaha,Northeast,19.64%
+Kansas,Osage,Northeast,19.64%
+Kansas,Pottawatomie,Northeast,19.64%
+Kansas,Riley,Northeast,19.64%
+Kansas,Shawnee,Northeast,19.64%
+Kansas,Wabaunsee,Northeast,19.64%
+Kansas,Wyandotte,Northeast,19.64%
+Kansas,Cheyenne,Northwest and North Central,18.51%
+Kansas,Decatur,Northwest and North Central,18.51%
+Kansas,Ellis,Northwest and North Central,18.51%
+Kansas,Gove,Northwest and North Central,18.51%
+Kansas,Graham,Northwest and North Central,18.51%
+Kansas,Logan,Northwest and North Central,18.51%
+Kansas,Norton,Northwest and North Central,18.51%
+Kansas,Phillips,Northwest and North Central,18.51%
+Kansas,Rawlins,Northwest and North Central,18.51%
+Kansas,Rooks,Northwest and North Central,18.51%
+Kansas,Sheridan,Northwest and North Central,18.51%
+Kansas,Sherman,Northwest and North Central,18.51%
+Kansas,Thomas,Northwest and North Central,18.51%
+Kansas,Trego,Northwest and North Central,18.51%
+Kansas,Wallace,Northwest and North Central,18.51%
+Kansas,Clay,Northwest and North Central,18.51%
+Kansas,Cloud,Northwest and North Central,18.51%
+Kansas,Dickinson,Northwest and North Central,18.51%
+Kansas,Ellsworth,Northwest and North Central,18.51%
+Kansas,Jewell,Northwest and North Central,18.51%
+Kansas,Lincoln,Northwest and North Central,18.51%
+Kansas,Mitchell,Northwest and North Central,18.51%
+Kansas,Osborne,Northwest and North Central,18.51%
+Kansas,Ottawa,Northwest and North Central,18.51%
+Kansas,Republic,Northwest and North Central,18.51%
+Kansas,Russell,Northwest and North Central,18.51%
+Kansas,Saline,Northwest and North Central,18.51%
+Kansas,Smith,Northwest and North Central,18.51%
+Kansas,Washington,Northwest and North Central,18.51%
+Kansas,Barber,South Central,19.46%
+Kansas,Barton,South Central,19.46%
+Kansas,Butler,South Central,19.46%
+Kansas,Cowley,South Central,19.46%
+Kansas,Harper,South Central,19.46%
+Kansas,Harvey,South Central,19.46%
+Kansas,Kingman,South Central,19.46%
+Kansas,Marion,South Central,19.46%
+Kansas,McPherson,South Central,19.46%
+Kansas,Pratt,South Central,19.46%
+Kansas,Reno,South Central,19.46%
+Kansas,Rice,South Central,19.46%
+Kansas,Sedgwick,South Central,19.46%
+Kansas,Stafford,South Central,19.46%
+Kansas,Sumner,South Central,19.46%
+Kansas,Allen,Southeast,19.03%
+Kansas,Anderson,Southeast,19.03%
+Kansas,Bourbon,Southeast,19.03%
+Kansas,Chase,Southeast,19.03%
+Kansas,Chautauqua,Southeast,19.03%
+Kansas,Cherokee,Southeast,19.03%
+Kansas,Coffey,Southeast,19.03%
+Kansas,Crawford,Southeast,19.03%
+Kansas,Elk,Southeast,19.03%
+Kansas,Greenwood,Southeast,19.03%
+Kansas,Labette,Southeast,19.03%
+Kansas,Linn,Southeast,19.03%
+Kansas,Montgomery,Southeast,19.03%
+Kansas,Neosho,Southeast,19.03%
+Kansas,Wilson,Southeast,19.03%
+Kansas,Woodson,Southeast,19.03%
+Kansas,Clark,Southwest,17.95%
+Kansas,Comanche,Southwest,17.95%
+Kansas,Edwards,Southwest,17.95%
+Kansas,Finney,Southwest,17.95%
+Kansas,Ford,Southwest,17.95%
+Kansas,Grant,Southwest,17.95%
+Kansas,Gray,Southwest,17.95%
+Kansas,Greeley,Southwest,17.95%
+Kansas,Hamilton,Southwest,17.95%
+Kansas,Haskell,Southwest,17.95%
+Kansas,Hodgeman,Southwest,17.95%
+Kansas,Kearny,Southwest,17.95%
+Kansas,Kiowa,Southwest,17.95%
+Kansas,Lane,Southwest,17.95%
+Kansas,Meade,Southwest,17.95%
+Kansas,Morton,Southwest,17.95%
+Kansas,Ness,Southwest,17.95%
+Kansas,Pawnee,Southwest,17.95%
+Kansas,Rush,Southwest,17.95%
+Kansas,Scott,Southwest,17.95%
+Kansas,Seward,Southwest,17.95%
+Kansas,Stanton,Southwest,17.95%
+Kansas,Stevens,Southwest,17.95%
+Kansas,Wichita,Southwest,17.95%
+Kentucky,Adair,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Casey,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Clinton,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Cumberland,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Green,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,McCreary,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Pulaski,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Russell,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Taylor,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Wayne,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Bell,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Clay,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Harlan,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Jackson,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Knox,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Laurel,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Rockcastle,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Whitley,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Allen,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Barren,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Butler,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Edmonson,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Hart,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Logan,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Metcalfe,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Monroe,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Simpson,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Warren,"Adanta, Cumberland River, and Lifeskills",21.73%
+Kentucky,Anderson,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Bourbon,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Boyle,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Clark,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Estill,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Fayette,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Franklin,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Garrard,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Harrison,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Jessamine,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Lincoln,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Madison,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Mercer,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Nicholas,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Powell,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Scott,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Woodford,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Bracken,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Fleming,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Lewis,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Mason,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Robertson,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Boone,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Campbell,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Carroll,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Gallatin,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Grant,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Kenton,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Owen,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Pendleton,"Bluegrass, Comprehend, and North Key",24.11%
+Kentucky,Bullitt,Centerstone,21.69%
+Kentucky,Henry,Centerstone,21.69%
+Kentucky,Jefferson,Centerstone,21.69%
+Kentucky,Oldham,Centerstone,21.69%
+Kentucky,Shelby,Centerstone,21.69%
+Kentucky,Spencer,Centerstone,21.69%
+Kentucky,Trimble,Centerstone,21.69%
+Kentucky,Breckinridge,Communicare and River Valley,20.49%
+Kentucky,Grayson,Communicare and River Valley,20.49%
+Kentucky,Hardin,Communicare and River Valley,20.49%
+Kentucky,Larue,Communicare and River Valley,20.49%
+Kentucky,Marion,Communicare and River Valley,20.49%
+Kentucky,Meade,Communicare and River Valley,20.49%
+Kentucky,Nelson,Communicare and River Valley,20.49%
+Kentucky,Washington,Communicare and River Valley,20.49%
+Kentucky,Daviess,Communicare and River Valley,20.49%
+Kentucky,Hancock,Communicare and River Valley,20.49%
+Kentucky,Henderson,Communicare and River Valley,20.49%
+Kentucky,McLean,Communicare and River Valley,20.49%
+Kentucky,Ohio,Communicare and River Valley,20.49%
+Kentucky,Union,Communicare and River Valley,20.49%
+Kentucky,Webster,Communicare and River Valley,20.49%
+Kentucky,Ballard,Four Rivers and Pennyroyal,21.64%
+Kentucky,Calloway,Four Rivers and Pennyroyal,21.64%
+Kentucky,Carlisle,Four Rivers and Pennyroyal,21.64%
+Kentucky,Fulton,Four Rivers and Pennyroyal,21.64%
+Kentucky,Graves,Four Rivers and Pennyroyal,21.64%
+Kentucky,Hickman,Four Rivers and Pennyroyal,21.64%
+Kentucky,Livingston,Four Rivers and Pennyroyal,21.64%
+Kentucky,Marshall,Four Rivers and Pennyroyal,21.64%
+Kentucky,McCracken,Four Rivers and Pennyroyal,21.64%
+Kentucky,Caldwell,Four Rivers and Pennyroyal,21.64%
+Kentucky,Christian,Four Rivers and Pennyroyal,21.64%
+Kentucky,Crittenden,Four Rivers and Pennyroyal,21.64%
+Kentucky,Hopkins,Four Rivers and Pennyroyal,21.64%
+Kentucky,Lyon,Four Rivers and Pennyroyal,21.64%
+Kentucky,Muhlenberg,Four Rivers and Pennyroyal,21.64%
+Kentucky,Todd,Four Rivers and Pennyroyal,21.64%
+Kentucky,Trigg,Four Rivers and Pennyroyal,21.64%
+Kentucky,Breathitt,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Knott,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Lee,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Leslie,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Letcher,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Owsley,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Perry,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Wolfe,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Floyd,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Johnson,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Magoffin,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Martin,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Pike,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Bath,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Boyd,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Carter,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Elliott,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Greenup,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Lawrence,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Menifee,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Montgomery,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Morgan,"Kentucky River, Mountain, and Pathways",23.85%
+Kentucky,Rowan,"Kentucky River, Mountain, and Pathways",23.85%
+Louisiana,Orleans,Region 1,19.46%
+Louisiana,Plaquemines,Region 1,19.46%
+Louisiana,St Bernard,Region 1,19.46%
+Louisiana,Jefferson,Region 10 (Jefferson),20.28%
+Louisiana,Ascension,Regions 2 and 9,19.67%
+Louisiana,East Baton Rouge,Regions 2 and 9,19.67%
+Louisiana,East Feliciana,Regions 2 and 9,19.67%
+Louisiana,Iberville,Regions 2 and 9,19.67%
+Louisiana,Pointe Coupee,Regions 2 and 9,19.67%
+Louisiana,West Baton Rouge,Regions 2 and 9,19.67%
+Louisiana,West Feliciana,Regions 2 and 9,19.67%
+Louisiana,Livingston,Regions 2 and 9,19.67%
+Louisiana,St Helena,Regions 2 and 9,19.67%
+Louisiana,ST TAMMANY,Regions 2 and 9,19.67%
+Louisiana,Tangipahoa,Regions 2 and 9,19.67%
+Louisiana,Washington,Regions 2 and 9,19.67%
+Louisiana,Assumption,Region 3,19.18%
+Louisiana,Lafourche,Region 3,19.18%
+Louisiana,St Charles,Region 3,19.18%
+Louisiana,St James,Region 3,19.18%
+Louisiana,St John the,Region 3,19.18%
+Louisiana,   Baptist,Region 3,19.18%
+Louisiana,St Mary,Region 3,19.18%
+Louisiana,Terrebonne,Region 3,19.18%
+Louisiana,Acadia,"Regions 4, 5, and 6",20.26%
+Louisiana,Evangeline,"Regions 4, 5, and 6",20.26%
+Louisiana,Iberia,"Regions 4, 5, and 6",20.26%
+Louisiana,Lafayette,"Regions 4, 5, and 6",20.26%
+Louisiana,ST LANDRY,"Regions 4, 5, and 6",20.26%
+Louisiana,St Martin,"Regions 4, 5, and 6",20.26%
+Louisiana,Vermilion,"Regions 4, 5, and 6",20.26%
+Louisiana,Allen,"Regions 4, 5, and 6",20.26%
+Louisiana,Beauregard,"Regions 4, 5, and 6",20.26%
+Louisiana,Calcasieu,"Regions 4, 5, and 6",20.26%
+Louisiana,Cameron,"Regions 4, 5, and 6",20.26%
+Louisiana,Jefferson Davis,"Regions 4, 5, and 6",20.26%
+Louisiana,Avoyelles,"Regions 4, 5, and 6",20.26%
+Louisiana,Catahoula,"Regions 4, 5, and 6",20.26%
+Louisiana,Concordia,"Regions 4, 5, and 6",20.26%
+Louisiana,Grant,"Regions 4, 5, and 6",20.26%
+Louisiana,La Salle,"Regions 4, 5, and 6",20.26%
+Louisiana,Rapides,"Regions 4, 5, and 6",20.26%
+Louisiana,Vernon,"Regions 4, 5, and 6",20.26%
+Louisiana,Winn,"Regions 4, 5, and 6",20.26%
+Louisiana,Bienville,Regions 7 and 8,19.07%
+Louisiana,Bossier,Regions 7 and 8,19.07%
+Louisiana,Caddo,Regions 7 and 8,19.07%
+Louisiana,Claiborne,Regions 7 and 8,19.07%
+Louisiana,De Soto,Regions 7 and 8,19.07%
+Louisiana,Natchitoches,Regions 7 and 8,19.07%
+Louisiana,Red River,Regions 7 and 8,19.07%
+Louisiana,Sabine,Regions 7 and 8,19.07%
+Louisiana,Webster,Regions 7 and 8,19.07%
+Louisiana,Caldwell,Regions 7 and 8,19.07%
+Louisiana,East Carroll,Regions 7 and 8,19.07%
+Louisiana,Franklin,Regions 7 and 8,19.07%
+Louisiana,Jackson,Regions 7 and 8,19.07%
+Louisiana,Lincoln,Regions 7 and 8,19.07%
+Louisiana,Madison,Regions 7 and 8,19.07%
+Louisiana,Morehouse,Regions 7 and 8,19.07%
+Louisiana,Ouachita,Regions 7 and 8,19.07%
+Louisiana,Richland,Regions 7 and 8,19.07%
+Louisiana,Tensas,Regions 7 and 8,19.07%
+Louisiana,Union,Regions 7 and 8,19.07%
+Louisiana,West Carroll,Regions 7 and 8,19.07%
+Maine,Aroostook,Aroostook,19.03%
+Maine,Hancock,Downeast,18.18%
+Maine,Washington,Downeast,18.18%
+Maine,Kennebec,Central,20.82%
+Maine,Somerset,Central,20.82%
+Maine,Cumberland,Cumberland,19.45%
+Maine,Knox,Midcoast,18.40%
+Maine,Lincoln,Midcoast,18.40%
+Maine,Sagadahoc,Midcoast,18.40%
+Maine,Waldo,Midcoast,18.40%
+Maine,Penobscot,Penquis,21.36%
+Maine,Piscataquis,Penquis,21.36%
+Maine,Androscoggin,Western,22.22%
+Maine,Franklin,Western,22.22%
+Maine,Oxford,Western,22.22%
+Maine,York,York,20.28%
+Maryland,Anne Arundel,Anne Arundel,17.99%
+Maryland,Baltimore City,Baltimore City,18.46%
+Maryland,Baltimore,Baltimore County,17.70%
+Maryland,Montgomery,Montgomery,15.08%
+Maryland,Carroll,North Central,18.53%
+Maryland,Howard,North Central,18.53%
+Maryland,Caroline,Northeast,19.27%
+Maryland,Cecil,Northeast,19.27%
+Maryland,Harford,Northeast,19.27%
+Maryland,Kent,Northeast,19.27%
+Maryland,Queen Anne's,Northeast,19.27%
+Maryland,Talbot,Northeast,19.27%
+Maryland,Prince George's,Prince George's,14.36%
+Maryland,Calvert,South,17.41%
+Maryland,Charles,South,17.41%
+Maryland,Dorchester,South,17.41%
+Maryland,Somerset,South,17.41%
+Maryland,ST MARY'S,South,17.41%
+Maryland,Wicomico,South,17.41%
+Maryland,Worcester,South,17.41%
+Maryland,Allegany,West,17.38%
+Maryland,Frederick,West,17.38%
+Maryland,Garrett,West,17.38%
+Maryland,Washington,West,17.38%
+Massachusetts,BARNSTABLE,Southeast,21.30%
+Massachusetts,BERKSHIRE,Western,22.20%
+Massachusetts,BRISTOL,Southeast,21.30%
+Massachusetts,ESSEX,Northeast,19.11%
+Massachusetts,FRANKLIN,Western,22.20%
+Massachusetts,HAMPDEN,Massachusetts,20.80%
+Massachusetts,HAMPSHIRE,Western,22.20%
+Massachusetts,MIDDLESEX,Massachusetts,20.80%
+Massachusetts,NORFOLK,Massachusetts,20.80%
+Massachusetts,PLYMOUTH,Massachusetts,20.80%
+Massachusetts,SUFFOLK,Boston,24.23%
+Massachusetts,WORCESTER,Massachusetts,20.80%
+Michigan,Alger,Region 1,18.51%
+Michigan,Baraga,Region 1,18.51%
+Michigan,Chippewa,Region 1,18.51%
+Michigan,Delta,Region 1,18.51%
+Michigan,Dickinson,Region 1,18.51%
+Michigan,Gogebic,Region 1,18.51%
+Michigan,Houghton,Region 1,18.51%
+Michigan,Iron,Region 1,18.51%
+Michigan,Keweenaw,Region 1,18.51%
+Michigan,Luce,Region 1,18.51%
+Michigan,Mackinac,Region 1,18.51%
+Michigan,Marquette,Region 1,18.51%
+Michigan,Menominee,Region 1,18.51%
+Michigan,Ontonagon,Region 1,18.51%
+Michigan,Schoolcraft,Region 1,18.51%
+Michigan,Alcona,Region 2,16.80%
+Michigan,Alpena,Region 2,16.80%
+Michigan,Antrim,Region 2,16.80%
+Michigan,Benzie,Region 2,16.80%
+Michigan,Charlevoix,Region 2,16.80%
+Michigan,Cheboygan,Region 2,16.80%
+Michigan,Crawford,Region 2,16.80%
+Michigan,Emmet,Region 2,16.80%
+Michigan,Grand Traverse,Region 2,16.80%
+Michigan,Iosco,Region 2,16.80%
+Michigan,Kalkaska,Region 2,16.80%
+Michigan,Leelanau,Region 2,16.80%
+Michigan,Manistee,Region 2,16.80%
+Michigan,Missaukee,Region 2,16.80%
+Michigan,Montmorency,Region 2,16.80%
+Michigan,Ogemaw,Region 2,16.80%
+Michigan,Oscoda,Region 2,16.80%
+Michigan,Otsego,Region 2,16.80%
+Michigan,Presque Isle,Region 2,16.80%
+Michigan,Roscommon,Region 2,16.80%
+Michigan,Wexford,Region 2,16.80%
+Michigan,Allegan,Region 3,18.85%
+Michigan,Kent,Region 3,18.85%
+Michigan,Lake,Region 3,18.85%
+Michigan,Mason,Region 3,18.85%
+Michigan,Muskegon,Region 3,18.85%
+Michigan,Oceana,Region 3,18.85%
+Michigan,Ottawa,Region 3,18.85%
+Michigan,Barry,Region 4,19.63%
+Michigan,Berrien,Region 4,19.63%
+Michigan,Branch,Region 4,19.63%
+Michigan,Calhoun,Region 4,19.63%
+Michigan,Cass,Region 4,19.63%
+Michigan,Kalamazoo,Region 4,19.63%
+Michigan,St Joseph,Region 4,19.63%
+Michigan,Van Buren,Region 4,19.63%
+Michigan,Arenac,Region 5,18.61%
+Michigan,Bay,Region 5,18.61%
+Michigan,Clare,Region 5,18.61%
+Michigan,Clinton,Region 5,18.61%
+Michigan,Eaton,Region 5,18.61%
+Michigan,Gladwin,Region 5,18.61%
+Michigan,Gratiot,Region 5,18.61%
+Michigan,Hillsdale,Region 5,18.61%
+Michigan,Huron,Region 5,18.61%
+Michigan,Ingham,Region 5,18.61%
+Michigan,Ionia,Region 5,18.61%
+Michigan,Isabella,Region 5,18.61%
+Michigan,Jackson,Region 5,18.61%
+Michigan,Mecosta,Region 5,18.61%
+Michigan,Midland,Region 5,18.61%
+Michigan,Montcalm,Region 5,18.61%
+Michigan,Newaygo,Region 5,18.61%
+Michigan,Osceola,Region 5,18.61%
+Michigan,Saginaw,Region 5,18.61%
+Michigan,Shiawassee,Region 5,18.61%
+Michigan,Tuscola,Region 5,18.61%
+Michigan,Lenawee,Region 6,19.87%
+Michigan,Livingston,Region 6,19.87%
+Michigan,Monroe,Region 6,19.87%
+Michigan,Washtenaw,Region 6,19.87%
+Michigan,Wayne,Region 7,18.88%
+Michigan,Oakland,Region 8,16.41%
+Michigan,Macomb,Region 9,18.60%
+Michigan,Genesee,Region 10,19.78%
+Michigan,Lapeer,Region 10,19.78%
+Michigan,Sanilac,Region 10,19.78%
+Michigan,ST CLAIR,Region 10,19.78%
+Minnesota,Becker,Region 1,17.90%
+Minnesota,Beltrami,Region 1,17.90%
+Minnesota,Clearwater,Region 1,17.90%
+Minnesota,Hubbard,Region 1,17.90%
+Minnesota,Kittson,Region 1,17.90%
+Minnesota,Lake of the Woods,Region 1,17.90%
+Minnesota,Mahnomen,Region 1,17.90%
+Minnesota,Marshall,Region 1,17.90%
+Minnesota,Norman,Region 1,17.90%
+Minnesota,Pennington,Region 1,17.90%
+Minnesota,Polk,Region 1,17.90%
+Minnesota,Red Lake,Region 1,17.90%
+Minnesota,Roseau,Region 1,17.90%
+Minnesota,Aitkin,Region 2,19.04%
+Minnesota,Carlton,Region 2,19.04%
+Minnesota,Cook,Region 2,19.04%
+Minnesota,Itasca,Region 2,19.04%
+Minnesota,Koochiching,Region 2,19.04%
+Minnesota,Lake,Region 2,19.04%
+Minnesota,ST LOUIS,Region 2,19.04%
+Minnesota,Cass,Region 3,18.96%
+Minnesota,Clay,Region 3,18.96%
+Minnesota,Crow Wing,Region 3,18.96%
+Minnesota,Douglas,Region 3,18.96%
+Minnesota,Grant,Region 3,18.96%
+Minnesota,Otter Tail,Region 3,18.96%
+Minnesota,Pope,Region 3,18.96%
+Minnesota,Stevens,Region 3,18.96%
+Minnesota,Todd,Region 3,18.96%
+Minnesota,Traverse,Region 3,18.96%
+Minnesota,Wadena,Region 3,18.96%
+Minnesota,Wilkin,Region 3,18.96%
+Minnesota,Benton,Region 4,18.62%
+Minnesota,Chisago,Region 4,18.62%
+Minnesota,Isanti,Region 4,18.62%
+Minnesota,Kanabec,Region 4,18.62%
+Minnesota,Mille Lacs,Region 4,18.62%
+Minnesota,Morrison,Region 4,18.62%
+Minnesota,Pine,Region 4,18.62%
+Minnesota,Sherburne,Region 4,18.62%
+Minnesota,Stearns,Region 4,18.62%
+Minnesota,Wright,Region 4,18.62%
+Minnesota,Big Stone,Region 5,17.87%
+Minnesota,Blue Earth,Region 5,17.87%
+Minnesota,Brown,Region 5,17.87%
+Minnesota,Chippewa,Region 5,17.87%
+Minnesota,Cottonwood,Region 5,17.87%
+Minnesota,Faribault,Region 5,17.87%
+Minnesota,Jackson,Region 5,17.87%
+Minnesota,Kandiyohi,Region 5,17.87%
+Minnesota,Lac qui Parle,Region 5,17.87%
+Minnesota,Le Sueur,Region 5,17.87%
+Minnesota,Lincoln,Region 5,17.87%
+Minnesota,Lyon,Region 5,17.87%
+Minnesota,Martin,Region 5,17.87%
+Minnesota,McLeod,Region 5,17.87%
+Minnesota,Meeker,Region 5,17.87%
+Minnesota,Murray,Region 5,17.87%
+Minnesota,Nicollet,Region 5,17.87%
+Minnesota,Nobles,Region 5,17.87%
+Minnesota,Pipestone,Region 5,17.87%
+Minnesota,Redwood,Region 5,17.87%
+Minnesota,Renville,Region 5,17.87%
+Minnesota,Rock,Region 5,17.87%
+Minnesota,Sibley,Region 5,17.87%
+Minnesota,Swift,Region 5,17.87%
+Minnesota,Waseca,Region 5,17.87%
+Minnesota,Watonwan,Region 5,17.87%
+Minnesota,Yellow Medicine,Region 5,17.87%
+Minnesota,Dodge,Region 6,18.70%
+Minnesota,Fillmore,Region 6,18.70%
+Minnesota,Freeborn,Region 6,18.70%
+Minnesota,Goodhue,Region 6,18.70%
+Minnesota,Houston,Region 6,18.70%
+Minnesota,Mower,Region 6,18.70%
+Minnesota,Olmsted,Region 6,18.70%
+Minnesota,Rice,Region 6,18.70%
+Minnesota,Steele,Region 6,18.70%
+Minnesota,Wabasha,Region 6,18.70%
+Minnesota,Winona,Region 6,18.70%
+Minnesota,Hennepin,Region 7A (Hennepin),18.95%
+Minnesota,Ramsey,Region 7B (Ramsey),20.33%
+Minnesota,Anoka,Region 7C,19.31%
+Minnesota,Carver,Region 7C,19.31%
+Minnesota,Dakota,Region 7C,19.31%
+Minnesota,Scott,Region 7C,19.31%
+Minnesota,Washington,Region 7C,19.31%
+Mississippi,Alcorn,Region 1,19.55%
+Mississippi,Benton,Region 1,19.55%
+Mississippi,Calhoun,Region 1,19.55%
+Mississippi,Chickasaw,Region 1,19.55%
+Mississippi,DeSoto,Region 1,19.55%
+Mississippi,Itawamba,Region 1,19.55%
+Mississippi,Lafayette,Region 1,19.55%
+Mississippi,Lee,Region 1,19.55%
+Mississippi,Marshall,Region 1,19.55%
+Mississippi,Monroe,Region 1,19.55%
+Mississippi,Panola,Region 1,19.55%
+Mississippi,Pontotoc,Region 1,19.55%
+Mississippi,Prentiss,Region 1,19.55%
+Mississippi,Tate,Region 1,19.55%
+Mississippi,Tippah,Region 1,19.55%
+Mississippi,Tishomingo,Region 1,19.55%
+Mississippi,Union,Region 1,19.55%
+Mississippi,Yalobusha,Region 1,19.55%
+Mississippi,Attala,Region 2,16.94%
+Mississippi,Bolivar,Region 2,16.94%
+Mississippi,Carroll,Region 2,16.94%
+Mississippi,Coahoma,Region 2,16.94%
+Mississippi,Grenada,Region 2,16.94%
+Mississippi,Holmes,Region 2,16.94%
+Mississippi,Humphreys,Region 2,16.94%
+Mississippi,Issaquena,Region 2,16.94%
+Mississippi,Leflore,Region 2,16.94%
+Mississippi,Montgomery,Region 2,16.94%
+Mississippi,Quitman,Region 2,16.94%
+Mississippi,Sharkey,Region 2,16.94%
+Mississippi,Sunflower,Region 2,16.94%
+Mississippi,Tallahatchie,Region 2,16.94%
+Mississippi,Tunica,Region 2,16.94%
+Mississippi,Warren,Region 2,16.94%
+Mississippi,Washington,Region 2,16.94%
+Mississippi,Yazoo,Region 2,16.94%
+Mississippi,Choctaw,Region 3,19.81%
+Mississippi,Clarke,Region 3,19.81%
+Mississippi,Clay,Region 3,19.81%
+Mississippi,Jasper,Region 3,19.81%
+Mississippi,Kemper,Region 3,19.81%
+Mississippi,Lauderdale,Region 3,19.81%
+Mississippi,Leake,Region 3,19.81%
+Mississippi,Lowndes,Region 3,19.81%
+Mississippi,Neshoba,Region 3,19.81%
+Mississippi,Newton,Region 3,19.81%
+Mississippi,Noxubee,Region 3,19.81%
+Mississippi,Oktibbeha,Region 3,19.81%
+Mississippi,Scott,Region 3,19.81%
+Mississippi,Smith,Region 3,19.81%
+Mississippi,Webster,Region 3,19.81%
+Mississippi,Winston,Region 3,19.81%
+Mississippi,Copiah,Region 4,18.93%
+Mississippi,Hinds,Region 4,18.93%
+Mississippi,Madison,Region 4,18.93%
+Mississippi,Rankin,Region 4,18.93%
+Mississippi,Simpson,Region 4,18.93%
+Mississippi,Adams,Region 5,18.79%
+Mississippi,Amite,Region 5,18.79%
+Mississippi,Claiborne,Region 5,18.79%
+Mississippi,Franklin,Region 5,18.79%
+Mississippi,Jefferson,Region 5,18.79%
+Mississippi,Lawrence,Region 5,18.79%
+Mississippi,Lincoln,Region 5,18.79%
+Mississippi,Pike,Region 5,18.79%
+Mississippi,Walthall,Region 5,18.79%
+Mississippi,Wilkinson,Region 5,18.79%
+Mississippi,Covington,Region 6,19.81%
+Mississippi,Forrest,Region 6,19.81%
+Mississippi,Greene,Region 6,19.81%
+Mississippi,Jefferson Davis,Region 6,19.81%
+Mississippi,Jones,Region 6,19.81%
+Mississippi,Lamar,Region 6,19.81%
+Mississippi,Marion,Region 6,19.81%
+Mississippi,Perry,Region 6,19.81%
+Mississippi,Wayne,Region 6,19.81%
+Mississippi,George,Region 7,20.73%
+Mississippi,Hancock,Region 7,20.73%
+Mississippi,Harrison,Region 7,20.73%
+Mississippi,Jackson,Region 7,20.73%
+Mississippi,Pearl River,Region 7,20.73%
+Mississippi,Stone,Region 7,20.73%
+Missouri,Adair,Central,19.38%
+Missouri,Audrain,Central,19.38%
+Missouri,Boone,Central,19.38%
+Missouri,Callaway,Central,19.38%
+Missouri,Camden,Central,19.38%
+Missouri,Carroll,Central,19.38%
+Missouri,Chariton,Central,19.38%
+Missouri,Clark,Central,19.38%
+Missouri,Cole,Central,19.38%
+Missouri,Cooper,Central,19.38%
+Missouri,Howard,Central,19.38%
+Missouri,Knox,Central,19.38%
+Missouri,Laclede,Central,19.38%
+Missouri,Lewis,Central,19.38%
+Missouri,Macon,Central,19.38%
+Missouri,Marion,Central,19.38%
+Missouri,Miller,Central,19.38%
+Missouri,Moniteau,Central,19.38%
+Missouri,Monroe,Central,19.38%
+Missouri,Montgomery,Central,19.38%
+Missouri,Morgan,Central,19.38%
+Missouri,Osage,Central,19.38%
+Missouri,Pettis,Central,19.38%
+Missouri,Pike,Central,19.38%
+Missouri,Pulaski,Central,19.38%
+Missouri,Ralls,Central,19.38%
+Missouri,Randolph,Central,19.38%
+Missouri,Saline,Central,19.38%
+Missouri,Schuyler,Central,19.38%
+Missouri,Scotland,Central,19.38%
+Missouri,Shelby,Central,19.38%
+Missouri,ST LOUIS,Eastern (St. Louis City and County),18.61%
+Missouri,ST LOUIS CITY,Eastern (St. Louis City and County),18.61%
+Missouri,Franklin,Eastern (excluding St. Louis),20.24%
+Missouri,Jefferson,Eastern (excluding St. Louis),20.24%
+Missouri,Lincoln,Eastern (excluding St. Louis),20.24%
+Missouri,ST CHARLES,Eastern (excluding St. Louis),20.24%
+Missouri,Warren,Eastern (excluding St. Louis),20.24%
+Missouri,Jackson,Northwest (Jackson),21.60%
+Missouri,Andrew,Northwest (excluding Jackson),21.19%
+Missouri,Atchison,Northwest (excluding Jackson),21.19%
+Missouri,Buchanan,Northwest (excluding Jackson),21.19%
+Missouri,Caldwell,Northwest (excluding Jackson),21.19%
+Missouri,Cass,Northwest (excluding Jackson),21.19%
+Missouri,Clay,Northwest (excluding Jackson),21.19%
+Missouri,Clinton,Northwest (excluding Jackson),21.19%
+Missouri,Daviess,Northwest (excluding Jackson),21.19%
+Missouri,DeKalb,Northwest (excluding Jackson),21.19%
+Missouri,Gentry,Northwest (excluding Jackson),21.19%
+Missouri,Grundy,Northwest (excluding Jackson),21.19%
+Missouri,Harrison,Northwest (excluding Jackson),21.19%
+Missouri,Holt,Northwest (excluding Jackson),21.19%
+Missouri,Johnson,Northwest (excluding Jackson),21.19%
+Missouri,Lafayette,Northwest (excluding Jackson),21.19%
+Missouri,Linn,Northwest (excluding Jackson),21.19%
+Missouri,Livingston,Northwest (excluding Jackson),21.19%
+Missouri,Mercer,Northwest (excluding Jackson),21.19%
+Missouri,Nodaway,Northwest (excluding Jackson),21.19%
+Missouri,Platte,Northwest (excluding Jackson),21.19%
+Missouri,Putnam,Northwest (excluding Jackson),21.19%
+Missouri,Ray,Northwest (excluding Jackson),21.19%
+Missouri,Sullivan,Northwest (excluding Jackson),21.19%
+Missouri,Worth,Northwest (excluding Jackson),21.19%
+Missouri,Bollinger,Southeast,21.53%
+Missouri,Butler,Southeast,21.53%
+Missouri,Cape Girardeau,Southeast,21.53%
+Missouri,Carter,Southeast,21.53%
+Missouri,Crawford,Southeast,21.53%
+Missouri,Dent,Southeast,21.53%
+Missouri,Douglas,Southeast,21.53%
+Missouri,Dunklin,Southeast,21.53%
+Missouri,Gasconade,Southeast,21.53%
+Missouri,Howell,Southeast,21.53%
+Missouri,Iron,Southeast,21.53%
+Missouri,Madison,Southeast,21.53%
+Missouri,Maries,Southeast,21.53%
+Missouri,Mississippi,Southeast,21.53%
+Missouri,New Madrid,Southeast,21.53%
+Missouri,Oregon,Southeast,21.53%
+Missouri,Ozark,Southeast,21.53%
+Missouri,Pemiscot,Southeast,21.53%
+Missouri,Perry,Southeast,21.53%
+Missouri,Phelps,Southeast,21.53%
+Missouri,Reynolds,Southeast,21.53%
+Missouri,Ripley,Southeast,21.53%
+Missouri,Scott,Southeast,21.53%
+Missouri,Shannon,Southeast,21.53%
+Missouri,ST FRANCOIS,Southeast,21.53%
+Missouri,Ste Genevieve,Southeast,21.53%
+Missouri,Stoddard,Southeast,21.53%
+Missouri,Texas,Southeast,21.53%
+Missouri,Washington,Southeast,21.53%
+Missouri,Wayne,Southeast,21.53%
+Missouri,Wright,Southeast,21.53%
+Missouri,Barry,Southwest,22.35%
+Missouri,Barton,Southwest,22.35%
+Missouri,Bates,Southwest,22.35%
+Missouri,Benton,Southwest,22.35%
+Missouri,Cedar,Southwest,22.35%
+Missouri,Christian,Southwest,22.35%
+Missouri,Dade,Southwest,22.35%
+Missouri,Dallas,Southwest,22.35%
+Missouri,Greene,Southwest,22.35%
+Missouri,Henry,Southwest,22.35%
+Missouri,Hickory,Southwest,22.35%
+Missouri,Jasper,Southwest,22.35%
+Missouri,Lawrence,Southwest,22.35%
+Missouri,McDonald,Southwest,22.35%
+Missouri,Newton,Southwest,22.35%
+Missouri,Polk,Southwest,22.35%
+Missouri,ST CLAIR,Southwest,22.35%
+Missouri,Stone,Southwest,22.35%
+Missouri,Taney,Southwest,22.35%
+Missouri,Vernon,Southwest,22.35%
+Missouri,Webster,Southwest,22.35%
+Montana,Carter,Region 1,19.11%
+Montana,Custer,Region 1,19.11%
+Montana,Daniels,Region 1,19.11%
+Montana,Dawson,Region 1,19.11%
+Montana,Fallon,Region 1,19.11%
+Montana,Garfield,Region 1,19.11%
+Montana,McCone,Region 1,19.11%
+Montana,Phillips,Region 1,19.11%
+Montana,Powder River,Region 1,19.11%
+Montana,Prairie,Region 1,19.11%
+Montana,Richland,Region 1,19.11%
+Montana,Roosevelt,Region 1,19.11%
+Montana,Rosebud,Region 1,19.11%
+Montana,Sheridan,Region 1,19.11%
+Montana,Treasure,Region 1,19.11%
+Montana,Valley,Region 1,19.11%
+Montana,Wibaux,Region 1,19.11%
+Montana,Blaine,Region 2,19.18%
+Montana,Cascade,Region 2,19.18%
+Montana,Chouteau,Region 2,19.18%
+Montana,Glacier,Region 2,19.18%
+Montana,Hill,Region 2,19.18%
+Montana,Liberty,Region 2,19.18%
+Montana,Pondera,Region 2,19.18%
+Montana,Teton,Region 2,19.18%
+Montana,Toole,Region 2,19.18%
+Montana,Big Horn,Region 3,20.12%
+Montana,Carbon,Region 3,20.12%
+Montana,Fergus,Region 3,20.12%
+Montana,Golden Valley,Region 3,20.12%
+Montana,Judith Basin,Region 3,20.12%
+Montana,Musselshell,Region 3,20.12%
+Montana,Petroleum,Region 3,20.12%
+Montana,Stillwater,Region 3,20.12%
+Montana,Sweet Grass,Region 3,20.12%
+Montana,Wheatland,Region 3,20.12%
+Montana,Yellowstone,Region 3,20.12%
+Montana,Beaverhead,Region 4,19.90%
+Montana,Broadwater,Region 4,19.90%
+Montana,Deer Lodge,Region 4,19.90%
+Montana,Gallatin,Region 4,19.90%
+Montana,Granite,Region 4,19.90%
+Montana,Jefferson,Region 4,19.90%
+Montana,Lewis and Clark,Region 4,19.90%
+Montana,Madison,Region 4,19.90%
+Montana,Meagher,Region 4,19.90%
+Montana,Park,Region 4,19.90%
+Montana,Powell,Region 4,19.90%
+Montana,Silver Bow,Region 4,19.90%
+Montana,Flathead,Region 5,20.05%
+Montana,Lake,Region 5,20.05%
+Montana,Lincoln,Region 5,20.05%
+Montana,Mineral,Region 5,20.05%
+Montana,Missoula,Region 5,20.05%
+Montana,Ravalli,Region 5,20.05%
+Montana,Sanders,Region 5,20.05%
+Nebraska,Banner,Region 1,17.76%
+Nebraska,Box Butte,Region 1,17.76%
+Nebraska,Cheyenne,Region 1,17.76%
+Nebraska,Dawes,Region 1,17.76%
+Nebraska,Deuel,Region 1,17.76%
+Nebraska,Garden,Region 1,17.76%
+Nebraska,Kimball,Region 1,17.76%
+Nebraska,Morrill,Region 1,17.76%
+Nebraska,Scotts Bluff,Region 1,17.76%
+Nebraska,Sheridan,Region 1,17.76%
+Nebraska,Sioux,Region 1,17.76%
+Nebraska,Arthur,Region 2,17.16%
+Nebraska,Chase,Region 2,17.16%
+Nebraska,Dawson,Region 2,17.16%
+Nebraska,Dundy,Region 2,17.16%
+Nebraska,Frontier,Region 2,17.16%
+Nebraska,Gosper,Region 2,17.16%
+Nebraska,Grant,Region 2,17.16%
+Nebraska,Hayes,Region 2,17.16%
+Nebraska,Hitchcock,Region 2,17.16%
+Nebraska,Hooker,Region 2,17.16%
+Nebraska,Keith,Region 2,17.16%
+Nebraska,Lincoln,Region 2,17.16%
+Nebraska,Logan,Region 2,17.16%
+Nebraska,McPherson,Region 2,17.16%
+Nebraska,Perkins,Region 2,17.16%
+Nebraska,Red Willow,Region 2,17.16%
+Nebraska,Thomas,Region 2,17.16%
+Nebraska,Adams,Region 3,16.85%
+Nebraska,Blaine,Region 3,16.85%
+Nebraska,Buffalo,Region 3,16.85%
+Nebraska,Clay,Region 3,16.85%
+Nebraska,Custer,Region 3,16.85%
+Nebraska,Franklin,Region 3,16.85%
+Nebraska,Furnas,Region 3,16.85%
+Nebraska,Garfield,Region 3,16.85%
+Nebraska,Greeley,Region 3,16.85%
+Nebraska,Hall,Region 3,16.85%
+Nebraska,Hamilton,Region 3,16.85%
+Nebraska,Harlan,Region 3,16.85%
+Nebraska,Howard,Region 3,16.85%
+Nebraska,Kearney,Region 3,16.85%
+Nebraska,Loup,Region 3,16.85%
+Nebraska,Merrick,Region 3,16.85%
+Nebraska,Nuckolls,Region 3,16.85%
+Nebraska,Phelps,Region 3,16.85%
+Nebraska,Sherman,Region 3,16.85%
+Nebraska,Valley,Region 3,16.85%
+Nebraska,Webster,Region 3,16.85%
+Nebraska,Wheeler,Region 3,16.85%
+Nebraska,Antelope,Region 4,15.76%
+Nebraska,Boone,Region 4,15.76%
+Nebraska,Boyd,Region 4,15.76%
+Nebraska,Brown,Region 4,15.76%
+Nebraska,Burt,Region 4,15.76%
+Nebraska,Cedar,Region 4,15.76%
+Nebraska,Cherry,Region 4,15.76%
+Nebraska,Colfax,Region 4,15.76%
+Nebraska,Cuming,Region 4,15.76%
+Nebraska,Dakota,Region 4,15.76%
+Nebraska,Dixon,Region 4,15.76%
+Nebraska,Holt,Region 4,15.76%
+Nebraska,Keya Paha,Region 4,15.76%
+Nebraska,Knox,Region 4,15.76%
+Nebraska,Madison,Region 4,15.76%
+Nebraska,Nance,Region 4,15.76%
+Nebraska,Pierce,Region 4,15.76%
+Nebraska,Platte,Region 4,15.76%
+Nebraska,Rock,Region 4,15.76%
+Nebraska,Stanton,Region 4,15.76%
+Nebraska,Thurston,Region 4,15.76%
+Nebraska,Wayne,Region 4,15.76%
+Nebraska,Butler,Region 5,19.56%
+Nebraska,Fillmore,Region 5,19.56%
+Nebraska,Gage,Region 5,19.56%
+Nebraska,Jefferson,Region 5,19.56%
+Nebraska,Johnson,Region 5,19.56%
+Nebraska,Lancaster,Region 5,19.56%
+Nebraska,Nemaha,Region 5,19.56%
+Nebraska,Otoe,Region 5,19.56%
+Nebraska,Pawnee,Region 5,19.56%
+Nebraska,Polk,Region 5,19.56%
+Nebraska,Richardson,Region 5,19.56%
+Nebraska,Saline,Region 5,19.56%
+Nebraska,Saunders,Region 5,19.56%
+Nebraska,Seward,Region 5,19.56%
+Nebraska,Thayer,Region 5,19.56%
+Nebraska,York,Region 5,19.56%
+Nebraska,Cass,Region 6,18.54%
+Nebraska,Dodge,Region 6,18.54%
+Nebraska,Douglas,Region 6,18.54%
+Nebraska,Sarpy,Region 6,18.54%
+Nebraska,Washington,Region 6,18.54%
+Nevada,CLARK,Clark – Region 1,20.11%
+Nevada,WASHOE,Washoe – Region 2,19.98%
+New Hampshire,CHESHIRE,Southern 2,19.67%
+New Hampshire,GRAFTON,Northern,19.43%
+New Hampshire,HILLSBOROUGH,Southern 2,19.67%
+New Hampshire,MERRIMACK,Central 2,20.23%
+New Hampshire,ROCKINGHAM,Southern 1 (Rockingham),18.69%
+New Hampshire,STRAFFORD,Central 1,22.39%
+New Jersey,Hunterdon,Central,16.82%
+New Jersey,Mercer,Central,16.82%
+New Jersey,Monmouth,Central,16.82%
+New Jersey,Ocean,Central,16.82%
+New Jersey,Somerset,Central,16.82%
+New Jersey,Essex,Metropolitan,14.52%
+New Jersey,Middlesex,Metropolitan,14.52%
+New Jersey,Union,Metropolitan,14.52%
+New Jersey,Bergen,Northern,14.70%
+New Jersey,Hudson,Northern,14.70%
+New Jersey,Morris,Northern,14.70%
+New Jersey,Passaic,Northern,14.70%
+New Jersey,Sussex,Northern,14.70%
+New Jersey,Warren,Northern,14.70%
+New Jersey,Atlantic,Southern,17.58%
+New Jersey,Burlington,Southern,17.58%
+New Jersey,Camden,Southern,17.58%
+New Jersey,Cape May,Southern,17.58%
+New Jersey,Cumberland,Southern,17.58%
+New Jersey,Gloucester,Southern,17.58%
+New Jersey,Salem,Southern,17.58%
+New Mexico,Cibola,Region 1,18.19%
+New Mexico,McKinley,Region 1,18.19%
+New Mexico,Sandoval,Region 1,18.19%
+New Mexico,San Juan,Region 1,18.19%
+New Mexico,Valencia,Region 1,18.19%
+New Mexico,Colfax,Region 2,17.64%
+New Mexico,Guadalupe,Region 2,17.64%
+New Mexico,Los Alamos,Region 2,17.64%
+New Mexico,Mora,Region 2,17.64%
+New Mexico,Rio Arriba,Region 2,17.64%
+New Mexico,San Miguel,Region 2,17.64%
+New Mexico,Santa Fe,Region 2,17.64%
+New Mexico,Taos,Region 2,17.64%
+New Mexico,Union,Region 2,17.64%
+New Mexico,Bernalillo,Region 3 (Bernalillo),20.73%
+New Mexico,Chaves,Region 4,17.13%
+New Mexico,Curry,Region 4,17.13%
+New Mexico,De Baca,Region 4,17.13%
+New Mexico,Eddy,Region 4,17.13%
+New Mexico,Harding,Region 4,17.13%
+New Mexico,Lea,Region 4,17.13%
+New Mexico,Quay,Region 4,17.13%
+New Mexico,Roosevelt,Region 4,17.13%
+New Mexico,Catron,Region 5a,18.50%
+New Mexico,Grant,Region 5a,18.50%
+New Mexico,Hidalgo,Region 5a,18.50%
+New Mexico,Lincoln,Region 5a,18.50%
+New Mexico,Luna,Region 5a,18.50%
+New Mexico,Otero,Region 5a,18.50%
+New Mexico,Sierra,Region 5a,18.50%
+New Mexico,Socorro,Region 5a,18.50%
+New Mexico,Torrance,Region 5a,18.50%
+New Mexico,Dona Ana,Region 5b (Dona Ana),19.34%
+New York,ALBANY,Region 4: Capital Region,19.28%
+New York,BRONX,Region 2A: Bronx,16.86%
+New York,BROOME,Region 9: Southern Tier,21.72%
+New York,CATTARAUGUS,Region 11: Western,17.69%
+New York,CAYUGA,Region 8: Central,19.59%
+New York,CHAUTAUQUA,Region 11: Western,17.69%
+New York,CHEMUNG,Region 10: Finger Lakes,20.52%
+New York,CLINTON,Region 6: North Country,18.77%
+New York,DUTCHESS,Region 3: Mid-Hudson,16.28%
+New York,ERIE,Region 11: Western,17.69%
+New York,JEFFERSON,Region 7: Tug Hill Seaway,20.19%
+New York,KINGS,Region 2B: Kings,18.69%
+New York,LIVINGSTON,Region 10: Finger Lakes,20.52%
+New York,MADISON,Region 8: Central,19.59%
+New York,MONROE,Region 10: Finger Lakes,20.52%
+New York,NASSAU,Region 1: Long Island,16.46%
+New York,NEW YORK,Region 2C: New York,19.50%
+New York,NIAGARA,Region 11: Western,17.69%
+New York,ONEIDA,Region 8: Central,19.59%
+New York,ONONDAGA,Region 8: Central,19.59%
+New York,ONTARIO,Region 10: Finger Lakes,20.52%
+New York,ORANGE,Region 3: Mid-Hudson,16.28%
+New York,OSWEGO,Region 8: Central,19.59%
+New York,PUTNAM,Region 3: Mid-Hudson,16.28%
+New York,QUEENS,Region 2D: Queens,17.38%
+New York,RENSSELAER,Region 4: Capital Region,19.28%
+New York,RICHMOND,Region 2E: Richmond,18.21%
+New York,ROCKLAND,Region 3: Mid-Hudson,16.28%
+New York,ST LAWRENCE,Region 7: Tug Hill Seaway,20.19%
+New York,SARATOGA,Region 4: Capital Region,19.28%
+New York,SCHENECTADY,Region 4: Capital Region,19.28%
+New York,STEUBEN,Region 10: Finger Lakes,20.52%
+New York,SUFFOLK,Region 1: Long Island,16.46%
+New York,SULLIVAN,Region 3: Mid-Hudson,16.28%
+New York,TOMPKINS,Region 9: Southern Tier,21.72%
+New York,ULSTER,Region 3: Mid-Hudson,16.28%
+New York,WARREN,Region 6: North Country,18.77%
+New York,WAYNE,Region 10: Finger Lakes,20.52%
+New York,WESTCHESTER,Region 3: Mid-Hudson,16.28%
+North Carolina,Cumberland,Alliance Behavioral Healthcare 1,19.98%
+North Carolina,Durham,Alliance Behavioral Healthcare 1,19.98%
+North Carolina,Johnston,Alliance Behavioral Healthcare 1,19.98%
+North Carolina,Wake,Alliance Behavioral Healthcare 2,18.74%
+North Carolina,Cabarrus,Cardinal Innovations Healthcare Solutions 1,17.52%
+North Carolina,Davidson,Cardinal Innovations Healthcare Solutions 1,17.52%
+North Carolina,Rowan,Cardinal Innovations Healthcare Solutions 1,17.52%
+North Carolina,Stanly,Cardinal Innovations Healthcare Solutions 1,17.52%
+North Carolina,Union,Cardinal Innovations Healthcare Solutions 1,17.52%
+North Carolina,Alamance,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Caswell,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Chatham,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Franklin,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Granville,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Halifax,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Orange,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Person,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Vance,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Warren,Cardinal Innovations Healthcare Solutions 2,18.47%
+North Carolina,Mecklenburg,Cardinal Innovations Healthcare Solutions 3,18.86%
+North Carolina,Davie,CenterPoint Human Services,18.37%
+North Carolina,Forsyth,CenterPoint Human Services,18.37%
+North Carolina,Rockingham,CenterPoint Human Services,18.37%
+North Carolina,Stokes,CenterPoint Human Services,18.37%
+North Carolina,Bladen,Eastpointe,17.29%
+North Carolina,Columbus,Eastpointe,17.29%
+North Carolina,Duplin,Eastpointe,17.29%
+North Carolina,Edgecombe,Eastpointe,17.29%
+North Carolina,Greene,Eastpointe,17.29%
+North Carolina,Lenoir,Eastpointe,17.29%
+North Carolina,Nash,Eastpointe,17.29%
+North Carolina,Robeson,Eastpointe,17.29%
+North Carolina,Sampson,Eastpointe,17.29%
+North Carolina,Scotland,Eastpointe,17.29%
+North Carolina,Wayne,Eastpointe,17.29%
+North Carolina,Wilson,Eastpointe,17.29%
+North Carolina,Burke,Partners Behavioral Health Management,18.95%
+North Carolina,Catawba,Partners Behavioral Health Management,18.95%
+North Carolina,Cleveland,Partners Behavioral Health Management,18.95%
+North Carolina,Gaston,Partners Behavioral Health Management,18.95%
+North Carolina,Iredell,Partners Behavioral Health Management,18.95%
+North Carolina,Lincoln,Partners Behavioral Health Management,18.95%
+North Carolina,Surry,Partners Behavioral Health Management,18.95%
+North Carolina,Yadkin,Partners Behavioral Health Management,18.95%
+North Carolina,Anson,Sandhills Center 1,17.76%
+North Carolina,Harnett,Sandhills Center 1,17.76%
+North Carolina,Hoke,Sandhills Center 1,17.76%
+North Carolina,Lee,Sandhills Center 1,17.76%
+North Carolina,Montgomery,Sandhills Center 1,17.76%
+North Carolina,Moore,Sandhills Center 1,17.76%
+North Carolina,Randolph,Sandhills Center 1,17.76%
+North Carolina,Richmond,Sandhills Center 1,17.76%
+North Carolina,Guilford,Sandhills Center 2,18.02%
+North Carolina,Alexander,Smoky Mountain Center 1,19.08%
+North Carolina,Alleghany,Smoky Mountain Center 1,19.08%
+North Carolina,Ashe,Smoky Mountain Center 1,19.08%
+North Carolina,Avery,Smoky Mountain Center 1,19.08%
+North Carolina,Caldwell,Smoky Mountain Center 1,19.08%
+North Carolina,Cherokee,Smoky Mountain Center 1,19.08%
+North Carolina,Clay,Smoky Mountain Center 1,19.08%
+North Carolina,Graham,Smoky Mountain Center 1,19.08%
+North Carolina,Haywood,Smoky Mountain Center 1,19.08%
+North Carolina,Jackson,Smoky Mountain Center 1,19.08%
+North Carolina,Macon,Smoky Mountain Center 1,19.08%
+North Carolina,McDowell,Smoky Mountain Center 1,19.08%
+North Carolina,Swain,Smoky Mountain Center 1,19.08%
+North Carolina,Watauga,Smoky Mountain Center 1,19.08%
+North Carolina,Wilkes,Smoky Mountain Center 1,19.08%
+North Carolina,Buncombe,Smoky Mountain Center 2,18.09%
+North Carolina,Henderson,Smoky Mountain Center 2,18.09%
+North Carolina,Madison,Smoky Mountain Center 2,18.09%
+North Carolina,Mitchell,Smoky Mountain Center 2,18.09%
+North Carolina,Polk,Smoky Mountain Center 2,18.09%
+North Carolina,Rutherford,Smoky Mountain Center 2,18.09%
+North Carolina,Transylvania,Smoky Mountain Center 2,18.09%
+North Carolina,Yancey,Smoky Mountain Center 2,18.09%
+North Carolina,Beaufort,Trillium Healthcare Resources 1,18.09%
+North Carolina,Bertie,Trillium Healthcare Resources 1,18.09%
+North Carolina,Camden,Trillium Healthcare Resources 1,18.09%
+North Carolina,Chowan,Trillium Healthcare Resources 1,18.09%
+North Carolina,Craven,Trillium Healthcare Resources 1,18.09%
+North Carolina,Currituck,Trillium Healthcare Resources 1,18.09%
+North Carolina,Dare,Trillium Healthcare Resources 1,18.09%
+North Carolina,Gates,Trillium Healthcare Resources 1,18.09%
+North Carolina,Hertford,Trillium Healthcare Resources 1,18.09%
+North Carolina,Hyde,Trillium Healthcare Resources 1,18.09%
+North Carolina,Jones,Trillium Healthcare Resources 1,18.09%
+North Carolina,Martin,Trillium Healthcare Resources 1,18.09%
+North Carolina,Northampton,Trillium Healthcare Resources 1,18.09%
+North Carolina,Pamlico,Trillium Healthcare Resources 1,18.09%
+North Carolina,Pasquotank,Trillium Healthcare Resources 1,18.09%
+North Carolina,Perquimans,Trillium Healthcare Resources 1,18.09%
+North Carolina,Pitt,Trillium Healthcare Resources 1,18.09%
+North Carolina,Tyrrell,Trillium Healthcare Resources 1,18.09%
+North Carolina,Washington,Trillium Healthcare Resources 1,18.09%
+North Carolina,Brunswick,Trillium Healthcare Resources 2,21.12%
+North Carolina,Carteret,Trillium Healthcare Resources 2,21.12%
+North Carolina,New Hanover,Trillium Healthcare Resources 2,21.12%
+North Carolina,Onslow,Trillium Healthcare Resources 2,21.12%
+North Carolina,Pender,Trillium Healthcare Resources 2,21.12%
+North Dakota,Adams,Badlands,17.47%
+North Dakota,Billings,Badlands,17.47%
+North Dakota,Bowman,Badlands,17.47%
+North Dakota,Dunn,Badlands,17.47%
+North Dakota,Golden Valley,Badlands,17.47%
+North Dakota,Hettinger,Badlands,17.47%
+North Dakota,Slope,Badlands,17.47%
+North Dakota,Stark,Badlands,17.47%
+North Dakota,Burleigh,West Central,16.14%
+North Dakota,Emmons,West Central,16.14%
+North Dakota,Grant,West Central,16.14%
+North Dakota,Kidder,West Central,16.14%
+North Dakota,McLean,West Central,16.14%
+North Dakota,Mercer,West Central,16.14%
+North Dakota,Morton,West Central,16.14%
+North Dakota,Oliver,West Central,16.14%
+North Dakota,Sheridan,West Central,16.14%
+North Dakota,Sioux,West Central,16.14%
+North Dakota,Benson,Lake Region,18.09%
+North Dakota,Cavalier,Lake Region,18.09%
+North Dakota,Eddy,Lake Region,18.09%
+North Dakota,Ramsey,Lake Region,18.09%
+North Dakota,Rolette,Lake Region,18.09%
+North Dakota,Towner,Lake Region,18.09%
+North Dakota,Bottineau,North Central,18.50%
+North Dakota,Burke,North Central,18.50%
+North Dakota,McHenry,North Central,18.50%
+North Dakota,Mountrail,North Central,18.50%
+North Dakota,Pierce,North Central,18.50%
+North Dakota,Renville,North Central,18.50%
+North Dakota,Ward,North Central,18.50%
+North Dakota,Grand Forks,Northeast,19.37%
+North Dakota,Nelson,Northeast,19.37%
+North Dakota,Pembina,Northeast,19.37%
+North Dakota,Walsh,Northeast,19.37%
+North Dakota,Divide,Northwest,18.88%
+North Dakota,McKenzie,Northwest,18.88%
+North Dakota,Williams,Northwest,18.88%
+North Dakota,Barnes,South Central,16.75%
+North Dakota,Dickey,South Central,16.75%
+North Dakota,Foster,South Central,16.75%
+North Dakota,Griggs,South Central,16.75%
+North Dakota,LaMoure,South Central,16.75%
+North Dakota,Logan,South Central,16.75%
+North Dakota,McIntosh,South Central,16.75%
+North Dakota,Stutsman,South Central,16.75%
+North Dakota,Wells,South Central,16.75%
+North Dakota,Cass,Southeast,20.02%
+North Dakota,Ransom,Southeast,20.02%
+North Dakota,Richland,Southeast,20.02%
+North Dakota,Sargent,Southeast,20.02%
+North Dakota,Steele,Southeast,20.02%
+North Dakota,Traill,Southeast,20.02%
+Ohio,Allen,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Auglaize,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Hardin,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Champaign,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Logan,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Darke,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Miami,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Shelby,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Preble,"Boards 2, 46, 55, and 68",20.86%
+Ohio,Ashland,"Boards 3, 52, and 85",19.40%
+Ohio,Medina,"Boards 3, 52, and 85",19.40%
+Ohio,Holmes,"Boards 3, 52, and 85",19.40%
+Ohio,Wayne,"Boards 3, 52, and 85",19.40%
+Ohio,Ashtabula,Boards 4 and 78,20.33%
+Ohio,Trumbull,Boards 4 and 78,20.33%
+Ohio,Athens,Boards 5 and 60,23.15%
+Ohio,Hocking,Boards 5 and 60,23.15%
+Ohio,Vinton,Boards 5 and 60,23.15%
+Ohio,Coshocton,Boards 5 and 60,23.15%
+Ohio,Guernsey,Boards 5 and 60,23.15%
+Ohio,Morgan,Boards 5 and 60,23.15%
+Ohio,Muskingum,Boards 5 and 60,23.15%
+Ohio,Noble,Boards 5 and 60,23.15%
+Ohio,Perry,Boards 5 and 60,23.15%
+Ohio,Belmont,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Harrison,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Monroe,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Columbiana,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Jefferson,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Carroll,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Tuscarawas,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Washington,"Boards 7, 15, 41, 79, and 84",20.00%
+Ohio,Brown,"Boards 8, 13, and 83",20.85%
+Ohio,Clermont,"Boards 8, 13, and 83",20.85%
+Ohio,Clinton,"Boards 8, 13, and 83",20.85%
+Ohio,Warren,"Boards 8, 13, and 83",20.85%
+Ohio,Butler,Board 9 (Butler),21.08%
+Ohio,Clark,Board 12,22.37%
+Ohio,Greene,Board 12,22.37%
+Ohio,Madison,Board 12,22.37%
+Ohio,Cuyahoga,Boards 18 and 47,19.29%
+Ohio,Lorain,Boards 18 and 47,19.29%
+Ohio,Defiance,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Fulton,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Henry,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Williams,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Hancock,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Mercer,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Paulding,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Van Wert,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Putnam,"Boards 20, 32, 54, and 69",20.07%
+Ohio,Delaware,"Boards 21, 39, 51, 70, and 80",20.65%
+Ohio,Morrow,"Boards 21, 39, 51, 70, and 80",20.65%
+Ohio,Huron,"Boards 21, 39, 51, 70, and 80",20.65%
+Ohio,Crawford,"Boards 21, 39, 51, 70, and 80",20.65%
+Ohio,Marion,"Boards 21, 39, 51, 70, and 80",20.65%
+Ohio,Richland,"Boards 21, 39, 51, 70, and 80",20.65%
+Ohio,Union,"Boards 21, 39, 51, 70, and 80",20.65%
+Ohio,Erie,"Boards 22, 74, and 87",19.92%
+Ohio,Ottawa,"Boards 22, 74, and 87",19.92%
+Ohio,Sandusky,"Boards 22, 74, and 87",19.92%
+Ohio,Seneca,"Boards 22, 74, and 87",19.92%
+Ohio,Wyandot,"Boards 22, 74, and 87",19.92%
+Ohio,Wood,"Boards 22, 74, and 87",19.92%
+Ohio,Fairfield,Boards 23 and 45,21.98%
+Ohio,Knox,Boards 23 and 45,21.98%
+Ohio,Licking,Boards 23 and 45,21.98%
+Ohio,Franklin,Board 25 (Franklin),22.28%
+Ohio,Gallia,"Boards 27, 71, and 73",21.33%
+Ohio,Jackson,"Boards 27, 71, and 73",21.33%
+Ohio,Meigs,"Boards 27, 71, and 73",21.33%
+Ohio,Fayette,"Boards 27, 71, and 73",21.33%
+Ohio,Highland,"Boards 27, 71, and 73",21.33%
+Ohio,Pickaway,"Boards 27, 71, and 73",21.33%
+Ohio,Pike,"Boards 27, 71, and 73",21.33%
+Ohio,Ross,"Boards 27, 71, and 73",21.33%
+Ohio,Adams,"Boards 27, 71, and 73",21.33%
+Ohio,Lawrence,"Boards 27, 71, and 73",21.33%
+Ohio,Scioto,"Boards 27, 71, and 73",21.33%
+Ohio,Geauga,"Boards 28, 43, and 67",20.44%
+Ohio,Lake,"Boards 28, 43, and 67",20.44%
+Ohio,Portage,"Boards 28, 43, and 67",20.44%
+Ohio,Hamilton,Board 31 (Hamilton),19.80%
+Ohio,Lucas,Board 48 (Lucas),22.45%
+Ohio,Mahoning,Boards 50 and 76,20.97%
+Ohio,Stark,Boards 50 and 76,20.97%
+Ohio,Montgomery,Board 57 (Montgomery),22.33%
+Ohio,Summit,Board 77 (Summit),21.48%
+Oklahoma,Canadian,Central,20.21%
+Oklahoma,Cleveland,Central,20.21%
+Oklahoma,Grady,Central,20.21%
+Oklahoma,McClain,Central,20.21%
+Oklahoma,Adair,East Central,19.93%
+Oklahoma,Cherokee,East Central,19.93%
+Oklahoma,Creek,East Central,19.93%
+Oklahoma,Lincoln,East Central,19.93%
+Oklahoma,McIntosh,East Central,19.93%
+Oklahoma,Muskogee,East Central,19.93%
+Oklahoma,Okfuskee,East Central,19.93%
+Oklahoma,Okmulgee,East Central,19.93%
+Oklahoma,Sequoyah,East Central,19.93%
+Oklahoma,Wagoner,East Central,19.93%
+Oklahoma,Craig,Northeast,20.40%
+Oklahoma,Delaware,Northeast,20.40%
+Oklahoma,Kay,Northeast,20.40%
+Oklahoma,Mayes,Northeast,20.40%
+Oklahoma,Noble,Northeast,20.40%
+Oklahoma,Nowata,Northeast,20.40%
+Oklahoma,Osage,Northeast,20.40%
+Oklahoma,Ottawa,Northeast,20.40%
+Oklahoma,Pawnee,Northeast,20.40%
+Oklahoma,Payne,Northeast,20.40%
+Oklahoma,Rogers,Northeast,20.40%
+Oklahoma,Washington,Northeast,20.40%
+Oklahoma,Alfalfa,Northwest and Southwest,17.89%
+Oklahoma,Beaver,Northwest and Southwest,17.89%
+Oklahoma,Cimarron,Northwest and Southwest,17.89%
+Oklahoma,Ellis,Northwest and Southwest,17.89%
+Oklahoma,Garfield,Northwest and Southwest,17.89%
+Oklahoma,Grant,Northwest and Southwest,17.89%
+Oklahoma,Harper,Northwest and Southwest,17.89%
+Oklahoma,Kingfisher,Northwest and Southwest,17.89%
+Oklahoma,Logan,Northwest and Southwest,17.89%
+Oklahoma,Major,Northwest and Southwest,17.89%
+Oklahoma,Texas,Northwest and Southwest,17.89%
+Oklahoma,Woods,Northwest and Southwest,17.89%
+Oklahoma,Woodward,Northwest and Southwest,17.89%
+Oklahoma,Beckham,Northwest and Southwest,17.89%
+Oklahoma,Blaine,Northwest and Southwest,17.89%
+Oklahoma,Caddo,Northwest and Southwest,17.89%
+Oklahoma,Comanche,Northwest and Southwest,17.89%
+Oklahoma,Cotton,Northwest and Southwest,17.89%
+Oklahoma,Custer,Northwest and Southwest,17.89%
+Oklahoma,Dewey,Northwest and Southwest,17.89%
+Oklahoma,Greer,Northwest and Southwest,17.89%
+Oklahoma,Harmon,Northwest and Southwest,17.89%
+Oklahoma,Jackson,Northwest and Southwest,17.89%
+Oklahoma,Jefferson,Northwest and Southwest,17.89%
+Oklahoma,Kiowa,Northwest and Southwest,17.89%
+Oklahoma,Roger Mills,Northwest and Southwest,17.89%
+Oklahoma,Stephens,Northwest and Southwest,17.89%
+Oklahoma,Tillman,Northwest and Southwest,17.89%
+Oklahoma,Washita,Northwest and Southwest,17.89%
+Oklahoma,Oklahoma,Oklahoma County,21.98%
+Oklahoma,Atoka,Southeast,19.81%
+Oklahoma,Bryan,Southeast,19.81%
+Oklahoma,Carter,Southeast,19.81%
+Oklahoma,Choctaw,Southeast,19.81%
+Oklahoma,Coal,Southeast,19.81%
+Oklahoma,Garvin,Southeast,19.81%
+Oklahoma,Haskell,Southeast,19.81%
+Oklahoma,Hughes,Southeast,19.81%
+Oklahoma,Johnston,Southeast,19.81%
+Oklahoma,Latimer,Southeast,19.81%
+Oklahoma,Le Flore,Southeast,19.81%
+Oklahoma,Love,Southeast,19.81%
+Oklahoma,Marshall,Southeast,19.81%
+Oklahoma,McCurtain,Southeast,19.81%
+Oklahoma,Murray,Southeast,19.81%
+Oklahoma,Pittsburg,Southeast,19.81%
+Oklahoma,Pontotoc,Southeast,19.81%
+Oklahoma,Pottawatomie,Southeast,19.81%
+Oklahoma,Pushmataha,Southeast,19.81%
+Oklahoma,Seminole,Southeast,19.81%
+Oklahoma,Tulsa,Tulsa County,20.12%
+Oregon,Multnomah,Region 1 (Multnomah),27.35%
+Oregon,Clackamas,Region 2,20.82%
+Oregon,Washington,Region 2,20.82%
+Oregon,Benton,Region 3,24.51%
+Oregon,Clatsop,Region 3,24.51%
+Oregon,Columbia,Region 3,24.51%
+Oregon,Lane,Region 3,24.51%
+Oregon,Lincoln,Region 3,24.51%
+Oregon,Linn,Region 3,24.51%
+Oregon,Marion,Region 3,24.51%
+Oregon,Polk,Region 3,24.51%
+Oregon,Tillamook,Region 3,24.51%
+Oregon,Yamhill,Region 3,24.51%
+Oregon,Coos,Region 4,23.44%
+Oregon,Curry,Region 4,23.44%
+Oregon,Douglas,Region 4,23.44%
+Oregon,Jackson,Region 4,23.44%
+Oregon,Josephine,Region 4,23.44%
+Oregon,Klamath,Region 4,23.44%
+Oregon,Crook,Region 5 (Central),21.23%
+Oregon,Deschutes,Region 5 (Central),21.23%
+Oregon,Jefferson,Region 5 (Central),21.23%
+Oregon,Baker,Region 6 (Eastern),21.20%
+Oregon,Gilliam,Region 6 (Eastern),21.20%
+Oregon,Grant,Region 6 (Eastern),21.20%
+Oregon,Harney,Region 6 (Eastern),21.20%
+Oregon,Hood River,Region 6 (Eastern),21.20%
+Oregon,Lake,Region 6 (Eastern),21.20%
+Oregon,Malheur,Region 6 (Eastern),21.20%
+Oregon,Morrow,Region 6 (Eastern),21.20%
+Oregon,Sherman,Region 6 (Eastern),21.20%
+Oregon,Umatilla,Region 6 (Eastern),21.20%
+Oregon,Union,Region 6 (Eastern),21.20%
+Oregon,Wallowa,Region 6 (Eastern),21.20%
+Oregon,Wasco,Region 6 (Eastern),21.20%
+Oregon,Wheeler,Region 6 (Eastern),21.20%
+Pennsylvania,Allegheny,Region 1 (Allegheny),19.01%
+Pennsylvania,Beaver,"Regions 3, 8, 9, and 51",17.55%
+Pennsylvania,Butler,"Regions 3, 8, 9, and 51",17.55%
+Pennsylvania,Cambria,"Regions 3, 8, 9, and 51",17.55%
+Pennsylvania,Armstrong,"Regions 3, 8, 9, and 51",17.55%
+Pennsylvania,Clarion,"Regions 3, 8, 9, and 51",17.55%
+Pennsylvania,Indiana,"Regions 3, 8, 9, and 51",17.55%
+Pennsylvania,Berks,"Regions 4, 11, 37, and 49",19.15%
+Pennsylvania,Carbon,"Regions 4, 11, 37, and 49",19.15%
+Pennsylvania,Monroe,"Regions 4, 11, 37, and 49",19.15%
+Pennsylvania,Pike,"Regions 4, 11, 37, and 49",19.15%
+Pennsylvania,Schuylkill,"Regions 4, 11, 37, and 49",19.15%
+Pennsylvania,Wayne,"Regions 4, 11, 37, and 49",19.15%
+Pennsylvania,Blair,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Cumberland,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Perry,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Franklin,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Fulton,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Huntingdon,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Juniata,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Mifflin,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Bedford,"Regions 5, 18, 23, 24, and 46",19.41%
+Pennsylvania,Bradford,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Sullivan,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Centre,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Columbia,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Montour,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Snyder,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Union,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Clinton,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Lycoming,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Northumberland,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Tioga,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Potter,"Regions 6, 12, 16, 31, 35, 45, and 47",18.42%
+Pennsylvania,Bucks,"Regions 7, 13, 20, and 33",17.40%
+Pennsylvania,Chester,"Regions 7, 13, 20, and 33",17.40%
+Pennsylvania,Delaware,"Regions 7, 13, 20, and 33",17.40%
+Pennsylvania,Montgomery,"Regions 7, 13, 20, and 33",17.40%
+Pennsylvania,Cameron,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Elk,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,McKean,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Clearfield,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Jefferson,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Lawrence,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Mercer,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Forest,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Warren,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Venango,"Regions 10, 15, 27, 32, 43, and 44",18.03%
+Pennsylvania,Crawford,Regions 17 and 21,20.40%
+Pennsylvania,Erie,Regions 17 and 21,20.40%
+Pennsylvania,Dauphin,"Regions 19, 26, 28, and 42",18.83%
+Pennsylvania,Lancaster,"Regions 19, 26, 28, and 42",18.83%
+Pennsylvania,Lebanon,"Regions 19, 26, 28, and 42",18.83%
+Pennsylvania,Adams,"Regions 19, 26, 28, and 42",18.83%
+Pennsylvania,York,"Regions 19, 26, 28, and 42",18.83%
+Pennsylvania,Fayette,"Regions 22, 38, 40, 41, and 48",18.63%
+Pennsylvania,Somerset,"Regions 22, 38, 40, 41, and 48",18.63%
+Pennsylvania,Washington,"Regions 22, 38, 40, 41, and 48",18.63%
+Pennsylvania,Westmoreland,"Regions 22, 38, 40, 41, and 48",18.63%
+Pennsylvania,Greene,"Regions 22, 38, 40, 41, and 48",18.63%
+Pennsylvania,Lehigh,Regions 29 and 34,18.61%
+Pennsylvania,Northampton,Regions 29 and 34,18.61%
+Pennsylvania,Luzerne,Regions 30 and 50,18.52%
+Pennsylvania,Wyoming,Regions 30 and 50,18.52%
+Pennsylvania,Lackawanna,Regions 30 and 50,18.52%
+Pennsylvania,Susquehanna,Regions 30 and 50,18.52%
+Pennsylvania,Philadelphia,Region 36 (Philadelphia),17.50%
+Rhode Island,KENT,Region 4: Kent County,20.75%
+Rhode Island,NEWPORT,Region 6: Newport County,18.93%
+Rhode Island,PROVIDENCE,Region 1: Southern Providence County,19.19%
+Rhode Island,WASHINGTON,Region 7: South County,19.33%
+South Carolina,Abbeville,Region 1,17.26%
+South Carolina,Anderson,Region 1,17.26%
+South Carolina,Cherokee,Region 1,17.26%
+South Carolina,Edgefield,Region 1,17.26%
+South Carolina,Greenville,Region 1,17.26%
+South Carolina,Greenwood,Region 1,17.26%
+South Carolina,Laurens,Region 1,17.26%
+South Carolina,McCormick,Region 1,17.26%
+South Carolina,Newberry,Region 1,17.26%
+South Carolina,Oconee,Region 1,17.26%
+South Carolina,Pickens,Region 1,17.26%
+South Carolina,Saluda,Region 1,17.26%
+South Carolina,Spartanburg,Region 1,17.26%
+South Carolina,Union,Region 1,17.26%
+South Carolina,Chester,Region 2,18.71%
+South Carolina,Chesterfield,Region 2,18.71%
+South Carolina,Fairfield,Region 2,18.71%
+South Carolina,Kershaw,Region 2,18.71%
+South Carolina,Lancaster,Region 2,18.71%
+South Carolina,Lee,Region 2,18.71%
+South Carolina,Lexington,Region 2,18.71%
+South Carolina,Richland,Region 2,18.71%
+South Carolina,York,Region 2,18.71%
+South Carolina,Clarendon,Region 3,18.64%
+South Carolina,Darlington,Region 3,18.64%
+South Carolina,Dillon,Region 3,18.64%
+South Carolina,Florence,Region 3,18.64%
+South Carolina,Georgetown,Region 3,18.64%
+South Carolina,Horry,Region 3,18.64%
+South Carolina,Marion,Region 3,18.64%
+South Carolina,Marlboro,Region 3,18.64%
+South Carolina,Sumter,Region 3,18.64%
+South Carolina,Williamsburg,Region 3,18.64%
+South Carolina,Aiken,Region 4,19.49%
+South Carolina,Allendale,Region 4,19.49%
+South Carolina,Bamberg,Region 4,19.49%
+South Carolina,Barnwell,Region 4,19.49%
+South Carolina,Beaufort,Region 4,19.49%
+South Carolina,Berkeley,Region 4,19.49%
+South Carolina,Calhoun,Region 4,19.49%
+South Carolina,Charleston,Region 4,19.49%
+South Carolina,Colleton,Region 4,19.49%
+South Carolina,Dorchester,Region 4,19.49%
+South Carolina,Hampton,Region 4,19.49%
+South Carolina,Jasper,Region 4,19.49%
+South Carolina,Orangeburg,Region 4,19.49%
+South Dakota,Bennett,Region 1,18.20%
+South Dakota,Butte,Region 1,18.20%
+South Dakota,Custer,Region 1,18.20%
+South Dakota,Fall River,Region 1,18.20%
+South Dakota,Harding,Region 1,18.20%
+South Dakota,Jackson,Region 1,18.20%
+South Dakota,Lawrence,Region 1,18.20%
+South Dakota,Meade,Region 1,18.20%
+South Dakota,Oglala Lakota,Region 1,18.20%
+South Dakota,Pennington,Region 1,18.20%
+South Dakota,Perkins,Region 1,18.20%
+South Dakota,Buffalo,Region 2,16.05%
+South Dakota,Campbell,Region 2,16.05%
+South Dakota,Corson,Region 2,16.05%
+South Dakota,Dewey,Region 2,16.05%
+South Dakota,Gregory,Region 2,16.05%
+South Dakota,Haakon,Region 2,16.05%
+South Dakota,Hand,Region 2,16.05%
+South Dakota,Hughes,Region 2,16.05%
+South Dakota,Hyde,Region 2,16.05%
+South Dakota,Jones,Region 2,16.05%
+South Dakota,Lyman,Region 2,16.05%
+South Dakota,Mellette,Region 2,16.05%
+South Dakota,Potter,Region 2,16.05%
+South Dakota,Stanley,Region 2,16.05%
+South Dakota,Sully,Region 2,16.05%
+South Dakota,Todd,Region 2,16.05%
+South Dakota,Tripp,Region 2,16.05%
+South Dakota,Walworth,Region 2,16.05%
+South Dakota,Ziebach,Region 2,16.05%
+South Dakota,Beadle,Region 3,16.82%
+South Dakota,Brookings,Region 3,16.82%
+South Dakota,Brown,Region 3,16.82%
+South Dakota,Clark,Region 3,16.82%
+South Dakota,Codington,Region 3,16.82%
+South Dakota,Day,Region 3,16.82%
+South Dakota,Deuel,Region 3,16.82%
+South Dakota,Edmunds,Region 3,16.82%
+South Dakota,Faulk,Region 3,16.82%
+South Dakota,Grant,Region 3,16.82%
+South Dakota,Hamlin,Region 3,16.82%
+South Dakota,Kingsbury,Region 3,16.82%
+South Dakota,Lake,Region 3,16.82%
+South Dakota,Marshall,Region 3,16.82%
+South Dakota,McPherson,Region 3,16.82%
+South Dakota,Moody,Region 3,16.82%
+South Dakota,Roberts,Region 3,16.82%
+South Dakota,Spink,Region 3,16.82%
+South Dakota,Aurora,Region 4,16.72%
+South Dakota,Bon Homme,Region 4,16.72%
+South Dakota,Brule,Region 4,16.72%
+South Dakota,Charles Mix,Region 4,16.72%
+South Dakota,Clay,Region 4,16.72%
+South Dakota,Davison,Region 4,16.72%
+South Dakota,Douglas,Region 4,16.72%
+South Dakota,Hanson,Region 4,16.72%
+South Dakota,Hutchinson,Region 4,16.72%
+South Dakota,Jerauld,Region 4,16.72%
+South Dakota,Miner,Region 4,16.72%
+South Dakota,Sanborn,Region 4,16.72%
+South Dakota,Union,Region 4,16.72%
+South Dakota,Yankton,Region 4,16.72%
+South Dakota,Lincoln,Region 5,16.89%
+South Dakota,McCook,Region 5,16.89%
+South Dakota,Minnehaha,Region 5,16.89%
+South Dakota,Turner,Region 5,16.89%
+Tennessee,Carter,Region 1,18.79%
+Tennessee,Greene,Region 1,18.79%
+Tennessee,Hancock,Region 1,18.79%
+Tennessee,Hawkins,Region 1,18.79%
+Tennessee,Johnson,Region 1,18.79%
+Tennessee,Sullivan,Region 1,18.79%
+Tennessee,Unicoi,Region 1,18.79%
+Tennessee,Washington,Region 1,18.79%
+Tennessee,Anderson,Region 2,19.14%
+Tennessee,Blount,Region 2,19.14%
+Tennessee,Campbell,Region 2,19.14%
+Tennessee,Claiborne,Region 2,19.14%
+Tennessee,Cocke,Region 2,19.14%
+Tennessee,Grainger,Region 2,19.14%
+Tennessee,Hamblen,Region 2,19.14%
+Tennessee,Jefferson,Region 2,19.14%
+Tennessee,Knox,Region 2,19.14%
+Tennessee,Loudon,Region 2,19.14%
+Tennessee,Monroe,Region 2,19.14%
+Tennessee,Morgan,Region 2,19.14%
+Tennessee,Roane,Region 2,19.14%
+Tennessee,Scott,Region 2,19.14%
+Tennessee,Sevier,Region 2,19.14%
+Tennessee,Union,Region 2,19.14%
+Tennessee,Bledsoe,Region 3,19.15%
+Tennessee,Bradley,Region 3,19.15%
+Tennessee,Clay,Region 3,19.15%
+Tennessee,Cumberland,Region 3,19.15%
+Tennessee,DeKalb,Region 3,19.15%
+Tennessee,Fentress,Region 3,19.15%
+Tennessee,Grundy,Region 3,19.15%
+Tennessee,Hamilton,Region 3,19.15%
+Tennessee,Jackson,Region 3,19.15%
+Tennessee,Macon,Region 3,19.15%
+Tennessee,Marion,Region 3,19.15%
+Tennessee,McMinn,Region 3,19.15%
+Tennessee,Meigs,Region 3,19.15%
+Tennessee,Overton,Region 3,19.15%
+Tennessee,Pickett,Region 3,19.15%
+Tennessee,Polk,Region 3,19.15%
+Tennessee,Putnam,Region 3,19.15%
+Tennessee,Rhea,Region 3,19.15%
+Tennessee,Sequatchie,Region 3,19.15%
+Tennessee,Smith,Region 3,19.15%
+Tennessee,Van Buren,Region 3,19.15%
+Tennessee,Warren,Region 3,19.15%
+Tennessee,White,Region 3,19.15%
+Tennessee,Davidson,Region 4 (Davidson),18.18%
+Tennessee,Bedford,Region 5,18.93%
+Tennessee,Cannon,Region 5,18.93%
+Tennessee,Cheatham,Region 5,18.93%
+Tennessee,Coffee,Region 5,18.93%
+Tennessee,Dickson,Region 5,18.93%
+Tennessee,Franklin,Region 5,18.93%
+Tennessee,Giles,Region 5,18.93%
+Tennessee,Hickman,Region 5,18.93%
+Tennessee,Houston,Region 5,18.93%
+Tennessee,Humphreys,Region 5,18.93%
+Tennessee,Lawrence,Region 5,18.93%
+Tennessee,Lewis,Region 5,18.93%
+Tennessee,Lincoln,Region 5,18.93%
+Tennessee,Marshall,Region 5,18.93%
+Tennessee,Maury,Region 5,18.93%
+Tennessee,Montgomery,Region 5,18.93%
+Tennessee,Moore,Region 5,18.93%
+Tennessee,Perry,Region 5,18.93%
+Tennessee,Robertson,Region 5,18.93%
+Tennessee,Rutherford,Region 5,18.93%
+Tennessee,Stewart,Region 5,18.93%
+Tennessee,Sumner,Region 5,18.93%
+Tennessee,Trousdale,Region 5,18.93%
+Tennessee,Wayne,Region 5,18.93%
+Tennessee,Williamson,Region 5,18.93%
+Tennessee,Wilson,Region 5,18.93%
+Tennessee,Benton,Region 6,18.76%
+Tennessee,Carroll,Region 6,18.76%
+Tennessee,Chester,Region 6,18.76%
+Tennessee,Crockett,Region 6,18.76%
+Tennessee,Decatur,Region 6,18.76%
+Tennessee,Dyer,Region 6,18.76%
+Tennessee,Fayette,Region 6,18.76%
+Tennessee,Gibson,Region 6,18.76%
+Tennessee,Hardeman,Region 6,18.76%
+Tennessee,Hardin,Region 6,18.76%
+Tennessee,Haywood,Region 6,18.76%
+Tennessee,Henderson,Region 6,18.76%
+Tennessee,Henry,Region 6,18.76%
+Tennessee,Lake,Region 6,18.76%
+Tennessee,Lauderdale,Region 6,18.76%
+Tennessee,Madison,Region 6,18.76%
+Tennessee,McNairy,Region 6,18.76%
+Tennessee,Obion,Region 6,18.76%
+Tennessee,Tipton,Region 6,18.76%
+Tennessee,Weakley,Region 6,18.76%
+Tennessee,Shelby,Region 7 (Shelby),15.01%
+Texas,Armstrong,Region 1,18.28%
+Texas,Bailey,Region 1,18.28%
+Texas,Briscoe,Region 1,18.28%
+Texas,Carson,Region 1,18.28%
+Texas,Castro,Region 1,18.28%
+Texas,Childress,Region 1,18.28%
+Texas,Cochran,Region 1,18.28%
+Texas,Collingsworth,Region 1,18.28%
+Texas,Crosby,Region 1,18.28%
+Texas,Dallam,Region 1,18.28%
+Texas,Deaf Smith,Region 1,18.28%
+Texas,Dickens,Region 1,18.28%
+Texas,Donley,Region 1,18.28%
+Texas,Floyd,Region 1,18.28%
+Texas,Garza,Region 1,18.28%
+Texas,Gray,Region 1,18.28%
+Texas,Hale,Region 1,18.28%
+Texas,Hall,Region 1,18.28%
+Texas,Hansford,Region 1,18.28%
+Texas,Hartley,Region 1,18.28%
+Texas,Hemphill,Region 1,18.28%
+Texas,Hockley,Region 1,18.28%
+Texas,Hutchinson,Region 1,18.28%
+Texas,King,Region 1,18.28%
+Texas,Lamb,Region 1,18.28%
+Texas,Lubbock,Region 1,18.28%
+Texas,Lynn,Region 1,18.28%
+Texas,Moore,Region 1,18.28%
+Texas,Motley,Region 1,18.28%
+Texas,Ochiltree,Region 1,18.28%
+Texas,Oldham,Region 1,18.28%
+Texas,Parmer,Region 1,18.28%
+Texas,Potter,Region 1,18.28%
+Texas,Randall,Region 1,18.28%
+Texas,Roberts,Region 1,18.28%
+Texas,Sherman,Region 1,18.28%
+Texas,Swisher,Region 1,18.28%
+Texas,Terry,Region 1,18.28%
+Texas,Wheeler,Region 1,18.28%
+Texas,Yoakum,Region 1,18.28%
+Texas,Archer,Region 2,18.52%
+Texas,Baylor,Region 2,18.52%
+Texas,Brown,Region 2,18.52%
+Texas,Callahan,Region 2,18.52%
+Texas,Clay,Region 2,18.52%
+Texas,Coleman,Region 2,18.52%
+Texas,Comanche,Region 2,18.52%
+Texas,Cottle,Region 2,18.52%
+Texas,Eastland,Region 2,18.52%
+Texas,Fisher,Region 2,18.52%
+Texas,Foard,Region 2,18.52%
+Texas,Hardeman,Region 2,18.52%
+Texas,Haskell,Region 2,18.52%
+Texas,Jack,Region 2,18.52%
+Texas,Jones,Region 2,18.52%
+Texas,Kent,Region 2,18.52%
+Texas,Knox,Region 2,18.52%
+Texas,Mitchell,Region 2,18.52%
+Texas,Montague,Region 2,18.52%
+Texas,Nolan,Region 2,18.52%
+Texas,Runnels,Region 2,18.52%
+Texas,Scurry,Region 2,18.52%
+Texas,Shackelford,Region 2,18.52%
+Texas,Stephens,Region 2,18.52%
+Texas,Stonewall,Region 2,18.52%
+Texas,Taylor,Region 2,18.52%
+Texas,Throckmorton,Region 2,18.52%
+Texas,Wichita,Region 2,18.52%
+Texas,Wilbarger,Region 2,18.52%
+Texas,Young,Region 2,18.52%
+Texas,Collin,Region 3a,15.49%
+Texas,Dallas,Region 3a,15.49%
+Texas,Denton,Region 3a,15.49%
+Texas,Ellis,Region 3a,15.49%
+Texas,Hunt,Region 3a,15.49%
+Texas,Kaufman,Region 3a,15.49%
+Texas,Navarro,Region 3a,15.49%
+Texas,Rockwall,Region 3a,15.49%
+Texas,Cooke,Region 3bc,15.91%
+Texas,Erath,Region 3bc,15.91%
+Texas,Fannin,Region 3bc,15.91%
+Texas,Grayson,Region 3bc,15.91%
+Texas,Hood,Region 3bc,15.91%
+Texas,Johnson,Region 3bc,15.91%
+Texas,Palo Pinto,Region 3bc,15.91%
+Texas,Parker,Region 3bc,15.91%
+Texas,Somervell,Region 3bc,15.91%
+Texas,Tarrant,Region 3bc,15.91%
+Texas,Wise,Region 3bc,15.91%
+Texas,Anderson,Region 4,16.91%
+Texas,Bowie,Region 4,16.91%
+Texas,Camp,Region 4,16.91%
+Texas,Cass,Region 4,16.91%
+Texas,Cherokee,Region 4,16.91%
+Texas,Delta,Region 4,16.91%
+Texas,Franklin,Region 4,16.91%
+Texas,Gregg,Region 4,16.91%
+Texas,Harrison,Region 4,16.91%
+Texas,Henderson,Region 4,16.91%
+Texas,Hopkins,Region 4,16.91%
+Texas,Lamar,Region 4,16.91%
+Texas,Marion,Region 4,16.91%
+Texas,Morris,Region 4,16.91%
+Texas,Panola,Region 4,16.91%
+Texas,Rains,Region 4,16.91%
+Texas,Red River,Region 4,16.91%
+Texas,Rusk,Region 4,16.91%
+Texas,Smith,Region 4,16.91%
+Texas,Titus,Region 4,16.91%
+Texas,Upshur,Region 4,16.91%
+Texas,Van Zandt,Region 4,16.91%
+Texas,Wood,Region 4,16.91%
+Texas,Angelina,Region 5,16.94%
+Texas,Hardin,Region 5,16.94%
+Texas,Houston,Region 5,16.94%
+Texas,Jasper,Region 5,16.94%
+Texas,Jefferson,Region 5,16.94%
+Texas,Nacogdoches,Region 5,16.94%
+Texas,Newton,Region 5,16.94%
+Texas,Orange,Region 5,16.94%
+Texas,Polk,Region 5,16.94%
+Texas,Sabine,Region 5,16.94%
+Texas,San Augustine,Region 5,16.94%
+Texas,San Jacinto,Region 5,16.94%
+Texas,Shelby,Region 5,16.94%
+Texas,Trinity,Region 5,16.94%
+Texas,Tyler,Region 5,16.94%
+Texas,Austin,Region 6a,15.33%
+Texas,Chambers,Region 6a,15.33%
+Texas,Colorado,Region 6a,15.33%
+Texas,Fort Bend,Region 6a,15.33%
+Texas,Harris,Region 6a,15.33%
+Texas,Liberty,Region 6a,15.33%
+Texas,Montgomery,Region 6a,15.33%
+Texas,Walker,Region 6a,15.33%
+Texas,Waller,Region 6a,15.33%
+Texas,Wharton,Region 6a,15.33%
+Texas,Galveston,Region 6bc,16.03%
+Texas,Matagorda,Region 6bc,16.03%
+Texas,Bastrop,Region 7a,19.06%
+Texas,Blanco,Region 7a,19.06%
+Texas,Burnet,Region 7a,19.06%
+Texas,Caldwell,Region 7a,19.06%
+Texas,Fayette,Region 7a,19.06%
+Texas,Hays,Region 7a,19.06%
+Texas,Lee,Region 7a,19.06%
+Texas,Llano,Region 7a,19.06%
+Texas,Travis,Region 7a,19.06%
+Texas,Williamson,Region 7a,19.06%
+Texas,Bell,Region 7bcd,20.10%
+Texas,Bosque,Region 7bcd,20.10%
+Texas,Brazos,Region 7bcd,20.10%
+Texas,Burleson,Region 7bcd,20.10%
+Texas,Coryell,Region 7bcd,20.10%
+Texas,Falls,Region 7bcd,20.10%
+Texas,Freestone,Region 7bcd,20.10%
+Texas,Grimes,Region 7bcd,20.10%
+Texas,Hamilton,Region 7bcd,20.10%
+Texas,Hill,Region 7bcd,20.10%
+Texas,Lampasas,Region 7bcd,20.10%
+Texas,Leon,Region 7bcd,20.10%
+Texas,Limestone,Region 7bcd,20.10%
+Texas,Madison,Region 7bcd,20.10%
+Texas,McLennan,Region 7bcd,20.10%
+Texas,Milam,Region 7bcd,20.10%
+Texas,Mills,Region 7bcd,20.10%
+Texas,Robertson,Region 7bcd,20.10%
+Texas,San Saba,Region 7bcd,20.10%
+Texas,Washington,Region 7bcd,20.10%
+Texas,Atascosa,Region 8,16.83%
+Texas,Bandera,Region 8,16.83%
+Texas,Bexar,Region 8,16.83%
+Texas,Calhoun,Region 8,16.83%
+Texas,Comal,Region 8,16.83%
+Texas,DeWitt,Region 8,16.83%
+Texas,Dimmit,Region 8,16.83%
+Texas,Edwards,Region 8,16.83%
+Texas,Frio,Region 8,16.83%
+Texas,Gillespie,Region 8,16.83%
+Texas,Goliad,Region 8,16.83%
+Texas,Gonzales,Region 8,16.83%
+Texas,Guadalupe,Region 8,16.83%
+Texas,Jackson,Region 8,16.83%
+Texas,Karnes,Region 8,16.83%
+Texas,Kendall,Region 8,16.83%
+Texas,Kerr,Region 8,16.83%
+Texas,Kinney,Region 8,16.83%
+Texas,La Salle,Region 8,16.83%
+Texas,Lavaca,Region 8,16.83%
+Texas,Maverick,Region 8,16.83%
+Texas,Medina,Region 8,16.83%
+Texas,Real,Region 8,16.83%
+Texas,Uvalde,Region 8,16.83%
+Texas,Val Verde,Region 8,16.83%
+Texas,Victoria,Region 8,16.83%
+Texas,Wilson,Region 8,16.83%
+Texas,Zavala,Region 8,16.83%
+Texas,Andrews,Region 9,16.93%
+Texas,Borden,Region 9,16.93%
+Texas,Coke,Region 9,16.93%
+Texas,Concho,Region 9,16.93%
+Texas,Crane,Region 9,16.93%
+Texas,Crockett,Region 9,16.93%
+Texas,Dawson,Region 9,16.93%
+Texas,Ector,Region 9,16.93%
+Texas,Gaines,Region 9,16.93%
+Texas,Glasscock,Region 9,16.93%
+Texas,Howard,Region 9,16.93%
+Texas,Irion,Region 9,16.93%
+Texas,Kimble,Region 9,16.93%
+Texas,Loving,Region 9,16.93%
+Texas,Martin,Region 9,16.93%
+Texas,Mason,Region 9,16.93%
+Texas,McCulloch,Region 9,16.93%
+Texas,Menard,Region 9,16.93%
+Texas,Midland,Region 9,16.93%
+Texas,Pecos,Region 9,16.93%
+Texas,Reagan,Region 9,16.93%
+Texas,Reeves,Region 9,16.93%
+Texas,Schleicher,Region 9,16.93%
+Texas,Sterling,Region 9,16.93%
+Texas,Sutton,Region 9,16.93%
+Texas,Terrell,Region 9,16.93%
+Texas,Tom Green,Region 9,16.93%
+Texas,Upton,Region 9,16.93%
+Texas,Ward,Region 9,16.93%
+Texas,Winkler,Region 9,16.93%
+Texas,Brewster,Region 10,14.36%
+Texas,Culberson,Region 10,14.36%
+Texas,El Paso,Region 10,14.36%
+Texas,Hudspeth,Region 10,14.36%
+Texas,Jeff Davis,Region 10,14.36%
+Texas,Presidio,Region 10,14.36%
+Texas,Aransas,Region 11abd,14.09%
+Texas,Bee,Region 11abd,14.09%
+Texas,Brooks,Region 11abd,14.09%
+Texas,Cameron,Region 11abd,14.09%
+Texas,Duval,Region 11abd,14.09%
+Texas,Jim Hogg,Region 11abd,14.09%
+Texas,Jim Wells,Region 11abd,14.09%
+Texas,Kenedy,Region 11abd,14.09%
+Texas,Kleberg,Region 11abd,14.09%
+Texas,Live Oak,Region 11abd,14.09%
+Texas,McMullen,Region 11abd,14.09%
+Texas,Nueces,Region 11abd,14.09%
+Texas,Refugio,Region 11abd,14.09%
+Texas,San Patricio,Region 11abd,14.09%
+Texas,Starr,Region 11abd,14.09%
+Texas,Webb,Region 11abd,14.09%
+Texas,Willacy,Region 11abd,14.09%
+Texas,Zapata,Region 11abd,14.09%
+Texas,Hidalgo,Region 11c (Hidalgo),13.40%
+Utah,Box Elder,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Cache,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Rich,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Daggett,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Duchesne,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Uintah,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Summit,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Tooele,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Wasatch,"Bear River, Northeastern, Summit, Tooele, and Wasatch",22.71%
+Utah,Juab,"Central, Four Corners, and San Juan",22.93%
+Utah,Millard,"Central, Four Corners, and San Juan",22.93%
+Utah,Piute,"Central, Four Corners, and San Juan",22.93%
+Utah,Sanpete,"Central, Four Corners, and San Juan",22.93%
+Utah,Sevier,"Central, Four Corners, and San Juan",22.93%
+Utah,Wayne,"Central, Four Corners, and San Juan",22.93%
+Utah,Carbon,"Central, Four Corners, and San Juan",22.93%
+Utah,Emery,"Central, Four Corners, and San Juan",22.93%
+Utah,Grand,"Central, Four Corners, and San Juan",22.93%
+Utah,San Juan,"Central, Four Corners, and San Juan",22.93%
+Utah,Beaver,Southwest,23.37%
+Utah,Garfield,Southwest,23.37%
+Utah,Iron,Southwest,23.37%
+Utah,Kane,Southwest,23.37%
+Utah,Washington,Southwest,23.37%
+Utah,Davis,Davis County,23.34%
+Utah,Salt Lake,Salt Lake County,25.29%
+Utah,Utah,Utah County,25.82%
+Utah,Morgan,"Weber, Morgan",24.63%
+Utah,Weber,"Weber, Morgan",24.63%
+Vermont,Addison,Champlain Valley,21.29%
+Vermont,Chittenden,Champlain Valley,21.29%
+Vermont,Franklin,Champlain Valley,21.29%
+Vermont,Grand Isle,Champlain Valley,21.29%
+Vermont,Caledonia,Rural Northeast,21.11%
+Vermont,Essex,Rural Northeast,21.11%
+Vermont,Lamoille,Rural Northeast,21.11%
+Vermont,Orleans,Rural Northeast,21.11%
+Vermont,Washington,Rural Northeast,21.11%
+Vermont,Orange,Rural Southeast,19.80%
+Vermont,Windham,Rural Southeast,19.80%
+Vermont,Windsor,Rural Southeast,19.80%
+Vermont,Bennington,Rural Southwest,21.22%
+Vermont,Rutland,Rural Southwest,21.22%
+Virginia,Albemarle,Region 1,17.89%
+Virginia,Augusta,Region 1,17.89%
+Virginia,Bath,Region 1,17.89%
+Virginia,Buena Vista City,Region 1,17.89%
+Virginia,Caroline,Region 1,17.89%
+Virginia,Charlottesville City,Region 1,17.89%
+Virginia,Clarke,Region 1,17.89%
+Virginia,Culpeper,Region 1,17.89%
+Virginia,Fauquier,Region 1,17.89%
+Virginia,Fluvanna,Region 1,17.89%
+Virginia,Frederick,Region 1,17.89%
+Virginia,Fredericksburg City,Region 1,17.89%
+Virginia,Greene,Region 1,17.89%
+Virginia,Harrisonburg City,Region 1,17.89%
+Virginia,Highland,Region 1,17.89%
+Virginia,King George,Region 1,17.89%
+Virginia,Lexington City,Region 1,17.89%
+Virginia,Louisa,Region 1,17.89%
+Virginia,Madison,Region 1,17.89%
+Virginia,Nelson,Region 1,17.89%
+Virginia,Orange,Region 1,17.89%
+Virginia,Page,Region 1,17.89%
+Virginia,Rappahannock,Region 1,17.89%
+Virginia,Rockbridge,Region 1,17.89%
+Virginia,Rockingham,Region 1,17.89%
+Virginia,Shenandoah,Region 1,17.89%
+Virginia,Spotsylvania,Region 1,17.89%
+Virginia,Stafford,Region 1,17.89%
+Virginia,Staunton City,Region 1,17.89%
+Virginia,Warren,Region 1,17.89%
+Virginia,Waynesboro City,Region 1,17.89%
+Virginia,Winchester City,Region 1,17.89%
+Virginia,Alexandria City,Region 2,17.76%
+Virginia,Arlington,Region 2,17.76%
+Virginia,Fairfax,Region 2,17.76%
+Virginia,Fairfax City,Region 2,17.76%
+Virginia,Falls Church City,Region 2,17.76%
+Virginia,Loudoun,Region 2,17.76%
+Virginia,Manassas City,Region 2,17.76%
+Virginia,Manassas Park City,Region 2,17.76%
+Virginia,Prince William,Region 2,17.76%
+Virginia,Alleghany,Region 3,19.18%
+Virginia,Amherst,Region 3,19.18%
+Virginia,Appomattox,Region 3,19.18%
+Virginia,Bedford,Region 3,19.18%
+Virginia,Bedford City,Region 3,19.18%
+Virginia,Bland,Region 3,19.18%
+Virginia,Botetourt,Region 3,19.18%
+Virginia,Bristol City,Region 3,19.18%
+Virginia,Buchanan,Region 3,19.18%
+Virginia,Campbell,Region 3,19.18%
+Virginia,Carroll,Region 3,19.18%
+Virginia,Covington City,Region 3,19.18%
+Virginia,Craig,Region 3,19.18%
+Virginia,Danville City,Region 3,19.18%
+Virginia,Dickenson,Region 3,19.18%
+Virginia,Floyd,Region 3,19.18%
+Virginia,Franklin,Region 3,19.18%
+Virginia,Galax City,Region 3,19.18%
+Virginia,Giles,Region 3,19.18%
+Virginia,Grayson,Region 3,19.18%
+Virginia,Henry,Region 3,19.18%
+Virginia,Lee,Region 3,19.18%
+Virginia,Lynchburg City,Region 3,19.18%
+Virginia,Martinsville City,Region 3,19.18%
+Virginia,Montgomery,Region 3,19.18%
+Virginia,Norton City,Region 3,19.18%
+Virginia,Patrick,Region 3,19.18%
+Virginia,Pittsylvania,Region 3,19.18%
+Virginia,Pulaski,Region 3,19.18%
+Virginia,Radford City,Region 3,19.18%
+Virginia,Roanoke,Region 3,19.18%
+Virginia,Roanoke City,Region 3,19.18%
+Virginia,Russell,Region 3,19.18%
+Virginia,Salem City,Region 3,19.18%
+Virginia,Scott,Region 3,19.18%
+Virginia,Smyth,Region 3,19.18%
+Virginia,Tazewell,Region 3,19.18%
+Virginia,Washington,Region 3,19.18%
+Virginia,Wise,Region 3,19.18%
+Virginia,Wythe,Region 3,19.18%
+Virginia,Amelia,Region 4,18.03%
+Virginia,Brunswick,Region 4,18.03%
+Virginia,Buckingham,Region 4,18.03%
+Virginia,Charles City,Region 4,18.03%
+Virginia,Charlotte,Region 4,18.03%
+Virginia,Chesterfield,Region 4,18.03%
+Virginia,Colonial Heights City,Region 4,18.03%
+Virginia,Cumberland,Region 4,18.03%
+Virginia,Dinwiddie,Region 4,18.03%
+Virginia,Emporia City,Region 4,18.03%
+Virginia,Goochland,Region 4,18.03%
+Virginia,Greensville,Region 4,18.03%
+Virginia,Halifax,Region 4,18.03%
+Virginia,Hanover,Region 4,18.03%
+Virginia,Henrico,Region 4,18.03%
+Virginia,Hopewell City,Region 4,18.03%
+Virginia,Lunenburg,Region 4,18.03%
+Virginia,Mecklenburg,Region 4,18.03%
+Virginia,New Kent,Region 4,18.03%
+Virginia,Nottoway,Region 4,18.03%
+Virginia,Petersburg City,Region 4,18.03%
+Virginia,Powhatan,Region 4,18.03%
+Virginia,Prince Edward,Region 4,18.03%
+Virginia,Prince George,Region 4,18.03%
+Virginia,Richmond City,Region 4,18.03%
+Virginia,Surry,Region 4,18.03%
+Virginia,Sussex,Region 4,18.03%
+Virginia,Accomack,Region 5,19.17%
+Virginia,Chesapeake City,Region 5,19.17%
+Virginia,Essex,Region 5,19.17%
+Virginia,Franklin City,Region 5,19.17%
+Virginia,Gloucester,Region 5,19.17%
+Virginia,Hampton City,Region 5,19.17%
+Virginia,Isle of Wight,Region 5,19.17%
+Virginia,James City,Region 5,19.17%
+Virginia,King and Queen,Region 5,19.17%
+Virginia,King William,Region 5,19.17%
+Virginia,Lancaster,Region 5,19.17%
+Virginia,Mathews,Region 5,19.17%
+Virginia,Middlesex,Region 5,19.17%
+Virginia,Newport News City,Region 5,19.17%
+Virginia,Norfolk City,Region 5,19.17%
+Virginia,Northampton,Region 5,19.17%
+Virginia,Northumberland,Region 5,19.17%
+Virginia,Poquoson City,Region 5,19.17%
+Virginia,Portsmouth City,Region 5,19.17%
+Virginia,Richmond,Region 5,19.17%
+Virginia,Southampton,Region 5,19.17%
+Virginia,Suffolk City,Region 5,19.17%
+Virginia,Virginia Beach City,Region 5,19.17%
+Virginia,Westmoreland,Region 5,19.17%
+Virginia,Williamsburg City,Region 5,19.17%
+Virginia,York,Region 5,19.17%
+Washington,Asotin,Greater Columbia and North Central,22.65%
+Washington,Benton,Greater Columbia and North Central,22.65%
+Washington,Chelan,Greater Columbia and North Central,22.65%
+Washington,Columbia,Greater Columbia and North Central,22.65%
+Washington,Douglas,Greater Columbia and North Central,22.65%
+Washington,Franklin,Greater Columbia and North Central,22.65%
+Washington,Garfield,Greater Columbia and North Central,22.65%
+Washington,Grant,Greater Columbia and North Central,22.65%
+Washington,Kittitas,Greater Columbia and North Central,22.65%
+Washington,Klickitat,Greater Columbia and North Central,22.65%
+Washington,Walla Walla,Greater Columbia and North Central,22.65%
+Washington,Whitman,Greater Columbia and North Central,22.65%
+Washington,Yakima,Greater Columbia and North Central,22.65%
+Washington,Adams,Spokane,23.65%
+Washington,Ferry,Spokane,23.65%
+Washington,Lincoln,Spokane,23.65%
+Washington,Okanogan,Spokane,23.65%
+Washington,Pend Oreille,Spokane,23.65%
+Washington,Spokane,Spokane,23.65%
+Washington,Stevens,Spokane,23.65%
+Washington,King,King,21.75%
+Washington,Island,North Sound,22.00%
+Washington,San Juan,North Sound,22.00%
+Washington,Skagit,North Sound,22.00%
+Washington,Snohomish,North Sound,22.00%
+Washington,Whatcom,North Sound,22.00%
+Washington,Pierce,Pierce,22.18%
+Washington,Clallam,Salish,22.78%
+Washington,Jefferson,Salish,22.78%
+Washington,Kitsap,Salish,22.78%
+Washington,Clark,SW WA and Great Rivers,23.61%
+Washington,Cowlitz,SW WA and Great Rivers,23.61%
+Washington,Grays Harbor,SW WA and Great Rivers,23.61%
+Washington,Lewis,SW WA and Great Rivers,23.61%
+Washington,Pacific,SW WA and Great Rivers,23.61%
+Washington,Skamania,SW WA and Great Rivers,23.61%
+Washington,Wahkiakum,SW WA and Great Rivers,23.61%
+Washington,Mason,Thurston-Mason,21.66%
+Washington,Thurston,Thurston-Mason,21.66%
+West Virginia,Brooke,Region I,20.79%
+West Virginia,Hancock,Region I,20.79%
+West Virginia,Marshall,Region I,20.79%
+West Virginia,Ohio,Region I,20.79%
+West Virginia,Wetzel,Region I,20.79%
+West Virginia,Berkeley,Region II,22.04%
+West Virginia,Grant,Region II,22.04%
+West Virginia,Hampshire,Region II,22.04%
+West Virginia,Hardy,Region II,22.04%
+West Virginia,Jefferson,Region II,22.04%
+West Virginia,Mineral,Region II,22.04%
+West Virginia,Morgan,Region II,22.04%
+West Virginia,Pendleton,Region II,22.04%
+West Virginia,Calhoun,Region III,24.66%
+West Virginia,Jackson,Region III,24.66%
+West Virginia,Pleasants,Region III,24.66%
+West Virginia,Ritchie,Region III,24.66%
+West Virginia,Roane,Region III,24.66%
+West Virginia,Tyler,Region III,24.66%
+West Virginia,Wirt,Region III,24.66%
+West Virginia,Wood,Region III,24.66%
+West Virginia,Barbour,Region IV,24.83%
+West Virginia,Braxton,Region IV,24.83%
+West Virginia,Doddridge,Region IV,24.83%
+West Virginia,Gilmer,Region IV,24.83%
+West Virginia,Harrison,Region IV,24.83%
+West Virginia,Lewis,Region IV,24.83%
+West Virginia,Marion,Region IV,24.83%
+West Virginia,Monongalia,Region IV,24.83%
+West Virginia,Preston,Region IV,24.83%
+West Virginia,Randolph,Region IV,24.83%
+West Virginia,Taylor,Region IV,24.83%
+West Virginia,Tucker,Region IV,24.83%
+West Virginia,Upshur,Region IV,24.83%
+West Virginia,Boone,Region V,23.98%
+West Virginia,Cabell,Region V,23.98%
+West Virginia,Clay,Region V,23.98%
+West Virginia,Kanawha,Region V,23.98%
+West Virginia,Lincoln,Region V,23.98%
+West Virginia,Logan,Region V,23.98%
+West Virginia,Mason,Region V,23.98%
+West Virginia,Mingo,Region V,23.98%
+West Virginia,Putnam,Region V,23.98%
+West Virginia,Wayne,Region V,23.98%
+West Virginia,Fayette,Region VI,23.46%
+West Virginia,Greenbrier,Region VI,23.46%
+West Virginia,McDowell,Region VI,23.46%
+West Virginia,Mercer,Region VI,23.46%
+West Virginia,Monroe,Region VI,23.46%
+West Virginia,Nicholas,Region VI,23.46%
+West Virginia,Pocahontas,Region VI,23.46%
+West Virginia,Raleigh,Region VI,23.46%
+West Virginia,Summers,Region VI,23.46%
+West Virginia,Webster,Region VI,23.46%
+West Virginia,Wyoming,Region VI,23.46%
+Wisconsin,Milwaukee,Milwaukee,19.06%
+Wisconsin,Brown,Northeastern,17.25%
+Wisconsin,Calumet,Northeastern,17.25%
+Wisconsin,Door,Northeastern,17.25%
+Wisconsin,Fond du Lac,Northeastern,17.25%
+Wisconsin,Green Lake,Northeastern,17.25%
+Wisconsin,Kewaunee,Northeastern,17.25%
+Wisconsin,Manitowoc,Northeastern,17.25%
+Wisconsin,Marinette,Northeastern,17.25%
+Wisconsin,Marquette,Northeastern,17.25%
+Wisconsin,Menominee,Northeastern,17.25%
+Wisconsin,Oconto,Northeastern,17.25%
+Wisconsin,Outagamie,Northeastern,17.25%
+Wisconsin,Shawano,Northeastern,17.25%
+Wisconsin,Sheboygan,Northeastern,17.25%
+Wisconsin,Waupaca,Northeastern,17.25%
+Wisconsin,Waushara,Northeastern,17.25%
+Wisconsin,Winnebago,Northeastern,17.25%
+Wisconsin,Ashland,Northern,17.05%
+Wisconsin,Bayfield,Northern,17.05%
+Wisconsin,Florence,Northern,17.05%
+Wisconsin,Forest,Northern,17.05%
+Wisconsin,Iron,Northern,17.05%
+Wisconsin,Langlade,Northern,17.05%
+Wisconsin,Lincoln,Northern,17.05%
+Wisconsin,Marathon,Northern,17.05%
+Wisconsin,Oneida,Northern,17.05%
+Wisconsin,Portage,Northern,17.05%
+Wisconsin,Price,Northern,17.05%
+Wisconsin,Sawyer,Northern,17.05%
+Wisconsin,Taylor,Northern,17.05%
+Wisconsin,Vilas,Northern,17.05%
+Wisconsin,Wood,Northern,17.05%
+Wisconsin,Jefferson,Southeastern,17.86%
+Wisconsin,Kenosha,Southeastern,17.86%
+Wisconsin,Ozaukee,Southeastern,17.86%
+Wisconsin,Racine,Southeastern,17.86%
+Wisconsin,Walworth,Southeastern,17.86%
+Wisconsin,Washington,Southeastern,17.86%
+Wisconsin,Waukesha,Southeastern,17.86%
+Wisconsin,Adams,Southern,20.56%
+Wisconsin,Columbia,Southern,20.56%
+Wisconsin,Crawford,Southern,20.56%
+Wisconsin,Dane,Southern,20.56%
+Wisconsin,Dodge,Southern,20.56%
+Wisconsin,Grant,Southern,20.56%
+Wisconsin,Green,Southern,20.56%
+Wisconsin,Iowa,Southern,20.56%
+Wisconsin,Juneau,Southern,20.56%
+Wisconsin,Lafayette,Southern,20.56%
+Wisconsin,Richland,Southern,20.56%
+Wisconsin,Rock,Southern,20.56%
+Wisconsin,Sauk,Southern,20.56%
+Wisconsin,Vernon,Southern,20.56%
+Wisconsin,Barron,Western,18.08%
+Wisconsin,Buffalo,Western,18.08%
+Wisconsin,Burnett,Western,18.08%
+Wisconsin,Chippewa,Western,18.08%
+Wisconsin,Clark,Western,18.08%
+Wisconsin,Douglas,Western,18.08%
+Wisconsin,Dunn,Western,18.08%
+Wisconsin,Eau Claire,Western,18.08%
+Wisconsin,Jackson,Western,18.08%
+Wisconsin,La Crosse,Western,18.08%
+Wisconsin,Monroe,Western,18.08%
+Wisconsin,Pepin,Western,18.08%
+Wisconsin,Pierce,Western,18.08%
+Wisconsin,Polk,Western,18.08%
+Wisconsin,Rusk,Western,18.08%
+Wisconsin,ST CROIX,Western,18.08%
+Wisconsin,Trempealeau,Western,18.08%
+Wisconsin,Washburn,Western,18.08%
+Wyoming,Laramie,Judicial District 1 (Laramie),20.51%
+Wyoming,Albany,Judicial District 2,21.86%
+Wyoming,Carbon,Judicial District 2,21.86%
+Wyoming,Lincoln,Judicial District 3,20.76%
+Wyoming,Sweetwater,Judicial District 3,20.76%
+Wyoming,Uinta,Judicial District 3,20.76%
+Wyoming,Johnson,Judicial District 4,18.47%
+Wyoming,Sheridan,Judicial District 4,18.47%
+Wyoming,Big Horn,Judicial District 5,18.95%
+Wyoming,Hot Springs,Judicial District 5,18.95%
+Wyoming,Park,Judicial District 5,18.95%
+Wyoming,Washakie,Judicial District 5,18.95%
+Wyoming,Campbell,Judicial District 6,20.68%
+Wyoming,Crook,Judicial District 6,20.68%
+Wyoming,Weston,Judicial District 6,20.68%
+Wyoming,Natrona,Judicial District 7 (Natrona),19.74%
+Wyoming,Converse,Judicial District 8,18.49%
+Wyoming,Goshen,Judicial District 8,18.49%
+Wyoming,Niobrara,Judicial District 8,18.49%
+Wyoming,Platte,Judicial District 8,18.49%
+Wyoming,Fremont,Judicial District 9,19.16%
+Wyoming,Sublette,Judicial District 9,19.16%
+Wyoming,Teton,Judicial District 9,19.16%
+Texas,BRAZORIA,Region 6bc,16.03%
